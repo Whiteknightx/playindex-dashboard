@@ -201,8 +201,7 @@ footer a{color:var(--green-dim);text-decoration:none}
   <header>
     <div class="logo">PLAY<span>//</span>INDEX <span style="font-size:.55em;letter-spacing:.1em">DEMO DISCOVERY SYSTEM</span></div>
     <div class="hdr-right">
-      <span><span class="live-dot"></span>AUTO-REFRESH 20MIN</span>
-      <span id="clock">--:--:-- UTC</span>
+      <span id="clock"><span class="live-dot"></span>NEXT SCAN IN: --M --S</span>
     </div>
   </header>
 
@@ -268,12 +267,31 @@ let activeFilter = "all";
 let sortMode = "newest";
 let searchQ = "";
 
-// ── CLOCK ─────────────────────────────────────────────────────────────────────
+// ── CLOCK / SCAN COUNTDOWN ────────────────────────────────────────────────────
 function tick() {
   const n = new Date();
-  const pad = v => String(v).padStart(2,"0");
-  document.getElementById("clock").textContent =
-    `${pad(n.getUTCHours())}:${pad(n.getUTCMinutes())}:${pad(n.getUTCSeconds())} UTC`;
+  const currentMinutes = n.getUTCMinutes();
+  const currentSeconds = n.getUTCSeconds();
+  
+  const intervalSeconds = 20 * 60;
+  const secondsPastHour = currentMinutes * 60 + currentSeconds;
+  const elapsedSeconds = secondsPastHour % intervalSeconds;
+  
+  const clockEl = document.getElementById("clock");
+  if (!clockEl) return;
+  
+  if (elapsedSeconds < 90) {
+    clockEl.innerHTML = `<span class="live-dot" style="background:var(--amber);box-shadow:0 0 8px rgba(255,180,0,.6)"></span>SCAN RUNNING...`;
+    clockEl.style.color = "var(--amber)";
+  } else {
+    const diffSeconds = intervalSeconds - elapsedSeconds;
+    const mins = Math.floor(diffSeconds / 60);
+    const secs = diffSeconds % 60;
+    const pad = v => String(v).padStart(2, "0");
+    
+    clockEl.innerHTML = `<span class="live-dot"></span>NEXT SCAN IN: ${pad(mins)}M ${pad(secs)}S`;
+    clockEl.style.color = "var(--green-dim)";
+  }
 }
 setInterval(tick, 1000); tick();
 
