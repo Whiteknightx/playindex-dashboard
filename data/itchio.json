@@ -1,5 +1,515 @@
 [
   {
+    "id": "https://yaredalor.itch.io/pawn-king",
+    "source": "itchio",
+    "title": "Pawn-King and the quest for the stolen kingdom [Free] [Adventure] [Windows]",
+    "description": "",
+    "url": "https://yaredalor.itch.io/pawn-king",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2Nzg5LnBuZw==/315x250%23c/ojFyfG.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:23:51 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:35Z"
+  },
+  {
+    "id": "https://iaravsp.itch.io/the-woods-tale",
+    "source": "itchio",
+    "title": "The Wood's Tale [Free]",
+    "description": "",
+    "url": "https://iaravsp.itch.io/the-woods-tale",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2NzAwLmpwZWc=/315x250%23c/DmdvbX.jpeg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:38:28 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:33Z"
+  },
+  {
+    "id": "https://tonix7.itch.io/menu-rebellion-of-the-path",
+    "source": "itchio",
+    "title": "Menu Rebellion of the Path [Free]",
+    "description": "",
+    "url": "https://tonix7.itch.io/menu-rebellion-of-the-path",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2ODI3LnBuZw==/315x250%23c/HE%2BRha.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:39:58 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:30Z"
+  },
+  {
+    "id": "https://victorfs2.itch.io/rogue-knight",
+    "source": "itchio",
+    "title": "Rogue Knight [Free] [Action]",
+    "description": "",
+    "url": "https://victorfs2.itch.io/rogue-knight",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2OTAzLnBuZw==/315x250%23c/LKyvbg.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:42:14 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:27Z"
+  },
+  {
+    "id": "https://enzopj.itch.io/deepwaters",
+    "source": "itchio",
+    "title": "DeepWaters [Free] [Adventure]",
+    "description": "",
+    "url": "https://enzopj.itch.io/deepwaters",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2OTEyLnBuZw==/315x250%23c/LcEjyY.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:47:24 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:24Z"
+  },
+  {
+    "id": "https://its-brawny.itch.io/optimal-performance-early-2d-and-3d-integration",
+    "source": "itchio",
+    "title": "optimal performance early 2D and 3D integration [Free] [Windows]",
+    "description": "",
+    "url": "https://its-brawny.itch.io/optimal-performance-early-2d-and-3d-integration",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2NzI3LmpwZw==/315x250%23c/9gTaq%2B.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:25:41 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:22Z"
+  },
+  {
+    "id": "https://guessandknow.itch.io/raamattu",
+    "source": "itchio",
+    "title": "1 Raamattu [Free] [Card Game]",
+    "description": "Elämän alku, historian kulku",
+    "url": "https://guessandknow.itch.io/raamattu",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2NzM0LmpwZw==/315x250%23c/vwV36B.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:27:27 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:19Z"
+  },
+  {
+    "id": "https://guessandknow.itch.io/1-exodus",
+    "source": "itchio",
+    "title": "1 Exodus [Free] [Card Game]",
+    "description": "Saatko lähteä vai täytyykö sinun jäädä?",
+    "url": "https://guessandknow.itch.io/1-exodus",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2Nzc3LmpwZw==/315x250%23c/luxn5g.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:30:30 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:17Z"
+  },
+  {
+    "id": "https://guessandknow.itch.io/1-hyv-ja-paha",
+    "source": "itchio",
+    "title": "1 Hyvä ja paha [Free] [Card Game]",
+    "description": "Pidä hyvästä kiinni ja vältä pahaa",
+    "url": "https://guessandknow.itch.io/1-hyv-ja-paha",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2ODM2LmpwZw==/315x250%23c/g75ES2.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:39:15 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:14Z"
+  },
+  {
+    "id": "https://guessandknow.itch.io/1-ihmistenkalastajat",
+    "source": "itchio",
+    "title": "1 Ihmistenkalastajat [Free] [Card Game]",
+    "description": "Aktiiviset ihmistenkalastajat",
+    "url": "https://guessandknow.itch.io/1-ihmistenkalastajat",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2ODAxLmpwZw==/315x250%23c/5meUb7.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:35:18 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:12Z"
+  },
+  {
+    "id": "https://guessandknow.itch.io/1-jeriko",
+    "source": "itchio",
+    "title": "1 Jeriko [Free] [Card Game]",
+    "description": "Valtaa Jeriko",
+    "url": "https://guessandknow.itch.io/1-jeriko",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2ODc2LmpwZw==/315x250%23c/wAphaz.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:43:28 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:09Z"
+  },
+  {
+    "id": "https://guessandknow.itch.io/1-jumalan-sota-asu",
+    "source": "itchio",
+    "title": "1 Jumalan sota-asu [Free] [Card Game]",
+    "description": "Hanki itsellesi sota-asu",
+    "url": "https://guessandknow.itch.io/1-jumalan-sota-asu",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2OTY0LmpwZw==/315x250%23c/pjmRpc.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:52:27 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:07Z"
+  },
+  {
+    "id": "https://guessandknow.itch.io/1-malttia",
+    "source": "itchio",
+    "title": "1 Malttia [Free] [Card Game]",
+    "description": "Hitauden peli",
+    "url": "https://guessandknow.itch.io/1-malttia",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2OTM2LmpwZw==/315x250%23c/3yTJOJ.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:50:00 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:04Z"
+  },
+  {
+    "id": "https://guessandknow.itch.io/1-mooses",
+    "source": "itchio",
+    "title": "1 Mooses [Free] [Card Game]",
+    "description": "Oletko sinä Mooses?",
+    "url": "https://guessandknow.itch.io/1-mooses",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2OTA0LmpwZw==/315x250%23c/or9%2Br7.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:46:13 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:37:00Z"
+  },
+  {
+    "id": "https://ogustavosantana.itch.io/killer-bot",
+    "source": "itchio",
+    "title": "Killer Bot [Free]",
+    "description": "Rogue-Like Robótico",
+    "url": "https://ogustavosantana.itch.io/killer-bot",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2OTYxLmpwZWc=/315x250%23c/MTSvdH.jpeg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:52:26 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:57Z"
+  },
+  {
+    "id": "https://lordmungi.itch.io/warehouse",
+    "source": "itchio",
+    "title": "Light Freight Warehouse [Free] [Other] [Windows]",
+    "description": "3D tower-building arcade game",
+    "url": "https://lordmungi.itch.io/warehouse",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3MjIyLnBuZw==/315x250%23c/d6xjOS.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 00:45:04 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:55Z"
+  },
+  {
+    "id": "https://placeproductions.itch.io/inrigame",
+    "source": "itchio",
+    "title": "INRI [Free] [Visual Novel] [Windows]",
+    "description": "¿Realmente todo el que busca la redención la puede merecer?",
+    "url": "https://placeproductions.itch.io/inrigame",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2OTI4LmpwZw==/315x250%23c/pyfoi%2B.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:44:04 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:52Z"
+  },
+  {
+    "id": "https://stevebaez.itch.io/cathuman",
+    "source": "itchio",
+    "title": "cat+human [Free] [Simulation] [Windows] [macOS] [Linux] [Android]",
+    "description": "",
+    "url": "https://stevebaez.itch.io/cathuman",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3MDQxLnBuZw==/315x250%23c/th4cPT.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 03:03:41 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:50Z"
+  },
+  {
+    "id": "https://xsplice.itch.io/killdozer-demo",
+    "source": "itchio",
+    "title": "Killdozer Demo [Free] [Action] [Windows]",
+    "description": "",
+    "url": "https://xsplice.itch.io/killdozer-demo",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3MDUyLnBuZw==/315x250%23c/4OhqPP.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 03:03:41 GMT",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-19T04:36:47Z"
+  },
+  {
+    "id": "https://muskanlather.itch.io/pingpong",
+    "source": "itchio",
+    "title": "PingPong [Free]",
+    "description": "",
+    "url": "https://muskanlather.itch.io/pingpong",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2ODg2LnBuZw==/315x250%23c/R0auCo.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:41:37 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:44Z"
+  },
+  {
+    "id": "https://gitgudgaming.itch.io/shift-work-acid-reign",
+    "source": "itchio",
+    "title": "Shift-Work: Acid Reign [Free] [Action]",
+    "description": "Perspective Shift Bullet-time Metroidvania",
+    "url": "https://gitgudgaming.itch.io/shift-work-acid-reign",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3MTg5LnBuZw==/315x250%23c/3UE8RZ.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 03:09:48 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:42Z"
+  },
+  {
+    "id": "https://man-crf.itch.io/glorystarx-x-x",
+    "source": "itchio",
+    "title": "GloryStar [Free] [Shooter]",
+    "description": "Exhilarating shoot &#039;em up with mouse & touch support.",
+    "url": "https://man-crf.itch.io/glorystarx-x-x",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3MjUyLnBuZw==/315x250%23c/MXB0h4.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 03:12:30 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:39Z"
+  },
+  {
+    "id": "https://ferclima05.itch.io/headstars",
+    "source": "itchio",
+    "title": "HeadStars [Free] [Sports]",
+    "description": "",
+    "url": "https://ferclima05.itch.io/headstars",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3MTkwLnBuZw==/315x250%23c/SAYwBp.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 03:13:17 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:36Z"
+  },
+  {
+    "id": "https://christianmgo.itch.io/pixel-adventure-webgl",
+    "source": "itchio",
+    "title": "Pixel Adventure WebGL [Free] [Platformer]",
+    "description": "",
+    "url": "https://christianmgo.itch.io/pixel-adventure-webgl",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2NTM1LnBuZw==/315x250%23c/wW6EA2.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 01:21:47 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:33Z"
+  },
+  {
+    "id": "https://evildoc.itch.io/hospital-monster-game",
+    "source": "itchio",
+    "title": "Hospital Monster Game [Free] [Survival] [Windows]",
+    "description": "",
+    "url": "https://evildoc.itch.io/hospital-monster-game",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3MzYxLnBuZw==/315x250%23c/kHQU6g.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 03:32:31 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:31Z"
+  },
+  {
+    "id": "https://hd-production.itch.io/tactical-shooter",
+    "source": "itchio",
+    "title": "Tactical Shooter [35% Off] [$58.49] [Shooter] [Windows]",
+    "description": "",
+    "url": "https://hd-production.itch.io/tactical-shooter",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ2ODIyLmpwZw==/315x250%23c/B%2B9Kq5.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 02:39:42 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:27Z"
+  },
+  {
+    "id": "https://safetydad.itch.io/dead-die-alpha",
+    "source": "itchio",
+    "title": "Dead Men Don't Die [Free] [Puzzle]",
+    "description": "Learn the dice to save your life (read description for controls)",
+    "url": "https://safetydad.itch.io/dead-die-alpha",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3MzU3LnBuZw==/315x250%23c/Qh8sPV.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 03:42:02 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:24Z"
+  },
+  {
+    "id": "https://yowzabee.itch.io/bees-awesome-2-in-1",
+    "source": "itchio",
+    "title": "Bee's Awesome 2 in 1 [Free] [Adventure]",
+    "description": "",
+    "url": "https://yowzabee.itch.io/bees-awesome-2-in-1",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3NTI2LnBuZw==/315x250%23c/ndBK6D.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 03:25:48 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:22Z"
+  },
+  {
+    "id": "https://ran-rann02.itch.io/electric-drive",
+    "source": "itchio",
+    "title": "Electric Drive [Free]",
+    "description": "",
+    "url": "https://ran-rann02.itch.io/electric-drive",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3NjM0LnBuZw==/315x250%23c/lQFsxR.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 04:13:09 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:19Z"
+  },
+  {
+    "id": "https://stuw98.itch.io/potpdumbwaystodie-edition",
+    "source": "itchio",
+    "title": "Pixels of the Past: Dumb Ways to Die Edition [Free] [Platformer]",
+    "description": "Jump into Australia’s Gaming Legacy and Collect Fun Facts",
+    "url": "https://stuw98.itch.io/potpdumbwaystodie-edition",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3NjA5LnBuZw==/315x250%23c/0XBw97.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 03:47:29 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:17Z"
+  },
+  {
+    "id": "https://blackfoam.itch.io/helion-v",
+    "source": "itchio",
+    "title": "Helion - V [Free] [Other]",
+    "description": "",
+    "url": "https://blackfoam.itch.io/helion-v",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ1NzMyLmdpZg==/original/F8swou.gif",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 00:34:29 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:14Z"
+  },
+  {
+    "id": "https://louisalau.itch.io/yin-and-yang",
+    "source": "itchio",
+    "title": "阴阳传- YIN AND YANG [Free] [Adventure] [Windows] [macOS]",
+    "description": "",
+    "url": "https://louisalau.itch.io/yin-and-yang",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3Nzg2LnBuZw==/315x250%23c/2brxWG.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 04:10:00 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:12Z"
+  },
+  {
+    "id": "https://avowiz.itch.io/the-jumgler-vs",
+    "source": "itchio",
+    "title": "The Jumgler: Abstract Garden Drafting [Vertical Slice]] [Free] [Card Game] [Windows]",
+    "description": "Build synergistic Gardens in this streamlined deckbuilder",
+    "url": "https://avowiz.itch.io/the-jumgler-vs",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3NDAwLnBuZw==/315x250%23c/mq3sST.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 18 May 2026 02:24:55 GMT",
+    "classification": "🟣 PROTOTYPE WORTH WATCHING",
+    "indexed_at": "2026-05-19T04:36:09Z"
+  },
+  {
+    "id": "https://bakhtiart.itch.io/math-adventure-kids-game",
+    "source": "itchio",
+    "title": "Math_Adventure_Kids_GAME [$3.99] [Educational] [Windows] [Android]",
+    "description": "Asah kemahiran matematik asas dengan cabaran yang menarik.",
+    "url": "https://bakhtiart.itch.io/math-adventure-kids-game",
+    "image": "https://img.itch.zone/aW1nLzI3MzQ3NzAxLnBuZw==/315x250%23c/6cg03W.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 19 May 2026 03:41:24 GMT",
+    "classification": "⚪ ARCHIVED",
+    "indexed_at": "2026-05-19T04:36:06Z"
+  },
+  {
     "id": "https://abian-santana-aleman.itch.io/colors",
     "source": "itchio",
     "title": "Colors [Free] [Other] [Windows]",
