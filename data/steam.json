@@ -1,5 +1,436 @@
 [
   {
+    "id": "4700870",
+    "source": "steam",
+    "title": "7 DEADLY DEMONS Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4700870/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4700870/1117136d54edc018d6aee07aaad01d390e2c7cc4/header.jpg?t=1779899895",
+    "tags": [],
+    "developer": "yo mee games",
+    "release_date": "May 27, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:52:25Z"
+  },
+  {
+    "id": "4694840",
+    "source": "steam",
+    "title": "Outpour Demo",
+    "description": "Outpour is a puzzle game where you redirect flowing water across dreamy cathedral rooftops. Manipulate your surroundings to guide a dynamic water system, traverse high places, and restore harmony to sacred structures.",
+    "url": "https://store.steampowered.com/app/4694840/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4694840/79235ae2de681f7a1b1e701bc0596467c22fc51a/header.jpg?t=1779989041",
+    "tags": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "developer": "Andrew Leal",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:52:22Z"
+  },
+  {
+    "id": "4596400",
+    "source": "steam",
+    "title": "Stellar Fantasy World Demo",
+    "description": "When alien threats descend upon the planet, you embark on a grand adventure. Born from a massive stone, you know nothing of this world. During your open-world exploration, every corner of the land hides mysteries and pleasant surprises.",
+    "url": "https://store.steampowered.com/app/4596400/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596400/63fb220dfd91881db285c1c05e3a80b376a05721/header.jpg?t=1779981023",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "developer": "SHI ZHENG DUO",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:52:17Z"
+  },
+  {
+    "id": "4691560",
+    "source": "steam",
+    "title": "Polly's Puzzle Box Demo",
+    "description": "As a small flea, explore a mysterious puzzle box filled with shapes and secrets. Gather strange items with hidden abilities, and unravel a trail of clues as you attempt to escape.",
+    "url": "https://store.steampowered.com/app/4691560/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4691560/542741891527238a2b8e9712905ab943ee802bc6/header.jpg?t=1779978990",
+    "tags": [
+      "Adventure",
+      "Indie"
+    ],
+    "developer": "Box Penguin Games",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:52:09Z"
+  },
+  {
+    "id": "4738710",
+    "source": "steam",
+    "title": "KUBIKA Demo",
+    "description": "Guide adorable cubes through Kubika's free demo, a cozy 3D puzzle game inspired by Sokoban. Explore the first world, solve ~20 gravity-shifting levels, enjoy cute sounds and gentle music, then wishlist the full game for more worlds and features.",
+    "url": "https://store.steampowered.com/app/4738710/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738710/c5e0154ebd78386510917577096789cc4c9eb896/header.jpg?t=1779979036",
+    "tags": [
+      "Adventure",
+      "Casual"
+    ],
+    "developer": "KubiCorp",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:52:06Z"
+  },
+  {
+    "id": "4569500",
+    "source": "steam",
+    "title": "Moonlit Dreams Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4569500/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4569500/a0d4b3efceea5081840abad03b5087ee8df7ab60/header.jpg?t=1779979622",
+    "tags": [],
+    "developer": "Santum",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:52:02Z"
+  },
+  {
+    "id": "4585570",
+    "source": "steam",
+    "title": "角落之人 Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4585570/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4585570/1857eb220c62e0ec0384eeabe44da888e8755d6f/header.jpg?t=1779980006",
+    "tags": [],
+    "developer": "江流",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:59Z"
+  },
+  {
+    "id": "4656950",
+    "source": "steam",
+    "title": "Attack of the Astrals Demo",
+    "description": "Turn-based strategy roguelike where every battle is a tactical puzzle. Each move of your champion trio unleashes an attack and swaps tiles with other units. Combine skills, spells and summons to defeat a cosmic army that grows stronger as you do.",
+    "url": "https://store.steampowered.com/app/4656950/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656950/ad7dc41e93f6fbc3187bb5690576a0042b1f4a72/header.jpg?t=1779980417",
+    "tags": [
+      "Strategy"
+    ],
+    "developer": "Hewer's Workshop",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:56Z"
+  },
+  {
+    "id": "4696360",
+    "source": "steam",
+    "title": "Second Monitor Football Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4696360/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696360/b80751054b34a95f221af04147b67463d13e1c56/header.jpg?t=1779980428",
+    "tags": [],
+    "developer": "Tramvay Games",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:53Z"
+  },
+  {
+    "id": "4539960",
+    "source": "steam",
+    "title": "Timebound Demo",
+    "description": "An exploration puzzle adventure in mystical ruins. Explore a world filled with puzzles, uncover the magic left behind, discover what's hidden in plain sight, learn the rules and break them.",
+    "url": "https://store.steampowered.com/app/4539960/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539960/5b387f840f8442f1508c4aeac7e9b461d3cc4cc1/header.jpg?t=1779980574",
+    "tags": [
+      "Adventure",
+      "Indie"
+    ],
+    "developer": "Michal Kluz, Patrycja Sagan, Fabien Calabria",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:51Z"
+  },
+  {
+    "id": "4078130",
+    "source": "steam",
+    "title": "Static Dread: The Submarine Demo",
+    "description": "Descend into Lovecraftian horror aboard a claustrophobic military submarine. Assign tasks as a captain’s right hand, analyze sonar signals, make hard decisions, and keep the crew from madness. Dark horrors lurk both within… and beyond the hull.",
+    "url": "https://store.steampowered.com/app/4078130/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078130/6bfb6aac84631683127ad8d3d5b4012de7ca2d20/header.jpg?t=1779980508",
+    "tags": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "developer": " solarsuit.games",
+    "release_date": "May 28, 2026",
+    "classification": "🔴 PSYCHOLOGICAL HAZARD",
+    "indexed_at": "2026-05-28T17:51:47Z"
+  },
+  {
+    "id": "4530130",
+    "source": "steam",
+    "title": "Last Pirates: Die Together Demo",
+    "description": "An online co-op extraction horror experience for up to 4 players. Use your elastic arms to grab valuable loot for your captain. But be careful, danger lurks around every corner trying to take your booty!",
+    "url": "https://store.steampowered.com/app/4530130/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530130/9f7b1cdd737dd864471522bbec3f443352571d92/header.jpg?t=1779988685",
+    "tags": [
+      "Action"
+    ],
+    "developer": "RetroStyleGames",
+    "release_date": "May 28, 2026",
+    "classification": "🟠 CORRUPTED",
+    "indexed_at": "2026-05-28T17:51:41Z"
+  },
+  {
+    "id": "4334740",
+    "source": "steam",
+    "title": "Prophet Margin Demo",
+    "description": "Build thriving settlements. Weave intricate trade routes. Optimize complex supply chains to earn divine boons. Master a meditative City Builder where board-game logic meets deep Resource Management. A relaxing, 'real-time with pause' strategy puzzle where every decision is yours to undo.",
+    "url": "https://store.steampowered.com/app/4334740/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4334740/7d5319db24b2e7051e67a5c7eec139a50fe6d4c1/header.jpg?t=1779980830",
+    "tags": [
+      "Indie",
+      "Strategy"
+    ],
+    "developer": "Stellar Cartography Interactive UG",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:39Z"
+  },
+  {
+    "id": "4737860",
+    "source": "steam",
+    "title": "DITTORI Demo",
+    "description": "Deep beneath the world, an ancient god stirs. Master the forbidden power of DITTORI, discover its secrets, and use it to bend reality to your will. Herald the end of all things.",
+    "url": "https://store.steampowered.com/app/4737860/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4737860/3f89edb1e4ea026b7b5722b1279e51d63015c865/header.jpg?t=1779983127",
+    "tags": [
+      "Adventure",
+      "Indie"
+    ],
+    "developer": "Blookerstein",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:36Z"
+  },
+  {
+    "id": "4725710",
+    "source": "steam",
+    "title": "Physician Simulator Demo",
+    "description": "A Papers, Please-style medical bureaucracy sim. You're a fresh graduate assigned to a small-town clinic. Diagnose patients, spot fake referrals, refuse pushy pensioners. Every decision shapes your reputation. Five days, twenty-five lessons in saying &quot;no&quot;.",
+    "url": "https://store.steampowered.com/app/4725710/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4725710/474579584b87419445758c55cfe7f3abce88b7a3/header.jpg?t=1779982669",
+    "tags": [
+      "Simulation"
+    ],
+    "developer": "Pavel Shishkin",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:32Z"
+  },
+  {
+    "id": "4643050",
+    "source": "steam",
+    "title": "Cherry on Top Demo",
+    "description": "Chaos, coins, and cake! The free demo for Cherry on Top!",
+    "url": "https://store.steampowered.com/app/4643050/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4643050/348a7c69600c56e506d2d650a9eb08335aa7c7a2/header.jpg?t=1779983174",
+    "tags": [],
+    "developer": "BitBatter",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:30Z"
+  },
+  {
+    "id": "4734080",
+    "source": "steam",
+    "title": "Gunshot Arcade Demo",
+    "description": "Gunshot Arcade combines the action of a classic arcade shoot 'em up with the meta-progression of a roguelike. Buy some weapons, upgrade your gear and survive as long as you can. Unlock much stronger guns from wave to wave and increase your reward, good luck.",
+    "url": "https://store.steampowered.com/app/4734080/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4734080/c1b673c0cb3c650c3c773fd75e329d875bae40c5/header.jpg?t=1779983486",
+    "tags": [
+      "Action",
+      "Indie"
+    ],
+    "developer": "Mythic Anvil",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:22Z"
+  },
+  {
+    "id": "4461930",
+    "source": "steam",
+    "title": "Undockable Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4461930/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4461930/fa11741cdf2957fba3cccdb9b9f7a53b3fa1ddb1/header.jpg?t=1779983596",
+    "tags": [],
+    "developer": "NyxArc Games",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:18Z"
+  },
+  {
+    "id": "4697520",
+    "source": "steam",
+    "title": "Rogue Maze Demo",
+    "description": "Tower defense is reinvented in this maze-defense roguelike! Design devious labyrinths fit to exhaust the unfortunate souls that enter by using special tiles that act as both your &quot;towers&quot; and pathway. Deploy gadgets, distractions, and tools to stay a step ahead!",
+    "url": "https://store.steampowered.com/app/4697520/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697520/0a1304339799e31305cc36ca12cb46ee8fbcc45b/header.jpg?t=1779983937",
+    "tags": [
+      "Strategy"
+    ],
+    "developer": "Bionic Wombat Games",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:16Z"
+  },
+  {
+    "id": "4691320",
+    "source": "steam",
+    "title": "Shutterspeed Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4691320/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4691320/203f49c21742f2d907431b48293beeb4c59a9d2d/header.jpg?t=1779984000",
+    "tags": [],
+    "developer": "Overtaker Games",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:13Z"
+  },
+  {
+    "id": "4584430",
+    "source": "steam",
+    "title": "Good Catch! Demo",
+    "description": "Good Catch! is a relaxing fishing game about cozy fishing spots, rare catches, small quests and friendly characters you unlock along the way.",
+    "url": "https://store.steampowered.com/app/4584430/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4584430/d51fe0c6eb52d24c03f2aa2986022db931ac6866/header.jpg?t=1779984712",
+    "tags": [
+      "Casual",
+      "RPG",
+      "Simulation"
+    ],
+    "developer": "MISK Games",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:10Z"
+  },
+  {
+    "id": "4751060",
+    "source": "steam",
+    "title": "Thousands of Chroma Demo",
+    "description": "A layered logic puzzle game, where thousands of colors come to life using only □(0) and ■(1).",
+    "url": "https://store.steampowered.com/app/4751060/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4751060/35929d2665d807dbf8903cc4ec79c93e8bfdd006/header.jpg?t=1779985311",
+    "tags": [
+      "Casual",
+      "Indie"
+    ],
+    "developer": "SADAYAMA Studio",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:05Z"
+  },
+  {
+    "id": "4693560",
+    "source": "steam",
+    "title": "Split Brain Samsara Demo",
+    "description": "You and your friend are locked in the same body! In this co-op adventure, learn to control the same character, venture into your spiritual realm, and unravel the machinations of the Samsara megastructure! Communication will be key!",
+    "url": "https://store.steampowered.com/app/4693560/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693560/e50aa4e8bbe598a9f5b8d9c8890dbf4ddbb5e078/header.jpg?t=1779986088",
+    "tags": [
+      "Adventure",
+      "Indie"
+    ],
+    "developer": "Kusa Games",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:51:01Z"
+  },
+  {
+    "id": "4661680",
+    "source": "steam",
+    "title": "Ignitement Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4661680/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661680/837425926cf5f27dc6ee2fa541c11d026c3a2a10/header.jpg?t=1779987348",
+    "tags": [],
+    "developer": "Sørb",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:50:58Z"
+  },
+  {
+    "id": "4715830",
+    "source": "steam",
+    "title": "Aether-07 Demo",
+    "description": "Aether-07 is a space-bending, first person puzzle game set in a retro-futuristic sci-fi universe. Solve challenges with dual-purpose puzzle elements while uncovering the mystery plaguing the Aether mission.",
+    "url": "https://store.steampowered.com/app/4715830/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715830/268478dd66f2d46b032e9380d6e481f786f2ef93/header.jpg?t=1779987540",
+    "tags": [
+      "Adventure",
+      "Indie"
+    ],
+    "developer": "SideLine Studio",
+    "release_date": "May 28, 2026",
+    "classification": "🟠 CORRUPTED",
+    "indexed_at": "2026-05-28T17:50:55Z"
+  },
+  {
+    "id": "4697260",
+    "source": "steam",
+    "title": "Guitar Practice Mate Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4697260/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697260/0e9feb31fd2d0252fb0ce3b8a0c5500f3d05b94a/header.jpg?t=1779987613",
+    "tags": [],
+    "developer": "secret.crunch.pepper",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:50:51Z"
+  },
+  {
+    "id": "4769470",
+    "source": "steam",
+    "title": "Widle Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4769470/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4769470/342ab81c8c85182ec20839605290b17bd77a361d/header.jpg?t=1779988507",
+    "tags": [],
+    "developer": "GreyLight Labs",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:50:49Z"
+  },
+  {
+    "id": "4725900",
+    "source": "steam",
+    "title": "Eyes And Hypercubes Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4725900/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4725900/58b95084221b9bbb54b9790614fbc1be5e9d7422/header.jpg?t=1779988555",
+    "tags": [],
+    "developer": "gvzer",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:50:46Z"
+  },
+  {
+    "id": "4756360",
+    "source": "steam",
+    "title": "Vampy's Big Day Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4756360/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4756360/92f3210578df549e0c1122de3a24f68b897361f4/header.jpg?t=1779989504",
+    "tags": [],
+    "developer": "Jerbob",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-28T17:50:44Z"
+  },
+  {
     "id": "4295110",
     "source": "steam",
     "title": "Ribbit Jump Demo",
@@ -6890,450 +7321,5 @@
     "release_date": "May 19, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-05-19T11:33:46Z"
-  },
-  {
-    "id": "4635310",
-    "source": "steam",
-    "title": "Quadrix Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4635310/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4635310/be8a8b373cb189b1353da5dc7cd5859e314b86e2/header.jpg?t=1779177018",
-    "tags": [],
-    "developer": "VC Production",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T08:04:33Z"
-  },
-  {
-    "id": "4286970",
-    "source": "steam",
-    "title": "界墨山河 (INK Mountains And Rivers) Demo",
-    "description": "《INK Mountains And Rivers》is a casual ink style idle collection and cultivation game, with themes taken from worldviews similar to Shanhai and Honghuang. It is a mountain and river world full of exotic beasts. Here, you can collect various exotic beasts, cultivate them to become stronger.",
-    "url": "https://store.steampowered.com/app/4286970/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4286970/cb3186f7c6bbcec5b5141ec53f5c74325b923b1b/header.jpg?t=1779169753",
-    "tags": [
-      "Casual",
-      "Indie",
-      "RPG",
-      "Simulation"
-    ],
-    "developer": "牙羽哩, 牙羽哩",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T08:04:31Z"
-  },
-  {
-    "id": "4486400",
-    "source": "steam",
-    "title": "The Swashbugglers Demo",
-    "description": "A cartoon-style 2D roguelike autochess focused on tactical strategy. Recruit insect &quot;heroes&quot; from the forest to form a team. Develop their skills, equipment, and stone inscriptions through battles to defeat the source of chaos within the time limit.",
-    "url": "https://store.steampowered.com/app/4486400/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486400/a73f36e6787226698304f2ea379e6c30245fadc1/header.jpg?t=1779171773",
-    "tags": [
-      "Adventure",
-      "Indie",
-      "Strategy"
-    ],
-    "developer": "Asmodeus Game",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T08:04:25Z"
-  },
-  {
-    "id": "4639840",
-    "source": "steam",
-    "title": "Tartaria: Frozen Frontier Demo",
-    "description": "Lead your clan, build settlements, and survive enemy raids in a turn-based strategy set in the harsh northern lands.",
-    "url": "https://store.steampowered.com/app/4639840/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639840/dd627a47b09e723ac6860b240d648b6f936711c2/header.jpg?t=1779174717",
-    "tags": [
-      "Strategy"
-    ],
-    "developer": "Rubedo Games",
-    "release_date": "May 19, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T08:04:20Z"
-  },
-  {
-    "id": "4666230",
-    "source": "steam",
-    "title": "XX Fulfillment Center Demo",
-    "description": "You've been hired as a Part-Time Contract Packaging Worker at the fulfillment center.Can you find your own happiness amid the speeding conveyor belts and ever-growing list of rules?",
-    "url": "https://store.steampowered.com/app/4666230/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4666230/587123c595576e0bac7ff009d9151f052e18166d/header.jpg?t=1779152435",
-    "tags": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "Simulation"
-    ],
-    "developer": "TwinChariot",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T04:35:49Z"
-  },
-  {
-    "id": "4738780",
-    "source": "steam",
-    "title": "Watch Out: Shark! Demo",
-    "description": "2D pixel art arcade survival. Brave the ocean's dangers, face the shark, and chase the high score!",
-    "url": "https://store.steampowered.com/app/4738780/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738780/0ef2226249724f800481500b16b164c811959acd/header.jpg?t=1779153461",
-    "tags": [],
-    "developer": "Blue Monkey",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T04:35:44Z"
-  },
-  {
-    "id": "4520820",
-    "source": "steam",
-    "title": "極书院演义 Demo",
-    "description": "A power struggle grips the Polar Academy. As student Yin Tian begins his 2½-year studies, the Emperor and Prince Yan scour the school for talents to use in their conflict. In this elite ..",
-    "url": "https://store.steampowered.com/app/4520820/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520820/d0c42d57969d32c7f86ff7e4b02e98e97afe41be/header.jpg?t=1779155131",
-    "tags": [
-      "Adventure",
-      "Casual",
-      "RPG"
-    ],
-    "developer": "X vision无限社",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T04:35:42Z"
-  },
-  {
-    "id": "4603360",
-    "source": "steam",
-    "title": "One Dumb Wizard Demo",
-    "description": "One Dumb Wizard is an action roguelike where you play as a wizard hell-bent on getting their money back from the Bartender. Find charms to power up your wand, parts to craft new wands, and strategically sling spells in your singular mission to GET YOUR MONEY BACK.",
-    "url": "https://store.steampowered.com/app/4603360/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603360/6fa1ca4e22be64dc2d8fe24117a9db52146d99ce/header.jpg?t=1779156483",
-    "tags": [
-      "Action",
-      "RPG"
-    ],
-    "developer": "Mixel",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T04:35:37Z"
-  },
-  {
-    "id": "3535390",
-    "source": "steam",
-    "title": "Mination Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/3535390/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3535390/header.jpg?t=1779163837",
-    "tags": [
-      "Action",
-      "Casual",
-      "Indie"
-    ],
-    "developer": "Sheikh Aquib Mahmood",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T04:35:34Z"
-  },
-  {
-    "id": "4573300",
-    "source": "steam",
-    "title": "Godborne: Ashes of Ramessu Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4573300/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4573300/125744d44cfc44dc1c000e1e005dc4fa7df3e4b9/header.jpg?t=1779163325",
-    "tags": [],
-    "developer": "Ridgeyboi Studios",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T04:35:28Z"
-  },
-  {
-    "id": "4732650",
-    "source": "steam",
-    "title": "Dice Have No Eyes Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4732650/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732650/d240b340a90e3f56afa4c0a7a53c0187a8c65509/header.jpg?t=1779164143",
-    "tags": [],
-    "developer": "Franek, Max Cahill",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T04:35:25Z"
-  },
-  {
-    "id": "4464440",
-    "source": "steam",
-    "title": "Don't Mind the Robots Demo",
-    "description": "Outsmart the robots in this strategic tower defense game. Build deadly mazes, upgrade your towers, and unlock powerful perks. Every decision matters as you adapt your defenses against increasingly stronger waves of AI-infested opponents.",
-    "url": "https://store.steampowered.com/app/4464440/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464440/62bac429c0d7aa34e07d2a2bbf9361f6748c18e2/header.jpg?t=1779147117",
-    "tags": [
-      "Strategy"
-    ],
-    "developer": "2bitleft",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T00:00:57Z"
-  },
-  {
-    "id": "4655450",
-    "source": "steam",
-    "title": "One Last Hand Demo",
-    "description": "Poker meets Battle Royale in One Last Hand, a 2-6 players chaotic party game where poker gets deadly! Forget fair play: attack your rivals with powerful hands, fight for better cards in secret auctions, and bend the rules with powerful relics in thrilling online multiplayer matches.",
-    "url": "https://store.steampowered.com/app/4655450/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655450/e413c83d2557d4a83fcbda9ba0a8514514550b32/header.jpg?t=1779147296",
-    "tags": [
-      "Casual",
-      "Indie",
-      "Strategy"
-    ],
-    "developer": "Fire Brick Games",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T00:00:55Z"
-  },
-  {
-    "id": "4695370",
-    "source": "steam",
-    "title": "ENDLESS SAMURAI Demo",
-    "description": "One Strike. Total Tension. A Japanese parry-driven roguelite that blends turn-based depth with fast-paced action. Master the parry. Control the battle.",
-    "url": "https://store.steampowered.com/app/4695370/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4695370/7dd57c3e494d5fe21bbc2ce420cd0abafd70dde8/header.jpg?t=1779148580",
-    "tags": [],
-    "developer": "Montblanc Hatch",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T00:00:48Z"
-  },
-  {
-    "id": "4126310",
-    "source": "steam",
-    "title": "The Adventures of Elliot: The Millennium Tales Prologue Demo",
-    "description": "Carry your save data over to the full version of the game in this new prologue demo! Enjoy the opening chapter of the story with the same freedom of adventure as in the full game. Progress in the main quest, explore the unknown, or hunt down new weapons and magicite—the future is up to you.",
-    "url": "https://store.steampowered.com/app/4126310/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126310/32c78d82d7452f9faee7f98977a1b82178524ac2/header.jpg?t=1779148826",
-    "tags": [],
-    "developer": "Square Enix, Claytechworks",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-19T00:00:45Z"
-  },
-  {
-    "id": "4275530",
-    "source": "steam",
-    "title": "Black Mountain of Tlaltecuhtli  Demo",
-    "description": "Cinematic Third‑Person Action horror game Climb sheer rock faces, leap across collapsing ruins, and engage in tight, cover‑based firefights against hostile factions who are just as desperate and just as trapped as you. While trying to escape something so evil and primal, civilization ending.",
-    "url": "https://store.steampowered.com/app/4275530/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4275530/4e386b7556670bde4036dbddaebe5b82d0259c39/header.jpg?t=1779138535",
-    "tags": [
-      "Action",
-      "Adventure"
-    ],
-    "developer": "3DAW",
-    "release_date": "May 18, 2026",
-    "classification": "🟠 CORRUPTED",
-    "indexed_at": "2026-05-18T21:41:17Z"
-  },
-  {
-    "id": "4729590",
-    "source": "steam",
-    "title": "Allrest Inn Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4729590/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729590/5b0c129e08f1474150aa3d6363180ca07980c036/header.jpg?t=1779129810",
-    "tags": [],
-    "developer": "Jaffle Studios",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-18T20:18:03Z"
-  },
-  {
-    "id": "4670610",
-    "source": "steam",
-    "title": "The Long Wake: What Remains Observed Demo",
-    "description": "The town is empty. The nightmare isn’t. A third-person 3D survival horror game with roguelike elements and knowledge-based mechanics. Explore a deserted town trapped in a relentless loop, where each attempt reveals new paths, tools, and truths, escape before time runs out.",
-    "url": "https://store.steampowered.com/app/4670610/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4670610/f97e8cb805fc2d28d0c2c742e3d37178107dac9a/header.jpg?t=1779130812",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Simulation"
-    ],
-    "developer": "Spaceboy",
-    "release_date": "May 18, 2026",
-    "classification": "🔴 PSYCHOLOGICAL HAZARD",
-    "indexed_at": "2026-05-18T20:18:01Z"
-  },
-  {
-    "id": "4657940",
-    "source": "steam",
-    "title": "Lured In Demo",
-    "description": "Run your own cozy aquarium! Travel to different places to catch all types of fish. Bring them back for idle profits, or sell them for instant cash. Unlock research for new upgrades, and ascend for powerful bonuses. Customize your character and tanks, and make your aquarium your own!",
-    "url": "https://store.steampowered.com/app/4657940/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657940/65ff2de41237c9d93153c54fedf6dcb06a170a7b/header.jpg?t=1779131311",
-    "tags": [
-      "Casual",
-      "Indie",
-      "Simulation"
-    ],
-    "developer": "Big Boy Games",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-18T20:17:56Z"
-  },
-  {
-    "id": "4658970",
-    "source": "steam",
-    "title": "PERSEPHONE Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4658970/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4658970/e564e1cb406d525362189727a5e96bc07a96e7d0/header.jpg?t=1779134152",
-    "tags": [],
-    "developer": "Kyvati Studios",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-18T20:17:51Z"
-  },
-  {
-    "id": "4034710",
-    "source": "steam",
-    "title": "Minesweeper Sonar Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4034710/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4034710/1994349dd56a74466b76566e1c353f35af1ed415/header.jpg?t=1779034513",
-    "tags": [],
-    "developer": "lines in orbit studio",
-    "release_date": "May 17, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-18T18:29:22Z"
-  },
-  {
-    "id": "4702640",
-    "source": "steam",
-    "title": "Just Prices Demo",
-    "description": "A sign-language based point-and-click adventure sci-fi game",
-    "url": "https://store.steampowered.com/app/4702640/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4702640/14c32ee48eaaa1f3c69a980f327820922ba4d3a2/header.jpg?t=1779047230",
-    "tags": [
-      "Adventure",
-      "Indie",
-      "RPG"
-    ],
-    "developer": "UmeboshiLover",
-    "release_date": "May 17, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-18T18:29:19Z"
-  },
-  {
-    "id": "4696970",
-    "source": "steam",
-    "title": "Galactic Speed Legends Demo",
-    "description": "Compete at full speed in high-stakes sci-fi races. A fast-paced arcade racer where precision timing is everything. Maintain your momentum and push your limits.",
-    "url": "https://store.steampowered.com/app/4696970/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696970/179dd4eee5e57bce5d0ba8fed197897eb6a3d994/header.jpg?t=1779123567",
-    "tags": [
-      "Racing"
-    ],
-    "developer": "ocasocreations",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-18T18:29:15Z"
-  },
-  {
-    "id": "4714740",
-    "source": "steam",
-    "title": "Edge of Water Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4714740/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4714740/a9561184efaeba361d93998b9d9e824e2f8aaf96/header.jpg?t=1779123385",
-    "tags": [],
-    "developer": "BigMood",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-18T18:29:12Z"
-  },
-  {
-    "id": "3861690",
-    "source": "steam",
-    "title": "Don't Get Fired! Demo",
-    "description": "The company is going under and corporate has made YOU the office manager. Turn things around quick or everyone's doomed. Run the office, keep employees productive, and avoid disasters. Muscle through the workday or automate the grind. Play solo or with friends — just Don't Get Fired!",
-    "url": "https://store.steampowered.com/app/3861690/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861690/7ee03328380436395b1ecb47decd15ae7e61eb15/header.jpg?t=1779123505",
-    "tags": [
-      "Action",
-      "Casual",
-      "Indie",
-      "Simulation",
-      "Strategy"
-    ],
-    "developer": "Sync Up Studios",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-18T18:29:09Z"
-  },
-  {
-    "id": "3641260",
-    "source": "steam",
-    "title": "Magnavis Demo",
-    "description": "Magnavis is a first-person 3D horror game for 1–4 player co-op. Pilot your submarine through tight caves without crashing, complete assigned missions, repair damaged systems, and whatever you do, don’t die.",
-    "url": "https://store.steampowered.com/app/3641260/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3641260/90d734ccc978fce22578fda283fe2c9bd2fd6b95/header.jpg?t=1779125480",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "developer": "Vorles Games ",
-    "release_date": "May 18, 2026",
-    "classification": "🟠 CORRUPTED",
-    "indexed_at": "2026-05-18T18:29:02Z"
-  },
-  {
-    "id": "4375970",
-    "source": "steam",
-    "title": "Grey Wake Demo",
-    "description": "In an intimate narrative-driven exploration game, wake up on a forgotten island between life and death equipped with only a compass, a telescope, and a weathered sailboat. Chart the haunted archipelago, relive faded memories, and uncover the truth about what, and who, you came here to find.",
-    "url": "https://store.steampowered.com/app/4375970/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375970/1515d3b5657f7b8fab5d710620c8f63e964c1bdd/header.jpg?t=1779123597",
-    "tags": [
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "developer": "Second Fiddle Studio",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-18T18:28:58Z"
-  },
-  {
-    "id": "4704540",
-    "source": "steam",
-    "title": "Ami's Pearl Dive Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4704540/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704540/d4bdf18e84e2db13fcd3bfa8640bbd3404efef0f/header.jpg?t=1779123624",
-    "tags": [],
-    "developer": "Soepkip Studio",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-18T18:28:53Z"
-  },
-  {
-    "id": "4395530",
-    "source": "steam",
-    "title": "Traveler Stories: Journeys of Real People Demo",
-    "description": "&quot;Is this really the life you want?&quot; A visual novel with simple life-sim elements, based on 80% true stories from world travelers. Step behind the bar in Tokyo, encounter extraordinary lives, and challenge your values. A simulation to rediscover yourself and open the door to a &quot;new you.&quot;",
-    "url": "https://store.steampowered.com/app/4395530/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395530/c1b2d506c40fb0a203ac76d31a6680c5375fa0f8/header.jpg?t=1779123710",
-    "tags": [
-      "Casual",
-      "Indie",
-      "Simulation"
-    ],
-    "developer": "Karin Bell",
-    "release_date": "May 18, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-18T18:28:51Z"
   }
 ]
