@@ -1,5 +1,115 @@
 [
   {
+    "id": "4283620",
+    "source": "steam",
+    "title": "Clicker Ore Demo",
+    "description": "Descend into the depths of the earth, survive against rising heat, discover unique pickaxes, battle dungeon bosses, and become the master of the depths. The game will launch as Free to Play.",
+    "url": "https://store.steampowered.com/app/4283620/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4283620/7a280bb9a06816fcdbf60c377d092257e7c07175/header.jpg?t=1780059375",
+    "tags": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "developer": "Tiny Depth Studio",
+    "release_date": "May 29, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T14:08:42Z"
+  },
+  {
+    "id": "4747020",
+    "source": "steam",
+    "title": "Center Of The Galaxy: Desktop Idle Demo",
+    "description": "An idle pixel-art space game. Your ship travels toward the center of the galaxy on its own asteroids get in the way. Break them, upgrade your ship, unlock new ones. Reach the center, and the next universe begins harder than the last.",
+    "url": "https://store.steampowered.com/app/4747020/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747020/6e3c78c9276a5bcfee12238a5f553ab625e6df1a/header.jpg?t=1780144761",
+    "tags": [
+      "Casual",
+      "Indie"
+    ],
+    "developer": "zFhresh",
+    "release_date": "May 30, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T14:08:36Z"
+  },
+  {
+    "id": "4367540",
+    "source": "steam",
+    "title": "DAMex : Dark Matter Exodus Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4367540/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367540/e70804d59afc17d02e1a9d5fdaa0b2294e24c81f/header.jpg?t=1780147106",
+    "tags": [],
+    "developer": "Benoit Locu",
+    "release_date": "May 30, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T14:08:33Z"
+  },
+  {
+    "id": "4751900",
+    "source": "steam",
+    "title": "Harvest Looper Demo",
+    "description": "Harvest plants, unlock upgrades, and expand your farming loop through skill trees, perks, and powerful harvesters. Collect fragments, complete Hidden Book sets, and optimize your incremental growth.",
+    "url": "https://store.steampowered.com/app/4751900/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4751900/af1031d480263a86ff381271c91546cb7ed993c7/header.jpg?t=1780149625",
+    "tags": [
+      "Casual"
+    ],
+    "developer": "Unbelievable Games",
+    "release_date": "May 30, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T14:08:30Z"
+  },
+  {
+    "id": "4765320",
+    "source": "steam",
+    "title": "Cubic Haikus: Hikikomori Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4765320/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765320/ac355d3cbb77d197da6e3a8e27f2d1be741a2c03/header.jpg?t=1780147259",
+    "tags": [],
+    "developer": "JOOKITOOZ",
+    "release_date": "May 30, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T14:08:28Z"
+  },
+  {
+    "id": "3929780",
+    "source": "steam",
+    "title": "Bio Doll Demo",
+    "description": "Miyuki awakens in a frozen cryo chamber to find the space facility in chaos—blood-smeared walls, blaring alarms, and undead roaming the halls. Alone, she must survive, solve puzzles, and uncover the truth behind a vanished experiment. In this nightmare, every choice matters.",
+    "url": "https://store.steampowered.com/app/3929780/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929780/f065b2f98edc2cf4e334142f8a3104fcd274a025/header.jpg?t=1780147644",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "developer": "Game Never Sleep",
+    "release_date": "May 30, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T14:08:25Z"
+  },
+  {
+    "id": "4741190",
+    "source": "steam",
+    "title": "Seven Seas Jewels 2 Collector's Edition Demo",
+    "description": "Set sail into danger, mystery, and dark magic in the Seven Seas Jewels 2 Demo! Play the opening chapter with 16 handcrafted match-3 levels and around 30-40 minutes of gameplay as Polly begins her journey across stormy seas to break Narissa’s curse.",
+    "url": "https://store.steampowered.com/app/4741190/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4741190/ee1ed60bb2a2719e085d48628f6bca693f13c737/header.jpg?t=1780150048",
+    "tags": [
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "developer": "Anawiki Games",
+    "release_date": "Coming soon",
+    "classification": "🟠 CORRUPTED",
+    "indexed_at": "2026-05-30T14:08:19Z"
+  },
+  {
     "id": "4310210",
     "source": "steam",
     "title": "SLUGMOUTH Demo",
@@ -7209,107 +7319,5 @@
     "release_date": "May 21, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-05-22T04:39:13Z"
-  },
-  {
-    "id": "4474200",
-    "source": "steam",
-    "title": "长生立志传 Demo",
-    "description": "Welcome to the demo of Eternal Life: A Cultivation Saga.The game is currently still in development, with a playable demo expected to be released soon.",
-    "url": "https://store.steampowered.com/app/4474200/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4474200/75985f9983205b13157ba9cb92d6505f1a295cb2/header.jpg?t=1779414561",
-    "tags": [],
-    "developer": "雄赳赳制作组",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T04:39:10Z"
-  },
-  {
-    "id": "4642940",
-    "source": "steam",
-    "title": "Fish to Cats Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4642940/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642940/222b658e6c9052fdefd53f20fa8ef50835e0dffb/header.jpg?t=1779420672",
-    "tags": [
-      "Casual",
-      "Indie",
-      "RPG"
-    ],
-    "developer": "Kygua Tech",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T04:39:07Z"
-  },
-  {
-    "id": "4728780",
-    "source": "steam",
-    "title": "Escape the Grind Demo",
-    "description": "Free demo. Can you retire before 65? A financial life sim across 10 real economies with real salaries, real housing, real decisions. Easy mode unlocked here. Medium, Hard, and Play Your Life mode in the full game.",
-    "url": "https://store.steampowered.com/app/4728780/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4728780/d325ecf2f726f673739e278225959eb43826c9ec/header.jpg?t=1779417908",
-    "tags": [
-      "Casual",
-      "Indie",
-      "Simulation",
-      "Strategy"
-    ],
-    "developer": "SetForMoney Studios",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T04:39:03Z"
-  },
-  {
-    "id": "4730220",
-    "source": "steam",
-    "title": "Assassin and Sister Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4730220/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730220/b8d129b6e2a3f728b2fbe49126acdd479306f6dc/header.jpg?t=1779419561",
-    "tags": [],
-    "developer": "ASOBI",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T04:38:56Z"
-  },
-  {
-    "id": "4736760",
-    "source": "steam",
-    "title": "Beam it up, Blorp! Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4736760/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736760/90f306801a6199bf8ed793d7deafcf2a23fd8084/header.jpg?t=1779420915",
-    "tags": [],
-    "developer": "Rattish Games",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T04:38:53Z"
-  },
-  {
-    "id": "4691840",
-    "source": "steam",
-    "title": "Tiny Slime Farm Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4691840/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4691840/c09c57b47d16cf9cea7504f890eacda47ecf1156/header.jpg?t=1779422607",
-    "tags": [],
-    "developer": "Chocolate Soft",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T04:38:51Z"
-  },
-  {
-    "id": "4698800",
-    "source": "steam",
-    "title": "Slime in the Ice Machine Demo",
-    "description": "All truly great bars are concretely connected through psychotropic liquid doorways. Solve surreal puzzles and acquire esoteric skills as you bar crawl through history, metaphysics, and vice.",
-    "url": "https://store.steampowered.com/app/4698800/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698800/b21baa869cbeb6c33175bcef186cc63b29a5e072/header.jpg?t=1779424458",
-    "tags": [
-      "Adventure"
-    ],
-    "developer": "Aconite",
-    "release_date": "May 21, 2026",
-    "classification": "🟣 PROTOTYPE WORTH WATCHING",
-    "indexed_at": "2026-05-22T04:38:48Z"
   }
 ]
