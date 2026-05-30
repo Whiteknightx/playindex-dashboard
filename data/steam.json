@@ -1,5 +1,35 @@
 [
   {
+    "id": "4774150",
+    "source": "steam",
+    "title": "Organize my Shop Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4774150/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774150/fb88eb9d66f20d7f5185b6e7d8b59dab1e19110c/header.jpg?t=1780170321",
+    "tags": [],
+    "developer": "Owl's Howls",
+    "release_date": "May 30, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T20:18:13Z"
+  },
+  {
+    "id": "4610900",
+    "source": "steam",
+    "title": "Bubble Shooter but In Space and Incremental Demo",
+    "description": "A short, satisfying incremental game about flying through space, popping bubbles, and harvesting Bubble Matter. Build combos, land skillshots for massive multipliers, and spend your loot in a sprawling upgrade shop.",
+    "url": "https://store.steampowered.com/app/4610900/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610900/155ca25156035930258c781b8e28b299ea50bee7/header.jpg?t=1780171253",
+    "tags": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "developer": "Zoomy Cat Games",
+    "release_date": "May 30, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T20:18:10Z"
+  },
+  {
     "id": "4492980",
     "source": "steam",
     "title": "Visual Novel Nodal Editor Demo",
@@ -7288,31 +7318,5 @@
     "release_date": "May 22, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-05-22T13:40:00Z"
-  },
-  {
-    "id": "4748710",
-    "source": "steam",
-    "title": "5 Blocks of Happiness Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4748710/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4748710/787055268aaa14214d5d5e4633d71fdc7f350d76/header.jpg?t=1779457049",
-    "tags": [],
-    "developer": "Relis Studio",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T13:39:57Z"
-  },
-  {
-    "id": "4614190",
-    "source": "steam",
-    "title": "Conjoined Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4614190/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4614190/f700eff68867a68dc77f180c8bc6d5772ef0c48c/header.jpg?t=1779439266",
-    "tags": [],
-    "developer": "CogChomp",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T11:20:07Z"
   }
 ]
