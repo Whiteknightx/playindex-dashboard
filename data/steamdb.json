@@ -1,5 +1,52 @@
 [
   {
+    "id": "steam-search-4717400",
+    "source": "steamdb",
+    "title": "Otpisani: Nightingale Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4717400/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4717400/f7e0b5cf1bf141ef1e47d7bf60c1ff3dd5beee4e/header.jpg?t=1780155759",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Pr0py",
+    "release_date": "May 30, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T16:41:47Z"
+  },
+  {
+    "id": "steam-search-4719990",
+    "source": "steamdb",
+    "title": "DICEPATH Demo",
+    "description": "DicePath is a puzzle game where every move costs Action Points. Plan your route, collect dice to stay alive, and reach the exit before you run out. 50 handcrafted levels. One resource. No margin for error.",
+    "url": "https://store.steampowered.com/app/4719990/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4719990/a205182cd3d2cbecbf386c198c7e122158e0ac48/header.jpg?t=1780159057",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Liam Armonia",
+    "release_date": "May 30, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T16:41:44Z"
+  },
+  {
+    "id": "steam-search-4755320",
+    "source": "steamdb",
+    "title": "Upmadillo Demo",
+    "description": "You are an armadillo. You need to go up. Make precise jumps, master the physics, and reach the top without falling. That's it. Good luck.",
+    "url": "https://store.steampowered.com/app/4755320/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755320/2cf94160dc08a3834ed1929cf83490f7564f28c9/header.jpg?t=1780157990",
+    "tags": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "developer": "nik4dev",
+    "release_date": "May 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T16:41:42Z"
+  },
+  {
     "id": "steam-search-4751640",
     "source": "steamdb",
     "title": "The Twisted Zone Demo",
@@ -7805,52 +7852,5 @@
     "release_date": "May 21, 2026",
     "classification": "🔴 PSYCHOLOGICAL HAZARD",
     "indexed_at": "2026-05-22T00:19:21Z"
-  },
-  {
-    "id": "steam-search-4483190",
-    "source": "steamdb",
-    "title": "SURI: The Seventh Note Demo",
-    "description": "A rhythm-action platformer where every move syncs to the music. Dash, jump, and escape through a mystical world shaped by rhythm to save your mother’s life. Rhythm was the life of the island of Suri, who will step up when its harmony is broken?",
-    "url": "https://store.steampowered.com/app/4483190/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4483190/9884a57a01ad18be910e7c75674cf0db2c779af3/header.jpg?t=1779408422",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "developer": "Tathvamasi Studios",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T00:19:19Z"
-  },
-  {
-    "id": "steam-search-4752600",
-    "source": "steamdb",
-    "title": "Cornerfall Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4752600/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4752600/62d1d3c44bee9ca98244692551fc3b41558b7fa5/header.jpg?t=1779408979",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Wisparro",
-    "release_date": "Coming soon",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T00:19:14Z"
-  },
-  {
-    "id": "steam-search-4752400",
-    "source": "steamdb",
-    "title": "SIGNAL PIT Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4752400/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4752400/a4cbd6b373f18f3a3460991210d8cf50de751a99/header.jpg?t=1779401302",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Chooon",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-21T23:19:18Z"
   }
 ]
