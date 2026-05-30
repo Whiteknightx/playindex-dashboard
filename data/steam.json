@@ -1,5 +1,48 @@
 [
   {
+    "id": "4605880",
+    "source": "steam",
+    "title": "Summer Delusion: The Girl Only I Can See Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4605880/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4605880/b5f4fe3219aa40bae7c66057af39f37c05702f19/header.jpg?t=1780039197",
+    "tags": [],
+    "developer": "幻想叙事工作室",
+    "release_date": "May 29, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T09:32:01Z"
+  },
+  {
+    "id": "4238380",
+    "source": "steam",
+    "title": "Craft. Sell. Goblin. Repeat. Demo",
+    "description": "Build and manage your own goblin shop. Craft unique weapons with minigames and negotiate their price! Hire workers to help you run the business! Become the richest merchant in the kingdom!",
+    "url": "https://store.steampowered.com/app/4238380/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4238380/47db61a24fbc9dbee33fefad5f35bb75e8d204e0/header.jpg?t=1780126617",
+    "tags": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "developer": "Adrià Raventós",
+    "release_date": "May 30, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T09:31:58Z"
+  },
+  {
+    "id": "4768430",
+    "source": "steam",
+    "title": "Void Commander: Armada Demo",
+    "description": "Void Commander: Armada Demo is a fast-paced tactical space combat experience where you command fleets, unlock powerful ships, and battle against the relentless Roa'Khar Swarm.This demo includes:Fleet deployment and tactical battlesMultiple playable shipsUpgrade and unlock systemsEarly campaign progressionNew UI, balance changes, and...",
+    "url": "https://store.steampowered.com/app/4768430/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4768430/c99402d1134cf90617181ef7dd1b03c8a8873974/header.jpg?t=1780132866",
+    "tags": [],
+    "developer": " LordStarFish",
+    "release_date": "May 30, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T09:31:52Z"
+  },
+  {
     "id": "4758010",
     "source": "steam",
     "title": "Trebuchet Simulator Demo",
@@ -7274,48 +7317,5 @@
     "release_date": "May 21, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-05-21T22:04:54Z"
-  },
-  {
-    "id": "4698180",
-    "source": "steam",
-    "title": "LIMBY Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4698180/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698180/98ca48575d74e0fc446ee1f39ac9be6a10be71b6/header.jpg?t=1779399917",
-    "tags": [],
-    "developer": "Puddle Dog Studios",
-    "release_date": "May 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-21T22:04:50Z"
-  },
-  {
-    "id": "4751310",
-    "source": "steam",
-    "title": "Colorace Demo",
-    "description": "It will be an extraordinary ride! Drive your car through walls made of colored blocks, collect useful power-ups and overcome obstacles on the way.",
-    "url": "https://store.steampowered.com/app/4751310/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4751310/aa4adb908d2cb8fcb988069a14574d9216e610ab/header.jpg?t=1779389679",
-    "tags": [
-      "Indie",
-      "Racing",
-      "Strategy"
-    ],
-    "developer": "Fenigem",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-21T20:25:37Z"
-  },
-  {
-    "id": "4713210",
-    "source": "steam",
-    "title": "Lost Vessel Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4713210/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4713210/f49fe1df867b11d84f4f972d20fece2a3d7d6021/header.jpg?t=1779390684",
-    "tags": [],
-    "developer": "Lazy Frog Games",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-21T20:25:32Z"
   }
 ]
