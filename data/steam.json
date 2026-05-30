@@ -1,5 +1,138 @@
 [
   {
+    "id": "4758010",
+    "source": "steam",
+    "title": "Trebuchet Simulator Demo",
+    "description": "Physics simulator where you control a Trebuchet to launch rocks at castles. Adjust arm length, projectile mass, pivot height, release angle and base angle to maximize damage.",
+    "url": "https://store.steampowered.com/app/4758010/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4758010/f0b40a34ad8c300525261869cf1bb28eaff52d8b/header.jpg?t=1780030077",
+    "tags": [
+      "Simulation",
+      "Strategy"
+    ],
+    "developer": "Urban Isotope",
+    "release_date": "May 28, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T07:30:50Z"
+  },
+  {
+    "id": "4127460",
+    "source": "steam",
+    "title": "天空之塔 Demo",
+    "description": "“Tower of the Sky” is a roguelike RPG where every run is a new challenge. Join the ritual ascent, recruit unique allies, and fight through ever-changing floors. Discover hidden secrets behind the three families and the tower that reshapes fate itself.",
+    "url": "https://store.steampowered.com/app/4127460/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4127460/834905885cb957240af9ce563d53c8125b51aa07/header.jpg?t=1780116586",
+    "tags": [
+      "Adventure",
+      "Casual",
+      "RPG"
+    ],
+    "developer": "懶爪遊戲",
+    "release_date": "May 29, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T07:30:46Z"
+  },
+  {
+    "id": "4593720",
+    "source": "steam",
+    "title": "Mahjong Kawuxing Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4593720/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593720/f4f2c1ec2ff8bc796d72c3e606dd374c9458727b/header.jpg?t=1780120329",
+    "tags": [],
+    "developer": "klmfs",
+    "release_date": "May 29, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T07:30:40Z"
+  },
+  {
+    "id": "4751070",
+    "source": "steam",
+    "title": "Cultivation Idle Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4751070/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4751070/9801a7ebee458f94e5c46ca26c0ff60a616b3ddd/header.jpg?t=1780121414",
+    "tags": [],
+    "developer": "老鱼工作室",
+    "release_date": "May 29, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T07:30:38Z"
+  },
+  {
+    "id": "4779550",
+    "source": "steam",
+    "title": "Stip Demo",
+    "description": "Assign, undo, deduce! Solve a series of minimalist number puzzles. Use constraints to assign numbers to the correct stips. Navigate the interconnected puzzles to uncover secrets. Please ignore any odd Stip behavior.",
+    "url": "https://store.steampowered.com/app/4779550/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779550/8f538bfc1856a2ea51a7fcf5adb6b595ca28952b/header.jpg?t=1780122099",
+    "tags": [
+      "Indie"
+    ],
+    "developer": "Sixtyfour",
+    "release_date": "May 29, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T07:30:35Z"
+  },
+  {
+    "id": "4761000",
+    "source": "steam",
+    "title": "SCROLLBOUND Demo",
+    "description": "Simple 3-key controls with fast-paced survival combat.Defend an ancient scroll against endless waves of enemies approaching from both sides in this fast-paced roguelite survival defense game. Master powerful skills, adapt your builds, and survive for as long as possible.",
+    "url": "https://store.steampowered.com/app/4761000/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761000/f9785356c112bd4783c0b4d64b78dcca5537a70d/header.jpg?t=1780122829",
+    "tags": [],
+    "developer": "NoxCat Games",
+    "release_date": "May 29, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T07:30:32Z"
+  },
+  {
+    "id": "4552000",
+    "source": "steam",
+    "title": "Dawn of Horror Demo",
+    "description": "Dawn of Horror is a high-intensity Action Horror FPS set in the decaying urban sprawl of Cygnus City. Following the collapse of civilization into a digital Dark Age, step into the role of Kage—a survivor seeking vengeance against hordes of Cyber-Zombies and bio-mechanical monstrosities.",
+    "url": "https://store.steampowered.com/app/4552000/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4552000/b13cf7492845eb2ebc29f47cc6dd39c6f54189cb/header.jpg?t=1780123543",
+    "tags": [],
+    "developer": "Ofir Aroya",
+    "release_date": "May 29, 2026",
+    "classification": "🔴 PSYCHOLOGICAL HAZARD",
+    "indexed_at": "2026-05-30T07:30:29Z"
+  },
+  {
+    "id": "4742420",
+    "source": "steam",
+    "title": " Ambered: Three Thousand Days & Nights DEMO",
+    "description": "This is a 2D visual novel featuring gang warfare. You play as Ikay Lu, a genius CFO, teaming up with Maple Ye, a ruthless mob boss, to navigate dangers and daily life in Xiji. With over 300 backgrounds and 100 CGs, uncover Yoo-chun Park’s sinister conspiracy and protect your most precious person.",
+    "url": "https://store.steampowered.com/app/4742420/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4742420/80441a3151e0765e9577c9e675fe938520a0d045/header.jpg?t=1780123546",
+    "tags": [
+      "Indie",
+      "RPG"
+    ],
+    "developer": "Pillow Fairy Studio",
+    "release_date": "Coming soon",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T07:30:26Z"
+  },
+  {
+    "id": "4738070",
+    "source": "steam",
+    "title": "Bad Range Demo",
+    "description": "Skewer them all! Control a spear‑wielding tank in this updated single‑screen arcade-like action game. Line up targets and pierce multiple enemies at once. Conquer each stage with a satisfying, steady challenge. 7 interwoven storylines gradually reveal the truth behind the unfolding incidents.",
+    "url": "https://store.steampowered.com/app/4738070/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738070/e5e016ff4f67be17af8de4ce1ec1c668fe6ceba5/header.jpg?t=1780124155",
+    "tags": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "developer": "Point Zero Ltd",
+    "release_date": "Coming soon",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-30T07:30:23Z"
+  },
+  {
     "id": "4709950",
     "source": "steam",
     "title": "Don Memo Demo",
@@ -7184,137 +7317,5 @@
     "release_date": "May 21, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-05-21T20:25:32Z"
-  },
-  {
-    "id": "4712610",
-    "source": "steam",
-    "title": "Animagi Demo",
-    "description": "Animagi is a magical cooperative game where you build, purify, and defend spiritual biomes while facing chaotic creatures in fast-paced matches full of action and strategy.",
-    "url": "https://store.steampowered.com/app/4712610/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712610/65a95155d0633c8070e067a8418b24ca5c31dfff/header.jpg?t=1779390931",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "Simulation",
-      "Strategy"
-    ],
-    "developer": "Ludaris Studio",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-21T20:25:30Z"
-  },
-  {
-    "id": "4725910",
-    "source": "steam",
-    "title": "Null Carrier Demo",
-    "description": "Operate a deep-space listening array in this minimalist signal-reconstruction puzzle game. Tune frequencies, isolate transmissions from noise, and classify patterns for Command. But as the shifts go by, you begin to realize: the signals aren't from where you thought, and Command is lying to you.",
-    "url": "https://store.steampowered.com/app/4725910/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4725910/792516b86851c731bd382e037cbfc1d39686e7c1/header.jpg?t=1779392701",
-    "tags": [
-      "Casual",
-      "Indie",
-      "Simulation"
-    ],
-    "developer": "Donbrico Studio",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-21T20:25:22Z"
-  },
-  {
-    "id": "4338410",
-    "source": "steam",
-    "title": "Warhammer 40,000: Boltgun 2 Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4338410/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4338410/d2e439d028b411b20aa5bdf76120f962b98fb29f/header_alt_assets_0.jpg?t=1779384110",
-    "tags": [],
-    "developer": "Auroch Digital",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-21T18:25:56Z"
-  },
-  {
-    "id": "1950950",
-    "source": "steam",
-    "title": "Mouseward Demo",
-    "description": "Play the opening of Mouseward and get introduced to the world of Terrene. Take up your sword and uncover the secrets of a cursed kingdom in this soulslike collectathon. Awaken as a Royal Mouse Guard, master combat, defeat foes and search for celestial fragments to restore a once great kingdom.",
-    "url": "https://store.steampowered.com/app/1950950/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1950950/f5df0ddda9b0b7c960f2c020051e15498a8a90fc/header.jpg?t=1779381646",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "RPG"
-    ],
-    "developer": "Finite Reflection Studios",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-21T18:25:53Z"
-  },
-  {
-    "id": "4690160",
-    "source": "steam",
-    "title": "BCKSPCE Demo",
-    "description": "WELCOME TO SPECTRE OS. It’s the early 2000s, and your computer screen is your entire world. Spectre OS gives you a fully functional, highly nostalgic retro desktop. Connect with friends on the messenger app, organize your .",
-    "url": "https://store.steampowered.com/app/4690160/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4690160/81bb3f9d0527e6877e63457146025afab5e432a2/header.jpg?t=1779382713",
-    "tags": [],
-    "developer": "LUNAVIA, OXIQA",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-21T18:25:45Z"
-  },
-  {
-    "id": "4731930",
-    "source": "steam",
-    "title": "Exium: Theia Demo",
-    "description": "Explore the hostile planet of Theia in this open-world action RPG. Scavenge, fight, craft, and uncover the secrets hidden beneath a world controlled by Vexx Industries.",
-    "url": "https://store.steampowered.com/app/4731930/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731930/596d2609cca0699f32ee73729992ce7114a2bda1/header.jpg?t=1779382821",
-    "tags": [],
-    "developer": "Steamtrack Studios",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-21T18:25:42Z"
-  },
-  {
-    "id": "4658750",
-    "source": "steam",
-    "title": "KILLER INN Free Trial",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4658750/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4658750/187ce04bf541d81cc04b84c78074f831eb06a2f4/header.jpg?t=1779383121",
-    "tags": [],
-    "developer": "Square Enix, Tactic Studios",
-    "release_date": "May 21, 2026",
-    "classification": "⚪ ARCHIVED",
-    "indexed_at": "2026-05-21T18:25:40Z"
-  },
-  {
-    "id": "4672460",
-    "source": "steam",
-    "title": "False Testimony Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4672460/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4672460/8cf5a82b2d03c5c6e9fa0ba964bd87677f7b8226/header.jpg?t=1779385023",
-    "tags": [],
-    "developer": "Bizi Games",
-    "release_date": "",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-21T18:25:37Z"
-  },
-  {
-    "id": "4734990",
-    "source": "steam",
-    "title": "Serve Or Die Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4734990/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4734990/836913a319c04d6089ba724ba34441da5051e9b0/header.jpg?t=1779385309",
-    "tags": [],
-    "developer": "Dead Tape Studio",
-    "release_date": "May 21, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-21T18:25:34Z"
   }
 ]
