@@ -1,5 +1,20 @@
 [
   {
+    "id": "steam-search-4772910",
+    "source": "steamdb",
+    "title": "Folded: Inner Journey Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4772910/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772910/e840ac8f0197983e590ce0d7d6e2dca48dec66fe/header.jpg?t=1780252165",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Blendbound Inc",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T19:45:53Z"
+  },
+  {
     "id": "steam-search-4785860",
     "source": "steamdb",
     "title": "Valefor 2 Demo",
@@ -7833,23 +7848,5 @@
     "release_date": "May 22, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-05-22T18:10:22Z"
-  },
-  {
-    "id": "steam-search-4207460",
-    "source": "steamdb",
-    "title": "FlockSol Demo",
-    "description": "FlockSol is an incremental top-down survival game. Light up the dark and defeat the monsters hiding inside. Spend their essences to unlock and upgrade your skills. Summon your past souls to fight alongside you. Reach your full potential, survive the night and cleanse the world of darkness.",
-    "url": "https://store.steampowered.com/app/4207460/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207460/0b6eec84b5163ef7b8e5860cce413e3c004fc4db/header.jpg?t=1779468694",
-    "tags": [
-      "Action",
-      "Casual",
-      "Indie",
-      "Strategy"
-    ],
-    "developer": "Cedar Street Studios",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T18:10:20Z"
   }
 ]
