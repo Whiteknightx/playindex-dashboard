@@ -1,5 +1,31 @@
 [
   {
+    "id": "4772370",
+    "source": "steam",
+    "title": "Silent Shark Demo",
+    "description": "A tactical WWII submarine sim demo focused on chart-based attacks: track ships by hydrophone and periscope, plot an intercept, estimate range, set up the Torpedo Data Computer, fire torpedoes, and evade escorts through tutorials, standalone encounters, and a limited scenario generator.",
+    "url": "https://store.steampowered.com/app/4772370/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4772370/9f6d750062c1fb62d506dd8654fa7c87414d64d4/header.jpg?t=1780261385",
+    "tags": [],
+    "developer": "John Goering",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T21:55:00Z"
+  },
+  {
+    "id": "4592820",
+    "source": "steam",
+    "title": "The Blinking Room Demo",
+    "description": "One night, young Lily wakes from a nightmare — unaware that her real nightmares are only just beginning. Uncover the secrets hidden behind closed eyes.",
+    "url": "https://store.steampowered.com/app/4592820/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4592820/723e47ecf044289ce59371307cbad74a20ed8ecb/header.jpg?t=1780261511",
+    "tags": [],
+    "developer": "ELVA",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T21:54:58Z"
+  },
+  {
     "id": "4773630",
     "source": "steam",
     "title": "Harmony Of Tea Demo",
@@ -7293,31 +7319,5 @@
     "release_date": "May 23, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-05-23T10:06:17Z"
-  },
-  {
-    "id": "4754930",
-    "source": "steam",
-    "title": "NOT ENOUGH SPACE Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4754930/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754930/6ddef176e4ae51716c0c80dda01f7d458ebb38ec/header.jpg?t=1779516304",
-    "tags": [],
-    "developer": "ejm3n",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-23T08:10:41Z"
-  },
-  {
-    "id": "4152850",
-    "source": "steam",
-    "title": "Campaign Manager Free Version",
-    "description": "Campaign Manager is a tool to create worlds, puzzles, and adventures. Game masters can design tabletop RPG campaigns for their players. Escape room style puzzle creators can plan out how their participants must escape. Or interactive stories can be fleshed out with all the possible paths.",
-    "url": "https://store.steampowered.com/app/4152850/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4152850/3117e440d97ac37b2c53eb70e3f88043f9daa45c/header.jpg?t=1779521792",
-    "tags": [],
-    "developer": "Kamoly LLC",
-    "release_date": "May 23, 2026",
-    "classification": "⚪ ARCHIVED",
-    "indexed_at": "2026-05-23T08:10:38Z"
   }
 ]
