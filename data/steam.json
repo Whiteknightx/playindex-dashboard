@@ -1,5 +1,47 @@
 [
   {
+    "id": "4785860",
+    "source": "steam",
+    "title": "Valefor 2 Demo",
+    "description": "A dark-fantasy roguelike autobattler. Recruit mercenaries, stack distinct race/class synergies, forge relics, claim perks. Take all the time you need to theory-craft your formation. Asynchronous PvP: pure strategy at your own pace.",
+    "url": "https://store.steampowered.com/app/4785860/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785860/6b81b057e7372b5de1b91f443bdd5a2bfa3bc1c7/header.jpg?t=1780247368",
+    "tags": [
+      "Indie",
+      "Strategy"
+    ],
+    "developer": "Valefor Ltd",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T18:17:58Z"
+  },
+  {
+    "id": "4749800",
+    "source": "steam",
+    "title": "Too Many Balls Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4749800/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4749800/63423ec64b877ae00213b006c151e048524092e1/header.jpg?t=1780247379",
+    "tags": [],
+    "developer": "HeartBerry Studio",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T18:17:54Z"
+  },
+  {
+    "id": "4768930",
+    "source": "steam",
+    "title": "Total Survival Simulator Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4768930/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4768930/f1bb8d3403882920cfe86135fcdb7f91669735fb/header.jpg?t=1780249389",
+    "tags": [],
+    "developer": "Veldknaap",
+    "release_date": "Coming soon",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T18:17:51Z"
+  },
+  {
     "id": "4768560",
     "source": "steam",
     "title": "Monke Survivor Demo",
@@ -7281,48 +7323,5 @@
     "release_date": "May 22, 2026",
     "classification": "🟠 CORRUPTED",
     "indexed_at": "2026-05-22T21:37:25Z"
-  },
-  {
-    "id": "4662870",
-    "source": "steam",
-    "title": "The Crimson Hunt Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4662870/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4662870/d3cf3b37760fd9c46497d8e8659790e62c1b64c6/header.jpg?t=1779482665",
-    "tags": [],
-    "developer": "Farelas",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T21:37:22Z"
-  },
-  {
-    "id": "4661120",
-    "source": "steam",
-    "title": "Typer Survivor Demo",
-    "description": "Typer Survivor is a fast-paced typing roguelike that will push your typing to the limit. Battle through monster-filled dungeons, level up, and build a run from dozens of upgrades. Earn letters by defeating enemies and spend them at the shop to unlock new characters and character alterations.",
-    "url": "https://store.steampowered.com/app/4661120/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661120/ddd692747fcd80b19f4964a91c8bb2f9f0d5d9cd/header.jpg?t=1779483733",
-    "tags": [],
-    "developer": "Taylor Bramble",
-    "release_date": "Coming soon",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T21:37:20Z"
-  },
-  {
-    "id": "4506420",
-    "source": "steam",
-    "title": "Escape From Ground Demo",
-    "description": "Endless jumping adventure demo with procedural levels, enemies, and unique biomes.",
-    "url": "https://store.steampowered.com/app/4506420/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506420/866ebda81effa59f2dfb1e4c0de220151d9e60c5/header.jpg?t=1779483894",
-    "tags": [
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "developer": "Dual Cluster Studios",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T21:37:17Z"
   }
 ]
