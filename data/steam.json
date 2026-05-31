@@ -1,5 +1,88 @@
 [
   {
+    "id": "4780920",
+    "source": "steam",
+    "title": "Delta Demo",
+    "description": "Delta is a first-person movement-heavy platformer game focused on physics-based traversal, speedrunning, and mechanical mastery. And somewhere ahead, the one you lost is still waiting.",
+    "url": "https://store.steampowered.com/app/4780920/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4780920/4c24bcda8df65c4245b56275ea9d6b3617ee36f4/header.jpg?t=1780205066",
+    "tags": [],
+    "developer": "0xc3pti0n",
+    "release_date": "May 30, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T08:11:17Z"
+  },
+  {
+    "id": "4668180",
+    "source": "steam",
+    "title": "Dungeon Potato Demo",
+    "description": "Dungeon Potato is a fast-paced, top-down action roguelike where your loadout shapes the story. Survive unpredictable encounters, forge unique builds, and battle through a perilous labyrinth. Will you rise as a servant of the Potato God or rebel against it?",
+    "url": "https://store.steampowered.com/app/4668180/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668180/b3df7cd05709a65e4c30710f28d86a47f1f52d49/header.jpg?t=1780148773",
+    "tags": [
+      "Action"
+    ],
+    "developer": "Solanum Games",
+    "release_date": "May 30, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T08:11:14Z"
+  },
+  {
+    "id": "4655520",
+    "source": "steam",
+    "title": "Dungeon Tells Demo",
+    "description": "The heroes have escaped their cages. Dungeon Tells is a single-player social deduction game where you can read the minds of your enemies. Execute the weak, charm the strong, and defend your dungeon.",
+    "url": "https://store.steampowered.com/app/4655520/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655520/cccc7a64e8ed5a139ac578661926163dd1d8bc6b/header.jpg?t=1780211875",
+    "tags": [
+      "Indie",
+      "Strategy"
+    ],
+    "developer": "Ace Benoff",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T08:11:12Z"
+  },
+  {
+    "id": "4748250",
+    "source": "steam",
+    "title": "Little Herbal Baker Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4748250/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4748250/c83f2fc8dfe2fb5b7c5e4b4cbb35885252df71bb/header.jpg?t=1780212556",
+    "tags": [],
+    "developer": "Hippo Monster",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T08:11:07Z"
+  },
+  {
+    "id": "4764280",
+    "source": "steam",
+    "title": "Help me Cats Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4764280/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4764280/d3fc1e66307da274771b2e4cb730b453324a1f1c/header.jpg?t=1780214248",
+    "tags": [],
+    "developer": "AquaEternity",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T08:11:05Z"
+  },
+  {
+    "id": "4783890",
+    "source": "steam",
+    "title": "Once Upon a Throne of Thorns Demo",
+    "description": "The demo for the BL visual novel Once Upon a Throne of Thorns.",
+    "url": "https://store.steampowered.com/app/4783890/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783890/0c85c07128c4f2615427ec66fd230669de778d73/header.jpg?t=1780214516",
+    "tags": [],
+    "developer": "ebi-hime",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T08:11:02Z"
+  },
+  {
     "id": "4728640",
     "source": "steam",
     "title": "うつらうつらとつつうらうらと Demo",
@@ -7245,90 +7328,5 @@
     "release_date": "May 22, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-05-22T16:05:31Z"
-  },
-  {
-    "id": "4703720",
-    "source": "steam",
-    "title": "ImpossiBall Demo",
-    "description": "Casual indie game, Player controls a ball through two unlocked levels. Each level offers varying difficulties as the player progresses. The aim is to colllect a range of pickups, each worth varying points. Think pinball arcade game with a twist. Can you do the ImpossiBall and complete both levels?",
-    "url": "https://store.steampowered.com/app/4703720/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703720/a4e46d365570dca8bd814f8b585db9e8457af01e/header.jpg?t=1779457641",
-    "tags": [],
-    "developer": "Delusional3d",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T16:05:26Z"
-  },
-  {
-    "id": "4652400",
-    "source": "steam",
-    "title": "OVER SAND Demo",
-    "description": "Take to the steampunk skies! Defend your flying ship over endless sands from mechanical hordes. Master turret firepower, switch weapons, and craft synergistic perk builds mid-wave. No movement — pure skill!",
-    "url": "https://store.steampowered.com/app/4652400/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652400/9498ef52a9d9c9e9f025245172250704bef3a59a/header.jpg?t=1779463743",
-    "tags": [
-      "Action",
-      "Indie"
-    ],
-    "developer": "Moonmana",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T16:05:23Z"
-  },
-  {
-    "id": "4744580",
-    "source": "steam",
-    "title": "红或黑RedorBlack Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4744580/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744580/e20c1556cc22c3bd008cf5473cc27a48bd1594a9/header.jpg?t=1779464055",
-    "tags": [],
-    "developer": "RedOrBlack",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T16:05:20Z"
-  },
-  {
-    "id": "4586960",
-    "source": "steam",
-    "title": "Towerslam Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4586960/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4586960/83421bb51e59638377222ffc131757919a464b67/header.jpg?t=1779458464",
-    "tags": [],
-    "developer": "Louis Heitfeld Games",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T16:05:17Z"
-  },
-  {
-    "id": "4731110",
-    "source": "steam",
-    "title": "Deepest Darkest Demo",
-    "description": "Deepest Darkest is a 90s as hell and metal as hell boomer shooter. Shoot your way through an action packed single player campaign with an arsenal of weapons, power up and magic spells as you tear though an army of cultists and monsters.",
-    "url": "https://store.steampowered.com/app/4731110/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731110/63012a00c05327eb3af51db70a83affe71aa7328/header.jpg?t=1779458486",
-    "tags": [],
-    "developer": "JLRS Games",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T16:05:15Z"
-  },
-  {
-    "id": "4736890",
-    "source": "steam",
-    "title": "Feed The Forest Demo",
-    "description": "A short, innocent incremental forest-builder. Unlock snail powers to spread life in a barren desert. Feed the mysterious Forest with juice. And remember: Blood is a type of juice.",
-    "url": "https://store.steampowered.com/app/4736890/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736890/f8ef52cd11ba33f5af92f401af226646dad6a3c5/header.jpg?t=1779460717",
-    "tags": [
-      "Casual",
-      "Indie",
-      "Simulation"
-    ],
-    "developer": "Indoor Sunglasses",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T16:05:12Z"
   }
 ]
