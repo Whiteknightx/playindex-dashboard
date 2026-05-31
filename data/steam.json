@@ -1,5 +1,31 @@
 [
   {
+    "id": "4683540",
+    "source": "steam",
+    "title": "Brix Demo",
+    "description": "Think it, build it, and watch it break. Brix is a physics-based engineering sandbox where you tackle impossible challenges with your own custom creations. From battlebots to earthquake-proof towers..",
+    "url": "https://store.steampowered.com/app/4683540/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683540/c801dea0a682f0df0d29d58ae70566cca1126cc0/header.jpg?t=1780217446",
+    "tags": [],
+    "developer": "BlackTie Whiskers",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T10:26:00Z"
+  },
+  {
+    "id": "4749960",
+    "source": "steam",
+    "title": "Dead Night Highway Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4749960/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4749960/b50f8ae623dc454f44c34cc8baff25254d8f31d2/header.jpg?t=1780222509",
+    "tags": [],
+    "developer": "Mr. Pink",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T10:25:57Z"
+  },
+  {
     "id": "4780920",
     "source": "steam",
     "title": "Delta Demo",
@@ -7298,35 +7324,5 @@
     "release_date": "May 22, 2026",
     "classification": "🔴 PSYCHOLOGICAL HAZARD",
     "indexed_at": "2026-05-22T18:07:33Z"
-  },
-  {
-    "id": "4617240",
-    "source": "steam",
-    "title": "LINOVICTUS Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4617240/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617240/18892df0eaa4d0531612cac4e65de3e0b844e65b/header.jpg?t=1779472923",
-    "tags": [],
-    "developer": "transmutrix",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T18:07:31Z"
-  },
-  {
-    "id": "4363590",
-    "source": "steam",
-    "title": "Dread Disc Demo",
-    "description": "A strange game disc appears at your door. Every difference you spot changes your apartment while something unknown tries to find a way inside.",
-    "url": "https://store.steampowered.com/app/4363590/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4363590/89e3bdf4bda86e8347019f5e6a0c6782ee61c699/header.jpg?t=1779457337",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "developer": "MadBug Studio",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T16:05:31Z"
   }
 ]

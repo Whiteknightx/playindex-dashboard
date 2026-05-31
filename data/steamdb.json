@@ -1,5 +1,35 @@
 [
   {
+    "id": "steam-search-4683540",
+    "source": "steamdb",
+    "title": "Brix Demo",
+    "description": "Think it, build it, and watch it break. Brix is a physics-based engineering sandbox where you tackle impossible challenges with your own custom creations. From battlebots to earthquake-proof towers..",
+    "url": "https://store.steampowered.com/app/4683540/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683540/c801dea0a682f0df0d29d58ae70566cca1126cc0/header.jpg?t=1780217446",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "BlackTie Whiskers",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T10:27:57Z"
+  },
+  {
+    "id": "steam-search-4749960",
+    "source": "steamdb",
+    "title": "Dead Night Highway Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4749960/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4749960/b50f8ae623dc454f44c34cc8baff25254d8f31d2/header.jpg?t=1780222509",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Mr. Pink",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T10:27:54Z"
+  },
+  {
     "id": "steam-search-4780920",
     "source": "steamdb",
     "title": "Delta Demo",
@@ -7818,36 +7848,5 @@
     "release_date": "May 22, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-05-22T11:21:57Z"
-  },
-  {
-    "id": "steam-search-4593790",
-    "source": "steamdb",
-    "title": "CastleOn Scriptum Demo",
-    "description": "Build a castle and defend it from your enemies! Construct towers, place traps, train and command units in this historical, manuscript-themed mix of Tower Defense and classical Real Time Strategy.",
-    "url": "https://store.steampowered.com/app/4593790/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4593790/4e869f57c0d2c84448de869468ce61ff7f35f4ce/header.jpg?t=1779446997",
-    "tags": [
-      "Simulation",
-      "Strategy"
-    ],
-    "developer": "Lord Castleon",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T11:21:55Z"
-  },
-  {
-    "id": "steam-search-4701460",
-    "source": "steamdb",
-    "title": "Dendron 64 Demo",
-    "description": "With the help of a talented team of coders, a portion of the alpha build of Dendron 64 has been recovered and adapted for playability on computers.",
-    "url": "https://store.steampowered.com/app/4701460/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4701460/a8b2fb5bac8d90d101daf7ddf8a4fc9de699e413/header.jpg?t=1779447573",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Evelyn Beck, Susan Rennings, Donnie Merchant",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T11:21:53Z"
   }
 ]
