@@ -1,5 +1,63 @@
 [
   {
+    "id": "4768560",
+    "source": "steam",
+    "title": "Monke Survivor Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4768560/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4768560/050e2d7f927ed7c410af3ceff0a888779df1edd7/header.jpg?t=1780242127",
+    "tags": [],
+    "developer": "Mez",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T17:00:51Z"
+  },
+  {
+    "id": "4765610",
+    "source": "steam",
+    "title": "The Flesh Beneath Demo",
+    "description": "A dark-fantasy card-roguelike about giving the cathedral below what it asks for — one piece of yourself at a time. Sever your own flesh for power. Press blood-stones into your cards. Permadeath. Every name is remembered.",
+    "url": "https://store.steampowered.com/app/4765610/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765610/ad6f2a09a4c8d794a20bea71549713123781a275/header.jpg?t=1780244436",
+    "tags": [
+      "RPG"
+    ],
+    "developer": "Rusalka Unreal Labs",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T17:00:49Z"
+  },
+  {
+    "id": "4765590",
+    "source": "steam",
+    "title": "Loop Miner Demo",
+    "description": "Loop Miner is a mining incremental game where a cute mole miner endlessly digs through mines, gathers resources, collects artifacts, and ventures deeper underground. Experience the satisfaction of growing stronger through endless mining loops.",
+    "url": "https://store.steampowered.com/app/4765590/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765590/e4f0a333bdd079d1d16acdd6b8cbcabc471c1b0f/header.jpg?t=1780245040",
+    "tags": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "developer": "AITHENA",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T17:00:44Z"
+  },
+  {
+    "id": "4736670",
+    "source": "steam",
+    "title": "Grapple Gunners Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4736670/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736670/0c578ae63999c5c2f36769939f89bcb2fed4aada/header.jpg?t=1780246384",
+    "tags": [],
+    "developer": "Cortland Hansen",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T17:00:38Z"
+  },
+  {
     "id": "4772800",
     "source": "steam",
     "title": "Hold The Gates Demo",
@@ -7266,60 +7324,5 @@
     "release_date": "May 22, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-05-22T21:37:17Z"
-  },
-  {
-    "id": "4638070",
-    "source": "steam",
-    "title": "Once Upon a Time… After the End Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4638070/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4638070/a8661eb90a36e31cd94100059f178f6524605444/header.jpg?t=1779485095",
-    "tags": [],
-    "developer": "The Elder's Tower",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T21:37:12Z"
-  },
-  {
-    "id": "4755500",
-    "source": "steam",
-    "title": "Item Shop Simulator Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4755500/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755500/85e0f04a9089cd41cb3e3d3b463b955f149a1368/header.jpg?t=1779474363",
-    "tags": [],
-    "developer": "Gnoll King Games",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T20:13:31Z"
-  },
-  {
-    "id": "4717280",
-    "source": "steam",
-    "title": "DEATH CASINO Demo",
-    "description": "Spend a lifetime at the Death Casino! Russian Roulette meets tabletop strategy in a high stakes duel between you and a glassen maniac. Stay on top of ever escalating complexity as each round introduces more and more mechanics. Juggle guns, knives, drinks, cards and more to survive the Death Casino!",
-    "url": "https://store.steampowered.com/app/4717280/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4717280/5bc7c7e350425b83daf7ec6fe206eb0740426b71/header.jpg?t=1779476846",
-    "tags": [
-      "Action",
-      "Strategy"
-    ],
-    "developer": "DirtyOnion",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T20:13:29Z"
-  },
-  {
-    "id": "4752500",
-    "source": "steam",
-    "title": "Hill-Z Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4752500/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4752500/0a7bb1c30bc017c3a434a167370a8915ad799f3e/header.jpg?t=1779478931",
-    "tags": [],
-    "developer": "LuckyStudios",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T20:13:25Z"
   }
 ]

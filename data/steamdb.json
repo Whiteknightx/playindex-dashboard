@@ -1,5 +1,52 @@
 [
   {
+    "id": "steam-search-4765610",
+    "source": "steamdb",
+    "title": "The Flesh Beneath Demo",
+    "description": "A dark-fantasy card-roguelike about giving the cathedral below what it asks for — one piece of yourself at a time. Sever your own flesh for power. Press blood-stones into your cards. Permadeath. Every name is remembered.",
+    "url": "https://store.steampowered.com/app/4765610/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765610/ad6f2a09a4c8d794a20bea71549713123781a275/header.jpg?t=1780244436",
+    "tags": [
+      "RPG"
+    ],
+    "developer": "Rusalka Unreal Labs",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T17:02:59Z"
+  },
+  {
+    "id": "steam-search-4765590",
+    "source": "steamdb",
+    "title": "Loop Miner Demo",
+    "description": "Loop Miner is a mining incremental game where a cute mole miner endlessly digs through mines, gathers resources, collects artifacts, and ventures deeper underground. Experience the satisfaction of growing stronger through endless mining loops.",
+    "url": "https://store.steampowered.com/app/4765590/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765590/e4f0a333bdd079d1d16acdd6b8cbcabc471c1b0f/header.jpg?t=1780245040",
+    "tags": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "developer": "AITHENA",
+    "release_date": "Coming soon",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T17:02:56Z"
+  },
+  {
+    "id": "steam-search-4736670",
+    "source": "steamdb",
+    "title": "Grapple Gunners Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4736670/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736670/0c578ae63999c5c2f36769939f89bcb2fed4aada/header.jpg?t=1780246384",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Cortland Hansen",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-05-31T17:02:51Z"
+  },
+  {
     "id": "steam-search-4772800",
     "source": "steamdb",
     "title": "Hold The Gates Demo",
@@ -7804,53 +7851,5 @@
     "release_date": "May 22, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-05-22T18:10:07Z"
-  },
-  {
-    "id": "steam-search-4363590",
-    "source": "steamdb",
-    "title": "Dread Disc Demo",
-    "description": "A strange game disc appears at your door. Every difference you spot changes your apartment while something unknown tries to find a way inside.",
-    "url": "https://store.steampowered.com/app/4363590/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4363590/89e3bdf4bda86e8347019f5e6a0c6782ee61c699/header.jpg?t=1779457337",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "developer": "MadBug Studio",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T16:07:50Z"
-  },
-  {
-    "id": "steam-search-4703720",
-    "source": "steamdb",
-    "title": "ImpossiBall Demo",
-    "description": "Casual indie game, Player controls a ball through two unlocked levels. Each level offers varying difficulties as the player progresses. The aim is to colllect a range of pickups, each worth varying points. Think pinball arcade game with a twist. Can you do the ImpossiBall and complete both levels?",
-    "url": "https://store.steampowered.com/app/4703720/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703720/a4e46d365570dca8bd814f8b585db9e8457af01e/header.jpg?t=1779457641",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Delusional3d",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T16:07:46Z"
-  },
-  {
-    "id": "steam-search-4652400",
-    "source": "steamdb",
-    "title": "OVER SAND Demo",
-    "description": "Take to the steampunk skies! Defend your flying ship over endless sands from mechanical hordes. Master turret firepower, switch weapons, and craft synergistic perk builds mid-wave. No movement — pure skill!",
-    "url": "https://store.steampowered.com/app/4652400/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652400/9498ef52a9d9c9e9f025245172250704bef3a59a/header.jpg?t=1779463743",
-    "tags": [
-      "Action",
-      "Indie"
-    ],
-    "developer": "Moonmana",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T16:07:44Z"
   }
 ]
