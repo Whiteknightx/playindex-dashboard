@@ -1,5 +1,31 @@
 [
   {
+    "id": "4785900",
+    "source": "steam",
+    "title": "Alpha Star Demo",
+    "description": "[Master the Void, Defy the Gravity]Alpha Star blends classic arcade shoot-'em-up thrills with a dynamic physics-based environment. It's not just about dodging bullets—it's about surviving the space-time distortions of massive black holes that pull everything into their grasp.",
+    "url": "https://store.steampowered.com/app/4785900/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785900/8eb784cf41495bfcfca05dbd93579c9e9f7fb1cf/header.jpg?t=1780270151",
+    "tags": [],
+    "developer": "Minands",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-01T00:03:26Z"
+  },
+  {
+    "id": "4536010",
+    "source": "steam",
+    "title": "AE: Archeological Expedition Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4536010/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536010/c82700e64a3b0caaa548efd967afcabcea802dec/header.jpg?t=1780272080",
+    "tags": [],
+    "developer": "AKKA",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-01T00:03:24Z"
+  },
+  {
     "id": "4694970",
     "source": "steam",
     "title": "Cluster - Roguelike Tower Defense Demo",
@@ -7285,35 +7311,5 @@
     "release_date": "May 23, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-05-23T15:45:38Z"
-  },
-  {
-    "id": "4727640",
-    "source": "steam",
-    "title": "Degrowth Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4727640/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727640/db6f1032410e9f5d644f19e8d2422740f172efb5/header.jpg?t=1779541804",
-    "tags": [],
-    "developer": "Cryptomnesic",
-    "release_date": "May 23, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-23T14:26:43Z"
-  },
-  {
-    "id": "4755520",
-    "source": "steam",
-    "title": "Market Chain 98 Demo",
-    "description": "Build your Market Chain in this retro incremental game set inside a nostalgic 90s operating system. Start with a small shop, manage bank loans, expand your logistics hubs, and unlock global upgrades through your Portfolio. Fill your desktop with windows and dominate the market!",
-    "url": "https://store.steampowered.com/app/4755520/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755520/789dd306f867d07e077f3cff825e584ebf030e66/header.jpg?t=1779538415",
-    "tags": [
-      "Casual",
-      "Simulation",
-      "Strategy"
-    ],
-    "developer": "MGR Studio",
-    "release_date": "May 23, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-23T12:40:25Z"
   }
 ]

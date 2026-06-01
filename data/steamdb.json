@@ -1,5 +1,35 @@
 [
   {
+    "id": "steam-search-4785900",
+    "source": "steamdb",
+    "title": "Alpha Star Demo",
+    "description": "[Master the Void, Defy the Gravity]Alpha Star blends classic arcade shoot-'em-up thrills with a dynamic physics-based environment. It's not just about dodging bullets—it's about surviving the space-time distortions of massive black holes that pull everything into their grasp.",
+    "url": "https://store.steampowered.com/app/4785900/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4785900/8eb784cf41495bfcfca05dbd93579c9e9f7fb1cf/header.jpg?t=1780270151",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Minands",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-01T00:05:16Z"
+  },
+  {
+    "id": "steam-search-4536010",
+    "source": "steamdb",
+    "title": "AE: Archeological Expedition Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4536010/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536010/c82700e64a3b0caaa548efd967afcabcea802dec/header.jpg?t=1780272080",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "AKKA",
+    "release_date": "May 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-01T00:05:13Z"
+  },
+  {
     "id": "steam-search-4760050",
     "source": "steamdb",
     "title": "The Last Flight Demo",
@@ -7812,39 +7842,5 @@
     "release_date": "May 22, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-05-22T20:15:45Z"
-  },
-  {
-    "id": "steam-search-4617560",
-    "source": "steamdb",
-    "title": "Damnation84 No Man's Land Demo",
-    "description": "Damnation84 is a fast-paced FPS game that uses impulse and propulsion weapons as a means of movement and combat. In this devastated world, eliminate enemies in sequence and complete the levels before your oxygen runs out. You are the last hope, survive and cause damnation.",
-    "url": "https://store.steampowered.com/app/4617560/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617560/b6edcd301e3fa6685f6a8ec8a60a96ed0f93af43/header.jpg?t=1779480184",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "developer": "OutZoom",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T20:15:43Z"
-  },
-  {
-    "id": "steam-search-4728220",
-    "source": "steamdb",
-    "title": "Mother ZERO Demo",
-    "description": "In Mother ZERO, a cyberpunk action-adventure game, fight your way through a decaying world full of mysteries and threats. Explore deep underground bunkers, battle corrupted creatures, and encounter bizarre characters.",
-    "url": "https://store.steampowered.com/app/4728220/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4728220/080411cf4a8583c1f198a55f9e0f9164ce404065/header.jpg?t=1779466034",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "developer": "Mitral Pulse Studio",
-    "release_date": "May 22, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-05-22T18:10:46Z"
   }
 ]
