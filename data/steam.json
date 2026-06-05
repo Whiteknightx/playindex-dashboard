@@ -1,5 +1,110 @@
 [
   {
+    "id": "4633750",
+    "source": "steam",
+    "title": "ResistanceZ Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4633750/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4633750/e4996e0be188b07d8bb45cf73775692e8176560e/header.jpg?t=1780661789",
+    "tags": [],
+    "developer": "PloxLab",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T21:46:47Z"
+  },
+  {
+    "id": "4317060",
+    "source": "steam",
+    "title": "Thug Destroyer Demo",
+    "description": "Horror platformer where you play as a thug trapped in a deranged superhero's simulation. 9 jump your way through 9 twisted levels and find 9 thuggies to escape. Spend 9 Nights at Thuggy's, Wake up in Quiet Hill, and solve puzzles at Evil Residents.",
+    "url": "https://store.steampowered.com/app/4317060/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317060/0c4b54d7f0651c0a2ec9196d776bf043bb6c4bde/header.jpg?t=1780691313",
+    "tags": [
+      "Simulation"
+    ],
+    "developer": "Thug Destroyer Gang",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟠 CORRUPTED",
+    "indexed_at": "2026-06-05T21:46:45Z"
+  },
+  {
+    "id": "4802940",
+    "source": "steam",
+    "title": "Dimension Defenders Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4802940/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4802940/1d1f622f55f0c98d2675e389eb59dd4078b5fe96/header.jpg?t=1780692649",
+    "tags": [],
+    "developer": "Chromatik",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T21:46:42Z"
+  },
+  {
+    "id": "4646300",
+    "source": "steam",
+    "title": "Spy Carnival Demo",
+    "description": "Spy Carnival is a 2-10 player social deception game set in a vibrant, chaotic funfair. Spies hide among the crowd, sabotaging rides and eliminating visitors while blending in with NPCs. Officers must stay sharp, read the crowd and take down the spies before the carnival turns into complete chaos.",
+    "url": "https://store.steampowered.com/app/4646300/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4646300/308fcfbf04506d053f0c2580400218099d905ca4/header.jpg?t=1780693323",
+    "tags": [
+      "Action",
+      "Indie"
+    ],
+    "developer": "haga interactive",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T21:46:39Z"
+  },
+  {
+    "id": "4711740",
+    "source": "steam",
+    "title": "Mortal Shell II - Open Beta",
+    "description": "Step into the ravaged world of Mortal Shell II and begin the Harbinger’s journey. Play the opening three hours of the game in this limited Open Beta, with select progress carrying forward into the full release.",
+    "url": "https://store.steampowered.com/app/4711740/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4711740/185a2155022f43568b8beab0e6edbdee5e5816e6/header.jpg?t=1780695400",
+    "tags": [
+      "Action"
+    ],
+    "developer": "Cold Symmetry",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T21:46:35Z"
+  },
+  {
+    "id": "4808040",
+    "source": "steam",
+    "title": "Dungeon Dilemma Demo",
+    "description": "A Dungeon Builder and Crawler Roguelike where you can construct your own dungeon or raid one designed by your friends. Vie for victory, defeat minions, and evade traps as a party of up to 4 Challengers, or create the most diabolical dungeon imaginable as the Dungeon Boss!",
+    "url": "https://store.steampowered.com/app/4808040/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808040/3ea129a425648f259cf25446af26e31814800818/header.jpg?t=1780694030",
+    "tags": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "developer": "Dungeon Decorators",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T21:46:32Z"
+  },
+  {
+    "id": "4746420",
+    "source": "steam",
+    "title": "ROGUELIKE CARD:BUSINESS EMPIRE Demo",
+    "description": "&quot;Roguelike Card Game: Business Empire&quot; combines roguelike with card strategy. Choose your character, build your industrial park from scratch using cards, experience multiple victory paths, and compete on the global leaderboard.",
+    "url": "https://store.steampowered.com/app/4746420/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4746420/419083fde184e8622e2c68589cf01b76f09ba3de/header.jpg?t=1780694723",
+    "tags": [
+      "Indie",
+      "Strategy"
+    ],
+    "developer": "COO Studio",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T21:46:28Z"
+  },
+  {
     "id": "4807810",
     "source": "steam",
     "title": "Express 404 Demo",
@@ -7175,104 +7280,5 @@
     "release_date": "Jun 3, 2026",
     "classification": "🔴 PSYCHOLOGICAL HAZARD",
     "indexed_at": "2026-06-03T10:13:43Z"
-  },
-  {
-    "id": "4677290",
-    "source": "steam",
-    "title": "Midnight Moments Demo",
-    "description": "A small, cyberpunk diorama-building game where you create cozy rain-soaked backstreets, glowing apartment blocks, or quiet neighbourhood corners. Decorate your designs with props and place citizens, crafting stories that bring your city to life. At your own pace. No goals. Just vibes.",
-    "url": "https://store.steampowered.com/app/4677290/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4677290/0eee754537c03c1ee8195b8bfc27fe6602686df1/header.jpg?t=1780481556",
-    "tags": [
-      "Casual",
-      "Simulation"
-    ],
-    "developer": "Happy Volcano",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:13:38Z"
-  },
-  {
-    "id": "4779590",
-    "source": "steam",
-    "title": "90 Minutes Till The World Ends Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4779590/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779590/6d4aa3d7c5355162b9434505bc348a8c7a3660cc/header.jpg?t=1780479200",
-    "tags": [],
-    "developer": "Rookie Pixels",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:13:35Z"
-  },
-  {
-    "id": "4759430",
-    "source": "steam",
-    "title": "Vortha Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4759430/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4759430/2bb537db204bf274d5d91a29b87a58b969ea954c/header.jpg?t=1780479678",
-    "tags": [],
-    "developer": "GM hack",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:13:32Z"
-  },
-  {
-    "id": "4781180",
-    "source": "steam",
-    "title": "(You're Not) Welcome to Rennville Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4781180/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781180/9d1938bbd83e674709149429e55e222bebc001ed/header.jpg?t=1780480804",
-    "tags": [],
-    "developer": "Distant Dimensions, Lit Lore Studios",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:13:29Z"
-  },
-  {
-    "id": "4642830",
-    "source": "steam",
-    "title": "The Void Calls Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4642830/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4642830/723df020662cae0d38613b32a4222b51b9a30392/header.jpg?t=1780481250",
-    "tags": [],
-    "developer": "Slyfincleton",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:13:26Z"
-  },
-  {
-    "id": "3697790",
-    "source": "steam",
-    "title": "帕斯的餐厅 Demo",
-    "description": "In a fantasy world, become magical cat Pas. Run your restaurant, serve creatures, make friends. Explore mazes, map them, find hidden food to enrich your menu. Meet friends, hear their stories. Pas's Restaurant eagerly awaits you to co-write this warm fantasy chapter.",
-    "url": "https://store.steampowered.com/app/3697790/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3697790/d50da04a141a5fb9900e61dda942fc11aacd7656/header.jpg?t=1780481331",
-    "tags": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "RPG"
-    ],
-    "developer": "paspas game studio",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:13:23Z"
-  },
-  {
-    "id": "4687830",
-    "source": "steam",
-    "title": "Framework Zero: Terminal Panic Demo",
-    "description": "You are hurtling through space aboard an industrial freighter. The crew already had their hands full with failing systems. But now there is a new threat on board. Something is hunting you. TERMINAL PANIC is a survival-horror &quot;interactive fiction&quot; text adventure RPG with '80s terminal aesthetics.",
-    "url": "https://store.steampowered.com/app/4687830/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687830/edf128776202e1762a9efad5b50a6ca2154f4931/header.jpg?t=1780445974",
-    "tags": [],
-    "developer": "Big Dumb Fun Games",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟠 CORRUPTED",
-    "indexed_at": "2026-06-03T05:20:35Z"
   }
 ]
