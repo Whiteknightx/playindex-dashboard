@@ -1,5 +1,114 @@
 [
   {
+    "id": "steam-search-4701680",
+    "source": "steamdb",
+    "title": "GeckoShop 2 Demo",
+    "description": "Open boxes and collect geckos. Merge them in your lab to create new mutations, then sell or keep 'em. Decorate your new home, and build machines to automate every step.",
+    "url": "https://store.steampowered.com/app/4701680/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4701680/6b34742d454a5bc58331cc5777c37806e2a31416/header.jpg?t=1780657575",
+    "tags": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "developer": "Reptoid",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T13:31:47Z"
+  },
+  {
+    "id": "steam-search-4533120",
+    "source": "steamdb",
+    "title": "Apathema Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4533120/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4533120/d5d7fdc8dbe890d780fbd0c70b0e7448164710a9/header.jpg?t=1780659448",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Sammy Makes Games",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T13:31:44Z"
+  },
+  {
+    "id": "steam-search-4590540",
+    "source": "steamdb",
+    "title": "Baulk Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4590540/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590540/5ac41768451b5b8cd132e5effcc26359e3a95cf5/header.jpg?t=1780661764",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "lative.dev",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T13:31:41Z"
+  },
+  {
+    "id": "steam-search-3790030",
+    "source": "steamdb",
+    "title": "Replay Value: Second Hand Games Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/3790030/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3790030/d4f19a61059a548461c3b946c9d7365215021fc2/header.jpg?t=1780662379",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Rogue Duck Interactive",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T13:31:39Z"
+  },
+  {
+    "id": "steam-search-4442380",
+    "source": "steamdb",
+    "title": "Guardian of the SacredSeal Demo",
+    "description": "&quot;Guardian of the Sacred Seal&quot; is a story-driven adventure game centered on the concept: “To be unconditionally loved by a yandere young man.” In the otherworldly paradise of Gokurakudō, a young girl partners with a mysterious man to handle seemingly ordinary requests that hide deeper secrets.",
+    "url": "https://store.steampowered.com/app/4442380/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4442380/32a40f0ae96ae48bfc5cfac754c18f88fcc3af24/header.jpg?t=1780663847",
+    "tags": [
+      "RPG"
+    ],
+    "developer": "STUDIO SPUTNIK",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T13:31:37Z"
+  },
+  {
+    "id": "steam-search-4376510",
+    "source": "steamdb",
+    "title": "Snack Factory Together Demo",
+    "description": "Manage a snack factory together! Produce various treats for maximum profit. Upgrade machines, unlock new products, and deliver massive orders. Can you handle the demand?",
+    "url": "https://store.steampowered.com/app/4376510/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376510/f59ce8c465f4a5b4dae2709fad134db87d79686e/header.jpg?t=1780664286",
+    "tags": [
+      "Casual",
+      "Simulation"
+    ],
+    "developer": "HAN Games",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T13:31:35Z"
+  },
+  {
+    "id": "steam-search-4794760",
+    "source": "steamdb",
+    "title": "核心防线 core defense line Demo",
+    "description": "You are a cloud operator. In the game, to protect the core and resist the continuous virus invasions, you build defenses, construct cards, install creatively designed plugins that provide you with various attack methods, repair external nodes, and at the same time offer you more convenient defense.",
+    "url": "https://store.steampowered.com/app/4794760/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794760/a047ab9f559f324627503bfe654c2af723e67d1b/header.jpg?t=1780665748",
+    "tags": [
+      "Casual",
+      "Strategy"
+    ],
+    "developer": "Geometry Workshop",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T13:31:32Z"
+  },
+  {
     "id": "steam-search-4800320",
     "source": "steamdb",
     "title": "HEME Demo",
@@ -7745,116 +7854,5 @@
     "release_date": "Jun 2, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-06-02T17:21:46Z"
-  },
-  {
-    "id": "steam-search-4789540",
-    "source": "steamdb",
-    "title": "Merge Hidden 合成寻物 Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4789540/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789540/6ea191f2acbb4be3034fa34d0d211b7bc514b70a/header.jpg?t=1780410403",
-    "tags": [
-      "Casual",
-      "Indie"
-    ],
-    "developer": "Happy Fish",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-02T17:21:43Z"
-  },
-  {
-    "id": "steam-search-4647190",
-    "source": "steamdb",
-    "title": "Hyper Bun Buster: Rocket Hammer Action Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4647190/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4647190/76c78d9b4e4495fdca913c55f3f8255348500d18/header.jpg?t=1780410546",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "DUCK_BERET",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-02T17:21:40Z"
-  },
-  {
-    "id": "steam-search-4693230",
-    "source": "steamdb",
-    "title": "BPM Bitcrushed Demo",
-    "description": "BPM Bitcrushed: A retro roguelite where every shot, dodge, and jump must sync to the beat. Battle through dungeons where enemies attack in time with the music. Find epic loot and even import your own songs to create a custom, rhythm-fuelled soundtrack for your destruction!",
-    "url": "https://store.steampowered.com/app/4693230/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693230/d79af6bb013dec08fb121948900b3e88561acc79/header.jpg?t=1780410641",
-    "tags": [
-      "Action",
-      "Adventure",
-      "RPG"
-    ],
-    "developer": "Awe Interactive",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-02T17:21:39Z"
-  },
-  {
-    "id": "steam-search-4714200",
-    "source": "steamdb",
-    "title": "Shothop Demo",
-    "description": "SHOTHOP is a violent retro boomer-shooter blending fast-paced movement mechanics with brutal combat. Utilize movement mechanics, cleanse the robot invasion, and restore the portal defense network. Reboot the grid. Survive the shift.",
-    "url": "https://store.steampowered.com/app/4714200/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4714200/400e8fb544fbb53843e793b3a06db4b636ce25af/header.jpg?t=1780410673",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Syntax Error Entertainment",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-02T17:21:36Z"
-  },
-  {
-    "id": "steam-search-4784250",
-    "source": "steamdb",
-    "title": "slimes! Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4784250/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4784250/180c50ad8d9342c25f2eafdf6e5bbf325a244ace/header.jpg?t=1780411128",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "zulakgames",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-02T17:21:34Z"
-  },
-  {
-    "id": "steam-search-4582060",
-    "source": "steamdb",
-    "title": "Goddess of Strategy Demo",
-    "description": "Experience the first area of this tactical RPG roguelite. Strengthen your heroes, guide them through a range of encounters, and ultimately confront the area boss, the Sin of Wrath itself. Do you have what it takes to defeat it or will Wrath consume you as well?",
-    "url": "https://store.steampowered.com/app/4582060/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582060/40df15b17fb7a9caa8a9423bcacdffcb3ed91cd4/header.jpg?t=1780412467",
-    "tags": [
-      "Indie",
-      "RPG",
-      "Strategy"
-    ],
-    "developer": "Lost Grace Games",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-02T17:21:33Z"
-  },
-  {
-    "id": "steam-search-4506330",
-    "source": "steamdb",
-    "title": "Astral Throne II: Age of the Phoenix Beta",
-    "description": "How many times are you willing to die for revenge? Rise from the ashes to uncover a divine conspiracy in this Roguelite Strategy RPG inspired by the classics. Lead an ever-growing team on a continent-spanning quest, fight tactical turn-based battles, and synergize your skills for decisive victory.",
-    "url": "https://store.steampowered.com/app/4506330/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4506330/a3bc0abf17611288d72ccc24c1e022b10396049a/header.jpg?t=1780412477",
-    "tags": [
-      "RPG",
-      "Strategy"
-    ],
-    "developer": "Zero Sun Games",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-02T17:21:30Z"
   }
 ]
