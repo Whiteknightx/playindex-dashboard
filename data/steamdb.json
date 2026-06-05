@@ -1,5 +1,225 @@
 [
   {
+    "id": "steam-search-4807810",
+    "source": "steamdb",
+    "title": "Express 404 Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4807810/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4807810/57503fc692751c5a810f02072fd386a677005317/header.jpg?t=1780683622",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Yominoid",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T20:18:22Z"
+  },
+  {
+    "id": "steam-search-4705250",
+    "source": "steamdb",
+    "title": "Downer Management Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4705250/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705250/b1fdccf426f4d5dc749312dc921fd022c6499b10/header.jpg?t=1780683797",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "adarkfable",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T20:18:21Z"
+  },
+  {
+    "id": "steam-search-4704670",
+    "source": "steamdb",
+    "title": "Kodama: Slumber of the Gods Demo",
+    "description": "Kodama is a 2D hand-drawn action-adventure set in the world of Japanese folklore. Experience fast-paced platforming, fluid combat, and a mystical journey through a colorful, spirit-filled land.",
+    "url": "https://store.steampowered.com/app/4704670/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704670/b0286f650cf70a15a4d4eeb6910024b124ab75d5/header.jpg?t=1780684909",
+    "tags": [
+      "Action",
+      "Adventure"
+    ],
+    "developer": "VP Games",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T20:18:19Z"
+  },
+  {
+    "id": "steam-search-4775720",
+    "source": "steamdb",
+    "title": "Take The Wheel Demo",
+    "description": "Some days you just keep moving. Play as a teddy bear collecting scattered clarinet pieces while a shadow car follows close behind. A quiet narrative platformer about control, forgiveness, and finding your way back.",
+    "url": "https://store.steampowered.com/app/4775720/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775720/b0a4a0af7b0549839d22b087a601399a62167487/header.jpg?t=1780686339",
+    "tags": [
+      "Adventure"
+    ],
+    "developer": "TheDeveloperchu",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T20:18:16Z"
+  },
+  {
+    "id": "steam-search-4715670",
+    "source": "steamdb",
+    "title": "Fantasy World Manager Demo",
+    "description": "Create a vast, living fantasy world: heroes, creatures, quests and events; cultures, religions and factions; overworlds, interiors and dungeons-filled with stories, wars and choices.",
+    "url": "https://store.steampowered.com/app/4715670/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715670/bd0331951b67bacb87af5966fd5e42fd0234ef87/header.jpg?t=1780686349",
+    "tags": [
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "developer": "Florian Alushaj",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T20:18:14Z"
+  },
+  {
+    "id": "steam-search-4573320",
+    "source": "steamdb",
+    "title": "Sunset Sprinters '98 Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4573320/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4573320/3db6c3675c50f78c76b8cda130e0dbcf9b1da90b/header.jpg?t=1780686668",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "TrihemesGames LLC",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T20:18:11Z"
+  },
+  {
+    "id": "steam-search-4707370",
+    "source": "steamdb",
+    "title": "Master Fall Demo",
+    "description": "Master Fall is a 2D psychological horror puzzle-platformer where players rotate the world to manipulate gravity, solve puzzles, and uncover hidden secrets as reality slowly collapses into a surreal nightmare.",
+    "url": "https://store.steampowered.com/app/4707370/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707370/e0f204617d930793adb3034b012d78b81d5d480f/header.jpg?t=1780687139",
+    "tags": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "developer": "Rhys Anderson",
+    "release_date": "Jun 5, 2026",
+    "classification": "🔴 PSYCHOLOGICAL HAZARD",
+    "indexed_at": "2026-06-05T20:18:09Z"
+  },
+  {
+    "id": "steam-search-4799690",
+    "source": "steamdb",
+    "title": "ZAP: Beam Of Fate Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4799690/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799690/e649e37533dccd5e34c0a4f4fe7474f5067901f3/header.jpg?t=1780688110",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Kwakosoft",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T20:18:06Z"
+  },
+  {
+    "id": "steam-search-3856270",
+    "source": "steamdb",
+    "title": "Lost in Tandem Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/3856270/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856270/501bad8f1deb88cb00da52104f72498a6b47daaa/header.jpg?t=1780687875",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Tempete Studio",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T20:18:04Z"
+  },
+  {
+    "id": "steam-search-4806310",
+    "source": "steamdb",
+    "title": "Cow Abduction Frenzy Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4806310/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4806310/7e39c3322c12e00f05cedcc81b3ba2528125c58f/header.jpg?t=1780689129",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Mysterious Alien",
+    "release_date": "Coming soon",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T20:18:02Z"
+  },
+  {
+    "id": "steam-search-4793210",
+    "source": "steamdb",
+    "title": "One more time demo",
+    "description": "Parkour through flying islands, loot weapons, craft tools, and sabotage your rivals in a chaotic survival race where one mistake can send you from first place to last",
+    "url": "https://store.steampowered.com/app/4793210/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4793210/a3b3c8c4adedab081db42a479f3e1f1f4a22ddd6/header.jpg?t=1780689703",
+    "tags": [
+      "Action",
+      "Indie",
+      "Racing"
+    ],
+    "developer": "XMI Games",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T20:18:00Z"
+  },
+  {
+    "id": "steam-search-4813630",
+    "source": "steamdb",
+    "title": "The Convergence Demo",
+    "description": "A dark fantasy squad auto-battler where you recruit heroes from multiple eras, equip behavior-shaping chips, and fight through real-time battles across a collapsing timeline.",
+    "url": "https://store.steampowered.com/app/4813630/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813630/b8c9420aeed9f187269d22acdfcbfb714aa9cea8/header.jpg?t=1780689522",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "resvagames",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T20:17:57Z"
+  },
+  {
+    "id": "steam-search-4739320",
+    "source": "steamdb",
+    "title": "REDLINE — Strings of Fate Demo",
+    "description": "A sci-fi otome game where your choices shape love — and the future of society. Begin your your first semester at Redhaven University and meet the those who will change your fate and who you may change in return.",
+    "url": "https://store.steampowered.com/app/4739320/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739320/cf03db52dc78609c2b7a5618e5daac75b270ff78/header.jpg?t=1780689630",
+    "tags": [
+      "Adventure",
+      "Indie"
+    ],
+    "developer": "Moteru Games",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T20:17:55Z"
+  },
+  {
+    "id": "steam-search-4777000",
+    "source": "steamdb",
+    "title": "Bros Survivors Demo",
+    "description": "Two players, one body, absolute chaos. Survive enemy hordes in this co-op Survivors-like. Merge with a friend into a giant mech: one controls horizontal movement, the other vertical. Will you coordinate or die trying?",
+    "url": "https://store.steampowered.com/app/4777000/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4777000/0cdc171108a7ace13636fd4092475adf14a3b004/header.jpg?t=1780690406",
+    "tags": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "developer": "Brotime Games",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-05T20:17:51Z"
+  },
+  {
     "id": "steam-search-4787870",
     "source": "steamdb",
     "title": "Hawthorn Proof-of-Concept Demo",
@@ -7625,222 +7845,5 @@
     "release_date": "Jun 2, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-06-03T05:23:00Z"
-  },
-  {
-    "id": "steam-search-4799940",
-    "source": "steamdb",
-    "title": "Neon Null Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4799940/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799940/314769fb56b85a335f5e954b8e5855ab421d033c/header.jpg?t=1780458226",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Warsong Studios",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T05:22:59Z"
-  },
-  {
-    "id": "steam-search-4733380",
-    "source": "steamdb",
-    "title": "FlowTrak Demo",
-    "description": "Try the FlowTrak Demo, a desktop time tracking and focus assistant app that automatically records application usage and connects app activity, task focus sessions, and Steam status into a revisitable timeline.",
-    "url": "https://store.steampowered.com/app/4733380/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733380/5d9157553df9e173c81ea28985d12c274df65a9b/header.jpg?t=1780458424",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Bocchi The Dev",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T05:22:57Z"
-  },
-  {
-    "id": "steam-search-4666160",
-    "source": "steamdb",
-    "title": "Walrus Fly Demo",
-    "description": "Walrus Fly is an endless on-rails flying game, where you fly through rings! Enjoy combat-free flying, and use resources carefully to hold onto your Ring Streak. Go for as long as you can, but lose your HP and it's game over!",
-    "url": "https://store.steampowered.com/app/4666160/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4666160/2509515013933ae89f846bb2b8eb7d3915afb363/header.jpg?t=1780459225",
-    "tags": [
-      "Casual",
-      "Indie"
-    ],
-    "developer": "The Jam",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T05:22:55Z"
-  },
-  {
-    "id": "steam-search-4716650",
-    "source": "steamdb",
-    "title": "Slaughterhouse Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4716650/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4716650/1cd0ac23277a19a3835c89bff5b9325dffcb605e/header.jpg?t=1780462894",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "WTFMAN",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T05:22:53Z"
-  },
-  {
-    "id": "steam-search-4766710",
-    "source": "steamdb",
-    "title": "Despair Beneath the Sunless Sky Demo",
-    "description": "A psychological horror RPG blending dark fantasy and mystery. Explore a relentless open world, confront grotesque horrors in turnbased combat, and make irreversible choices. Uncover deep lore and mysteries visible only to those with discerning eyes.",
-    "url": "https://store.steampowered.com/app/4766710/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766710/a191b7e9f64e735e722bd86ac0915636dd04146b/header.jpg?t=1780440328",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "RPG"
-    ],
-    "developer": "Kyomotions",
-    "release_date": "Jun 2, 2026",
-    "classification": "🔴 PSYCHOLOGICAL HAZARD",
-    "indexed_at": "2026-06-03T00:19:07Z"
-  },
-  {
-    "id": "steam-search-4627760",
-    "source": "steamdb",
-    "title": "ESPecial Jobs Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4627760/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627760/4565f92788906d9bd9ad4d455e249c66941f8fdb/header.jpg?t=1780440601",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "ZLASH STUDIOS",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T00:19:01Z"
-  },
-  {
-    "id": "steam-search-4765630",
-    "source": "steamdb",
-    "title": "Idle Isekai Mining Demo",
-    "description": "An Idle mining game where your workers keep mining even when you're away! Hire workers, collect manager waifus to automate your mines and boost production. Dig deeper, build and upgrade your mine shafts to earn more gold. Pump those numbers up!",
-    "url": "https://store.steampowered.com/app/4765630/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765630/57953f433db9b056d6d5c6d79131f406daf27857/header.jpg?t=1780440596",
-    "tags": [
-      "Casual"
-    ],
-    "developer": "bitVillain",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T00:18:59Z"
-  },
-  {
-    "id": "steam-search-4615310",
-    "source": "steamdb",
-    "title": "Astracide Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4615310/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4615310/ef5989b1ab90b6de0ac7d21ff08da7b320bdd428/header.jpg?t=1780441028",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Yalt",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T00:18:57Z"
-  },
-  {
-    "id": "steam-search-4761010",
-    "source": "steamdb",
-    "title": "Rail Estate Demo",
-    "description": "Outbid your rivals in auctions for key railway routes, build and upgrade your tracks to dominate the rail economy. Compete to create the most profitable network, balancing speed, capacity, and maintenance in a dynamic simulation",
-    "url": "https://store.steampowered.com/app/4761010/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761010/b7ea8eb90f9a3147790322a012a88c3c8a1e1eee/header.jpg?t=1780442454",
-    "tags": [
-      "Indie",
-      "Simulation",
-      "Strategy"
-    ],
-    "developer": "Holonautic",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T00:18:55Z"
-  },
-  {
-    "id": "steam-search-4776940",
-    "source": "steamdb",
-    "title": "SLAMPUNKS Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4776940/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776940/155c5e57833c3c8e2b829d76fa9ca6afbe7e6b3a/header.jpg?t=1780442410",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "HALE GAMEWORKS UG",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T00:18:52Z"
-  },
-  {
-    "id": "steam-search-4764030",
-    "source": "steamdb",
-    "title": "There is no next stop Demo",
-    "description": "After the announcement &quot;There is no next stop,&quot; you are trapped in an endless subway. But you’re not alone—the &quot;GUESTS&quot; are hunting you. Trust the &quot;GUIDES&quot; to survive. Or don't.",
-    "url": "https://store.steampowered.com/app/4764030/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4764030/0525e7b5c4210aedaf11a8f386750cd7b635d543/header.jpg?t=1780442957",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "HANPAGE",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T00:18:50Z"
-  },
-  {
-    "id": "steam-search-4726870",
-    "source": "steamdb",
-    "title": "Regenerengine Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4726870/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4726870/aab70cb5b01498cf012f81f4d9cce8acf964d6e8/header.jpg?t=1780444513",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "CupidMakesGames, embevaily",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T00:18:47Z"
-  },
-  {
-    "id": "steam-search-4675630",
-    "source": "steamdb",
-    "title": "Banquet of Nausea~纳希亚盛宴 测试版",
-    "description": "Banquet of Nausea is a dark fantasy RPG made in RPGMaker. You will play as Liya — a girl on an epic quest to find her lost kin. Explore sacred ruins, purge festering abominations, and forge bonds with survivors whose fates lie in your hands.",
-    "url": "https://store.steampowered.com/app/4675630/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675630/151fdebee9ad039b12d0f13b1e5ec8cb2250af1f/header.jpg?t=1780445298",
-    "tags": [
-      "Adventure",
-      "RPG"
-    ],
-    "developer": "Aya",
-    "release_date": "Jun 2, 2026",
-    "classification": "⚪ ARCHIVED",
-    "indexed_at": "2026-06-03T00:18:45Z"
-  },
-  {
-    "id": "steam-search-4797500",
-    "source": "steamdb",
-    "title": "Abjure Demo",
-    "description": "Win by emptying your hand. Abjure is a roguelike deckbuilder where the 2 of Spades reigns supreme — draft cards, stack relics, and outplay every opponent in a strategic twist on the Big 2 card game.",
-    "url": "https://store.steampowered.com/app/4797500/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797500/1584cac297202b3d63a7208f234d58fe7558b6b1/header.jpg?t=1780436821",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Jax Games",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-02T22:40:37Z"
   }
 ]
