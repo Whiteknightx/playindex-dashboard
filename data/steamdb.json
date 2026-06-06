@@ -1,5 +1,101 @@
 [
   {
+    "id": "steam-search-4768500",
+    "source": "steamdb",
+    "title": "Necrofane Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4768500/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4768500/91afb6863c017fba2ae330262104afa6168241b8/header.jpg?t=1780773631",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Millennium Bound",
+    "release_date": "Jun 6, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T20:39:05Z"
+  },
+  {
+    "id": "steam-search-4776030",
+    "source": "steamdb",
+    "title": "The Hat Man Demo",
+    "description": "Experience a playable demo featuring a section from the early-middle portion of the story in this first-person psychological horror game inspired by The Hat Man urban legend, focusing on sleep paralysis, fear, and the terror of being unable to move.",
+    "url": "https://store.steampowered.com/app/4776030/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776030/38b6a2e4d72045203c6a356ca9eaeb08af83e6db/header.jpg?t=1780774896",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Black Lantern Entertainment",
+    "release_date": "Jun 6, 2026",
+    "classification": "🔴 PSYCHOLOGICAL HAZARD",
+    "indexed_at": "2026-06-06T20:39:03Z"
+  },
+  {
+    "id": "steam-search-4757600",
+    "source": "steamdb",
+    "title": "Ampsball - Demo",
+    "description": "Ampsball is a 5v5 action-packed sport that combines superhero powers under the beautiful Southern California sunshine. Grab a pair of sunglasses, a beach towel, and your most wrinkled cape for a sport that will make your arch-nemeses want to join in.",
+    "url": "https://store.steampowered.com/app/4757600/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4757600/ca040ddeaf7fe8a5db31c1f36cc033d9ff36f648/header.jpg?t=1780775114",
+    "tags": [
+      "Action",
+      "Indie",
+      "Sports"
+    ],
+    "developer": "Ampsball Games",
+    "release_date": "Jun 6, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T20:39:02Z"
+  },
+  {
+    "id": "steam-search-4365660",
+    "source": "steamdb",
+    "title": "Fenestra Demo",
+    "description": "A fusion of semi-turn-based battles and roguelike mechanics. Assemble a party of 3 heroes, explore dynamic dungeons, and discover powerful builds as you fight your way through fearsome monsters. Plan ahead and adapt to your surroundings, or meet your inevitable end.",
+    "url": "https://store.steampowered.com/app/4365660/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365660/a4830831b8f66a9d70617a1a8e0b28fca0b940c9/header.jpg?t=1780775338",
+    "tags": [
+      "RPG",
+      "Strategy"
+    ],
+    "developer": "WaterDemon",
+    "release_date": "Jun 6, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T20:38:59Z"
+  },
+  {
+    "id": "steam-search-4776140",
+    "source": "steamdb",
+    "title": "Featherless Demo",
+    "description": "You’re a duck. You’re armed. Everything wants you dead. Fair enough. Blast through hordes of enemies, discover ridiculous weapon combos, and grow stronger every run in this chaotic roguelike shooter.",
+    "url": "https://store.steampowered.com/app/4776140/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776140/455221eb35ee64a8ce106e4c70e91da1d8e67904/header.jpg?t=1780777180",
+    "tags": [
+      "Action",
+      "Indie"
+    ],
+    "developer": "Gamedevwithzoek, Tabaduf",
+    "release_date": "Jun 6, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T20:38:57Z"
+  },
+  {
+    "id": "steam-search-4780160",
+    "source": "steamdb",
+    "title": "Shadows of Fortificar Demo",
+    "description": "A hybrid role-playing visual novel based on Dungeons&amp;Dragons. Players take control of one of five playable characters, each of whom offers a different perspective on the story. The story is set in an original universe - the city of Fortificar, which has been struck by an incurable plague.",
+    "url": "https://store.steampowered.com/app/4780160/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4780160/289a1b986bec26e41b3ff190c00dad974b4a8c4a/header.jpg?t=1780777276",
+    "tags": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "developer": "Red Dreams",
+    "release_date": "Coming soon",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T20:38:54Z"
+  },
+  {
     "id": "steam-search-4807300",
     "source": "steamdb",
     "title": "ABISMO Demo",
@@ -7754,99 +7850,5 @@
     "release_date": "Jun 3, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-06-03T15:12:56Z"
-  },
-  {
-    "id": "steam-search-4776370",
-    "source": "steamdb",
-    "title": "Krieg Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4776370/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776370/443f5e892f3ab84b575d9177f2108099054141ec/header.jpg?t=1780486304",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "EliteInterapptive",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T15:12:53Z"
-  },
-  {
-    "id": "steam-search-4794790",
-    "source": "steamdb",
-    "title": "Claire Detective 1 : The Monster of Lake Flavoria Demo",
-    "description": "A monster has been spotted at Flavoria lake ! Hoax or truth ? Start your detective career with panache by solving this mystery... not so complicated... but hey ! First time for everything, right ?",
-    "url": "https://store.steampowered.com/app/4794790/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794790/d45408528289b197bfd5814ccba37fa489b70480/header.jpg?t=1780486314",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Shiropopi Works",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟠 CORRUPTED",
-    "indexed_at": "2026-06-03T15:12:51Z"
-  },
-  {
-    "id": "steam-search-4752000",
-    "source": "steamdb",
-    "title": "DARK DANCE Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4752000/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4752000/7bda0f9b3cf315c3bcf052b5e99b9ee99d4a3dd9/header.jpg?t=1780486396",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "NNIX Inc.",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T15:12:50Z"
-  },
-  {
-    "id": "steam-search-4519730",
-    "source": "steamdb",
-    "title": "Dave's Word Game Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4519730/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4519730/c4c3d5f40024be468e4e04b4460222df968520a0/header.jpg?t=1780486834",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Bearwaves",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T15:12:48Z"
-  },
-  {
-    "id": "steam-search-4576380",
-    "source": "steamdb",
-    "title": "Still Warm Demo",
-    "description": "Deep-fry lángos in a Budapest alleyway and serve the regulars from the apartment building across the courtyard while they slowly realize someone is picking them off, one by one.",
-    "url": "https://store.steampowered.com/app/4576380/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576380/ea94968e4c57e36b3df9c973569c946175109019/header.jpg?t=1780487679",
-    "tags": [
-      "Indie",
-      "Simulation"
-    ],
-    "developer": "Mark Molnar",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T15:12:46Z"
-  },
-  {
-    "id": "steam-search-4433170",
-    "source": "steamdb",
-    "title": "Absorber: Absorb Adapt Survive Demo",
-    "description": "Consume enemies. Steal their powers. Survive the grid. A hardcore tactical roguelike on a 7×7 corrupted mainframe with 160+ synergistic programs. Permadeath. Every run matters.",
-    "url": "https://store.steampowered.com/app/4433170/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433170/5b1b1c6d1c71806b362b61b9fae1ab3155e83e0a/header.jpg?t=1780490266",
-    "tags": [
-      "Indie",
-      "RPG",
-      "Simulation",
-      "Strategy"
-    ],
-    "developer": "Martin Edmaier",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T15:12:43Z"
   }
 ]

@@ -1,5 +1,113 @@
 [
   {
+    "id": "4768500",
+    "source": "steam",
+    "title": "Necrofane Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4768500/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4768500/91afb6863c017fba2ae330262104afa6168241b8/header.jpg?t=1780773631",
+    "tags": [],
+    "developer": "Millennium Bound",
+    "release_date": "Jun 6, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T20:36:24Z"
+  },
+  {
+    "id": "4683720",
+    "source": "steam",
+    "title": "BioEden Demo",
+    "description": "This is the demo version of BioEden. Step into a cozy management journey as a Keeper and bring life back to a world quietly waiting to be healed. Craft the perfect biome for dozens of wonderful animal species and use your ingenuity to restore your planet, one ecosystem at a time.",
+    "url": "https://store.steampowered.com/app/4683720/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683720/59114c8405498cb248aa960b1d280f6a8bb49869/header.jpg?t=1780776946",
+    "tags": [
+      "Simulation",
+      "Strategy"
+    ],
+    "developer": "Broken Arms Games",
+    "release_date": "Jun 6, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T20:36:20Z"
+  },
+  {
+    "id": "4776030",
+    "source": "steam",
+    "title": "The Hat Man Demo",
+    "description": "Experience a playable demo featuring a section from the early-middle portion of the story in this first-person psychological horror game inspired by The Hat Man urban legend, focusing on sleep paralysis, fear, and the terror of being unable to move.",
+    "url": "https://store.steampowered.com/app/4776030/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776030/38b6a2e4d72045203c6a356ca9eaeb08af83e6db/header.jpg?t=1780774896",
+    "tags": [],
+    "developer": "Black Lantern Entertainment",
+    "release_date": "Jun 6, 2026",
+    "classification": "🔴 PSYCHOLOGICAL HAZARD",
+    "indexed_at": "2026-06-06T20:36:16Z"
+  },
+  {
+    "id": "4757600",
+    "source": "steam",
+    "title": "Ampsball - Demo",
+    "description": "Ampsball is a 5v5 action-packed sport that combines superhero powers under the beautiful Southern California sunshine. Grab a pair of sunglasses, a beach towel, and your most wrinkled cape for a sport that will make your arch-nemeses want to join in.",
+    "url": "https://store.steampowered.com/app/4757600/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4757600/ca040ddeaf7fe8a5db31c1f36cc033d9ff36f648/header.jpg?t=1780775114",
+    "tags": [
+      "Action",
+      "Indie",
+      "Sports"
+    ],
+    "developer": "Ampsball Games",
+    "release_date": "Jun 6, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T20:36:13Z"
+  },
+  {
+    "id": "4365660",
+    "source": "steam",
+    "title": "Fenestra Demo",
+    "description": "A fusion of semi-turn-based battles and roguelike mechanics. Assemble a party of 3 heroes, explore dynamic dungeons, and discover powerful builds as you fight your way through fearsome monsters. Plan ahead and adapt to your surroundings, or meet your inevitable end.",
+    "url": "https://store.steampowered.com/app/4365660/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365660/a4830831b8f66a9d70617a1a8e0b28fca0b940c9/header.jpg?t=1780775017",
+    "tags": [
+      "RPG",
+      "Strategy"
+    ],
+    "developer": "WaterDemon",
+    "release_date": "To be announced",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T20:36:09Z"
+  },
+  {
+    "id": "4776140",
+    "source": "steam",
+    "title": "Featherless Demo",
+    "description": "You’re a duck. You’re armed. Everything wants you dead. Fair enough. Blast through hordes of enemies, discover ridiculous weapon combos, and grow stronger every run in this chaotic roguelike shooter.",
+    "url": "https://store.steampowered.com/app/4776140/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776140/455221eb35ee64a8ce106e4c70e91da1d8e67904/header.jpg?t=1780777180",
+    "tags": [
+      "Action",
+      "Indie"
+    ],
+    "developer": "Gamedevwithzoek, Tabaduf",
+    "release_date": "Jun 6, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T20:36:06Z"
+  },
+  {
+    "id": "4780160",
+    "source": "steam",
+    "title": "Shadows of Fortificar Demo",
+    "description": "A hybrid role-playing visual novel based on Dungeons&amp;Dragons. Players take control of one of five playable characters, each of whom offers a different perspective on the story. The story is set in an original universe - the city of Fortificar, which has been struck by an incurable plague.",
+    "url": "https://store.steampowered.com/app/4780160/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4780160/289a1b986bec26e41b3ff190c00dad974b4a8c4a/header.jpg?t=1780777276",
+    "tags": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "developer": "Red Dreams",
+    "release_date": "Coming soon",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T20:36:02Z"
+  },
+  {
     "id": "4807530",
     "source": "steam",
     "title": "Above Par Demo",
@@ -7212,103 +7320,5 @@
     "release_date": "Jun 3, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-06-03T19:01:21Z"
-  },
-  {
-    "id": "3213360",
-    "source": "steam",
-    "title": "CUBOID Demo",
-    "description": "CUBOID is a challenging spatial puzzle game with minimalist design, where you progress through a labyrinth of levels using a unique mechanic of merging with world blocks.",
-    "url": "https://store.steampowered.com/app/3213360/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213360/e33a4ae67224737636e226af1b2086701f8f2ce6/header.jpg?t=1780511587",
-    "tags": [
-      "Casual",
-      "Indie",
-      "Strategy"
-    ],
-    "developer": "azeton games",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:01:19Z"
-  },
-  {
-    "id": "4787020",
-    "source": "steam",
-    "title": "Horn of the Warlord Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4787020/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787020/1f3f679573733ae1392a17b3f39daad45d1d1685/header.jpg?t=1780511620",
-    "tags": [],
-    "developer": "MagicKrol",
-    "release_date": "",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:01:15Z"
-  },
-  {
-    "id": "4780670",
-    "source": "steam",
-    "title": "Gravity Grove Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4780670/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4780670/1799d4b2e777b82bcc0b3469e9df54bb15d9b79e/header.jpg?t=1780511726",
-    "tags": [],
-    "developer": "Tapling Games",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:01:12Z"
-  },
-  {
-    "id": "4666550",
-    "source": "steam",
-    "title": "Kint Demo",
-    "description": "A text-based fantasy multiplayer RPG where all players must decide what lore is true. Explore the world of Seram, learn everything you can. Resolve conflicts between lore by voting each week. Can you solve the mystery behind the Kilns?",
-    "url": "https://store.steampowered.com/app/4666550/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4666550/7dcde9d09f379d0634a6962628c0255f07dac870/header.jpg?t=1780512477",
-    "tags": [
-      "Massively Multiplayer",
-      "RPG"
-    ],
-    "developer": "Conor Souness",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟠 CORRUPTED",
-    "indexed_at": "2026-06-03T19:01:09Z"
-  },
-  {
-    "id": "4789290",
-    "source": "steam",
-    "title": "FeeBay Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4789290/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789290/89bc6ca2e76ea9954d8ccd0ea5f2cacb4261e0f6/header.jpg?t=1780512917",
-    "tags": [],
-    "developer": "Lake Country Games",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:01:06Z"
-  },
-  {
-    "id": "4415500",
-    "source": "steam",
-    "title": "Maldhalla Demo",
-    "description": "Try Maldhalla free! Survive endless waves with 4 characters and 10 weapons. No time limit — play as long as you can last. Love it? The full version unlocks 21 characters, 32 weapons, leaderboards, and more.",
-    "url": "https://store.steampowered.com/app/4415500/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4415500/59d3ba0a755e58567d7e317775fef5e61080e1c3/header.jpg?t=1780513199",
-    "tags": [],
-    "developer": "eyejoker",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:01:03Z"
-  },
-  {
-    "id": "4711440",
-    "source": "steam",
-    "title": "白之追猎 Hunter White Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4711440/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4711440/a7b0d48e5703d29bd091a400554d3a5d06e38d7e/header.jpg?t=1780460939",
-    "tags": [],
-    "developer": "ego studio",
-    "release_date": "Jun 2, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T15:08:51Z"
   }
 ]
