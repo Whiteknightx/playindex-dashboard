@@ -1,5 +1,120 @@
 [
   {
+    "id": "4811870",
+    "source": "steam",
+    "title": "Azimuth Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4811870/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811870/f5857940fd5aefb91a58e37301f3f3da4916867a/header.jpg?t=1780700896",
+    "tags": [],
+    "developer": "TheRooklet",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T01:24:42Z"
+  },
+  {
+    "id": "4796140",
+    "source": "steam",
+    "title": "Cognitive Fracture Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4796140/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4796140/d72e1f8d5c9ca8a8fcbce2b3ee3a3b7e849e22ab/header.jpg?t=1780702275",
+    "tags": [],
+    "developer": "Funny Spritz Interactive",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T01:24:40Z"
+  },
+  {
+    "id": "4803150",
+    "source": "steam",
+    "title": "Gun Monkey! Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4803150/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803150/cd3df77d3d302ae9b6d8afc596f04c802918b98c/header.jpg?t=1780704129",
+    "tags": [],
+    "developer": "Mad Poly",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T01:24:37Z"
+  },
+  {
+    "id": "4797060",
+    "source": "steam",
+    "title": "Alien Apocalypse Demo",
+    "description": "In this demo you will be able to try out Alien Apocalypse an open-world sandbox survival game set after a devastating alien invasion. Scavenge for resources, craft, build defenses, and harness alien technology to fight back. Play solo or in co-op and reclaim what’s left of the planet.",
+    "url": "https://store.steampowered.com/app/4797060/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797060/6b217165fa21d163a0d8e7597de6e8e9dd43b52d/header.jpg?t=1780704329",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "developer": "Umbu Games",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T01:24:34Z"
+  },
+  {
+    "id": "4803170",
+    "source": "steam",
+    "title": "Substrate: Emergence Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4803170/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803170/493a3aece59638d75f82834072585193b086f2ba/header.jpg?t=1780705178",
+    "tags": [],
+    "developer": "Petri Dish Games LLC",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T01:24:30Z"
+  },
+  {
+    "id": "4811250",
+    "source": "steam",
+    "title": "Lost Stories Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4811250/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811250/3a4cfc88bd7428f05f99cf01d5fc1fead141928c/header.jpg?t=1780705757",
+    "tags": [],
+    "developer": "Fugon",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T01:24:28Z"
+  },
+  {
+    "id": "4770270",
+    "source": "steam",
+    "title": "Hoverise Rebellion Demo",
+    "description": "Pilot a fast and agile HoverTank in a sci-fi vehicular arena shooter focused on high-speed movement, explosive combat, abilities, and classic multiplayer modes.",
+    "url": "https://store.steampowered.com/app/4770270/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4770270/bd62750107ff2299de19edee5bbf81387ff9828b/header.jpg?t=1780707825",
+    "tags": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "developer": "Zeak Games",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T01:24:25Z"
+  },
+  {
+    "id": "4812210",
+    "source": "steam",
+    "title": "Spiretela Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4812210/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812210/5c2275896ca914145a4ab13d6a4ac2473605f72a/header.jpg?t=1780706907",
+    "tags": [],
+    "developer": "Shivary Game Studio",
+    "release_date": "Jun 5, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-06T01:24:20Z"
+  },
+  {
     "id": "4755000",
     "source": "steam",
     "title": "Hug Factory Demo",
@@ -7145,135 +7260,5 @@
     "release_date": "Jun 3, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-06-03T10:14:37Z"
-  },
-  {
-    "id": "4795980",
-    "source": "steam",
-    "title": "Pengzle:Arctic Arcane Demo",
-    "description": "Pengzle is a real-time puzzle action adventure where you weave mana into spell formulas in the middle of battle. Read the flow of combat, build the right combination, and cast at the perfect moment as a small penguin mage in a distinctive polar fantasy world.",
-    "url": "https://store.steampowered.com/app/4795980/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4795980/9a84212c24fd3c437f4dd6699dac15ed79130685/header.jpg?t=1780471618",
-    "tags": [
-      "Indie",
-      "Strategy"
-    ],
-    "developer": "NootNootCrew",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:14:34Z"
-  },
-  {
-    "id": "4753100",
-    "source": "steam",
-    "title": "NETRUN Demo",
-    "description": "With dual grappling hooks in hand, swing, thrust, and dash your way to victory in this fast, momentum-based precision platformer packed with traps, enemies, and physics-based challenges.",
-    "url": "https://store.steampowered.com/app/4753100/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753100/76d9d0374cdf4ca7771025f00f698c7091eca771/header.jpg?t=1780471930",
-    "tags": [
-      "Action",
-      "Indie"
-    ],
-    "developer": "Swango Jones",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:14:30Z"
-  },
-  {
-    "id": "4380420",
-    "source": "steam",
-    "title": "Chonky Cat Demo",
-    "description": "Become the fluffiest menace in Chonky Cat, play as a massively overfed cat on a never ending binge. Chase, crush, and devour waves of creatures to grow even fatter and more unstoppable. Eat everything, unlock upgrades, multipliers and customizations and see just how chonky you can get!",
-    "url": "https://store.steampowered.com/app/4380420/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380420/5ef86a66373ae1360050c9852ee90010bf462aa3/header.jpg?t=1780474129",
-    "tags": [
-      "Action",
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "developer": "Jilted Generation Productions",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:14:27Z"
-  },
-  {
-    "id": "4783690",
-    "source": "steam",
-    "title": "Abracademia Demo",
-    "description": "Become a wizard, and a thumping good one! Abracademia is a cozy mage idle life-sim that lives on your screen and keeps you company while you work or play. Pick a coven, manage your daily routine, learn spells, make friends, embark on adventures, and pass exams on your way to graduation.",
-    "url": "https://store.steampowered.com/app/4783690/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783690/78667d24053382f4f4d689b517536030399944ad/header.jpg?t=1780473241",
-    "tags": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "RPG",
-      "Simulation",
-      "Strategy"
-    ],
-    "developer": "Seele Games",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:14:21Z"
-  },
-  {
-    "id": "4403300",
-    "source": "steam",
-    "title": "Crime Union Demo",
-    "description": "Build your criminal empire from the shadows. Manage global networks, launder black money, hire specialists, and crush rival gangs in tactical card battles. In Crime Union, staying alive while the law watches your every move is just as hard as reaching the top. Don't get busted.",
-    "url": "https://store.steampowered.com/app/4403300/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403300/03cca45881e46238b67e184e3ec496a1c13ac5fd/header.jpg?t=1780473526",
-    "tags": [
-      "Indie",
-      "Strategy"
-    ],
-    "developer": "54k Games",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:14:16Z"
-  },
-  {
-    "id": "4621180",
-    "source": "steam",
-    "title": "Ascenders: Beyond the Peak Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4621180/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621180/09025a8458b6f1b4eecd5cabedffec1ea2e48378/header.jpg?t=1780474208",
-    "tags": [],
-    "developer": "Ludogram",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:14:10Z"
-  },
-  {
-    "id": "4585290",
-    "source": "steam",
-    "title": "Squadika Demo",
-    "description": "Top-down arena shooter roguelite where fallen Steam friends &amp; Twitch chatters become your power. Control a squad, survive relentless waves and defeat powerful bosses. Compete on leaderboards! Bullet hell Brotato-like with wild builds, random events &amp; high replayability.",
-    "url": "https://store.steampowered.com/app/4585290/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4585290/15396fa952274f5a12abdc15e70e556281743650/header.jpg?t=1780476099",
-    "tags": [
-      "Action",
-      "Casual",
-      "Indie",
-      "RPG"
-    ],
-    "developer": "Winterika",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:14:07Z"
-  },
-  {
-    "id": "4687370",
-    "source": "steam",
-    "title": "G Squad Demo",
-    "description": "Run the gauntlet with G Squad in this hand-crafted autobattler with roguelite and RPG elements, designed to scratch the strategy itch without the spreadsheets. 9 unique heroes, in-run rewards, permanent progression, and boss challenge modifiers to test yourself against.",
-    "url": "https://store.steampowered.com/app/4687370/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687370/4f4cc3b21a4897061594496443ecf25eb198520b/header.jpg?t=1780476286",
-    "tags": [],
-    "developer": "Vigorous Games",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T10:14:03Z"
   }
 ]
