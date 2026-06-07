@@ -1,5 +1,116 @@
 [
   {
+    "id": "steam-search-4362430",
+    "source": "steamdb",
+    "title": "About Fishing Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4362430/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362430/36b1e391df9ffc73310bfa9b13da132cc312a6db/header.jpg?t=1780858804",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "The Water Museum",
+    "release_date": "Jun 7, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-07T20:10:18Z"
+  },
+  {
+    "id": "steam-search-4716450",
+    "source": "steamdb",
+    "title": "Star Trek: Outposts Unknown Demo",
+    "description": "Lead your crew across a strange new world in this narrative driven outpost builder demo! Research, explore, and build as you face a mysterious cosmic force that threatens a new ally. Your adventure awaits, Captain.",
+    "url": "https://store.steampowered.com/app/4716450/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4716450/8f41edd99d109dd639a5cda142d32527e40f9e66/header.jpg?t=1780858938",
+    "tags": [
+      "Simulation"
+    ],
+    "developer": " Magic Fuel Games",
+    "release_date": "Jun 7, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-07T20:10:16Z"
+  },
+  {
+    "id": "steam-search-4760210",
+    "source": "steamdb",
+    "title": "Another Door Demo",
+    "description": "Another Door is a multiplayer, turn-based roguelike with monsters, despair, risk and betrayal. Hide your intentions, bluff to survive and bet on your luck. Will you back out, or venture through Another Door?",
+    "url": "https://store.steampowered.com/app/4760210/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760210/a4dc41a64b94e893f81859e19e1b210c79d5ffc9/header.jpg?t=1780858939",
+    "tags": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "developer": "Mizar and Alcor Interactive",
+    "release_date": "Jun 7, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-07T20:10:15Z"
+  },
+  {
+    "id": "steam-search-4589240",
+    "source": "steamdb",
+    "title": "Anti-Anti-Cheat: a musical action game Demo",
+    "description": "This is a demo version of musical action game where you need to dodge many enemy bullets appearing to the rhythm of music. Can you defeat Anti-Cheat?",
+    "url": "https://store.steampowered.com/app/4589240/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4589240/7cf13fd6912919168863ece3d7847c7337507d4f/header.jpg?t=1780860067",
+    "tags": [
+      "Action",
+      "Indie"
+    ],
+    "developer": "Heartales",
+    "release_date": "Q2 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-07T20:10:11Z"
+  },
+  {
+    "id": "steam-search-3743280",
+    "source": "steamdb",
+    "title": "Virtue and a Sledgehammer Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/3743280/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3743280/ce8fa7feb75b858e6ae661f8d34fa291c213103f/header.jpg?t=1780860312",
+    "tags": [
+      "new-release"
+    ],
+    "developer": " Deconstructeam, Selkie Harbour",
+    "release_date": "Jun 7, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-07T20:10:08Z"
+  },
+  {
+    "id": "steam-search-4641850",
+    "source": "steamdb",
+    "title": "Maximum Thunderness Demo",
+    "description": "An extreme response to minor problems. MAXIMUM THUNDERNESS is a roguelike side-scrolling co-op action game where you battle space alien criminals attempting to conquer Earth through a series of increasingly petty crimes.",
+    "url": "https://store.steampowered.com/app/4641850/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4641850/ede3f56550ff068f622fc24efbdf079aacd9021e/header.jpg?t=1780861005",
+    "tags": [
+      "Action",
+      "Indie"
+    ],
+    "developer": "Berzerk Studio",
+    "release_date": "Jun 7, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-07T20:10:07Z"
+  },
+  {
+    "id": "steam-search-4784470",
+    "source": "steamdb",
+    "title": "Safehaven Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4784470/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4784470/26d0fd40b34f563a7d959b1db6df85e11a169eae/header.jpg?t=1780861779",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "SOP",
+    "release_date": "Jun 7, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-07T20:10:03Z"
+  },
+  {
     "id": "steam-search-4784180",
     "source": "steamdb",
     "title": "Airspace Master Demo",
@@ -7736,111 +7847,5 @@
     "release_date": "Jun 3, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-06-03T22:10:59Z"
-  },
-  {
-    "id": "steam-search-4769170",
-    "source": "steamdb",
-    "title": "Grid Grind Demo",
-    "description": "Grid Grind is a retro-futuristic cyberpunk aesthetic themed arcade experience. Earn massive points by grazing past hazards and circling them. A thrilling high risk reward gameplay setup where precision is the key to maximizing your score.",
-    "url": "https://store.steampowered.com/app/4769170/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4769170/baf344adea9d3f629709736111133490e07ef05a/header.jpg?t=1780501415",
-    "tags": [
-      "Action",
-      "Indie"
-    ],
-    "developer": "End Boss Games LLC",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:07:51Z"
-  },
-  {
-    "id": "steam-search-4765990",
-    "source": "steamdb",
-    "title": "The Looking Glass Wars: House of Cards Demo",
-    "description": "Play It NowPlay a new kind of solitaire. Flip cards, build melds (short sets of runs or three-of-a-kind), and meet the quest’s conditions. Spot patterns, build smart sequences, and adapt to the draw across 140+ handcrafted quests. Each puzzle introduces new constraints, tougher requirements, and fresh ways to test your approach.",
-    "url": "https://store.steampowered.com/app/4765990/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765990/36e255e25bd198dc592c51de129a3e6008b5dc95/header.jpg?t=1780501570",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Ep1t0me Studios",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:07:49Z"
-  },
-  {
-    "id": "steam-search-4644830",
-    "source": "steamdb",
-    "title": "Octal: Of Course They Are Linked Demo",
-    "description": "A strategy game about correlations and bending reality for profit. You’re hired to increase a company’s sales—by any means necessary. Link variables together and transform changes in the world into revenue. More penguins? Somehow, that means higher sales. Don’t question it. Optimize it.",
-    "url": "https://store.steampowered.com/app/4644830/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644830/8f92791a8fcf1b9523c25499986330795a6e7f84/header.jpg?t=1780501731",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "EMaD",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:07:47Z"
-  },
-  {
-    "id": "steam-search-4750300",
-    "source": "steamdb",
-    "title": "Meet Me In The Well Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4750300/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4750300/df364bbcb2a0f8f6f8cc2ba8c38ca24ad70a2a53/header.jpg?t=1780501760",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Lord Moose Games",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:07:45Z"
-  },
-  {
-    "id": "steam-search-4594470",
-    "source": "steamdb",
-    "title": "Wild Weekend Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4594470/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4594470/a16da29e29bccc02e7cb62a40a98985fc327d38f/header.jpg?t=1780501774",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Ktulhu Solutions",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:07:44Z"
-  },
-  {
-    "id": "steam-search-4680910",
-    "source": "steamdb",
-    "title": "Legends of Starkadia Demo",
-    "description": "Legends of Starkadia is a quirky turn-based RPG full of quick-time events and action-packed adventure! The Starkadian Empire is under attack by one of their own and it’s up to a team of unlikely heroes to assist the resistance to restore peace by defeating Niko and his legion of interstellar armies.",
-    "url": "https://store.steampowered.com/app/4680910/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4680910/c69147b686325ecd4339276a56a21241b363e7dd/header.jpg?t=1780501851",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Doom Turtle",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:07:42Z"
-  },
-  {
-    "id": "steam-search-4652530",
-    "source": "steamdb",
-    "title": "Factory Town 2: Paradise Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4652530/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652530/7c981dfe1c74fdf7dd64eeeb3187d4119626ed63/header.jpg?t=1780502342",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Erik Asmussen",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:07:40Z"
   }
 ]
