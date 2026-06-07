@@ -1,5 +1,37 @@
 [
   {
+    "id": "steam-search-4753390",
+    "source": "steamdb",
+    "title": "Bloody Grids Demo",
+    "description": "A single move to carve a path through blood.Use the information on the grid to avoid, fight, and devour unseen enemies in this Minesweeper-style puzzle adventure.",
+    "url": "https://store.steampowered.com/app/4753390/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4753390/061e4ceeb80a5674c349ed0b46407dd04b480049/header.jpg?t=1780844664",
+    "tags": [
+      "Indie",
+      "Simulation"
+    ],
+    "developer": "quziralab.",
+    "release_date": "Jun 7, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-07T15:58:10Z"
+  },
+  {
+    "id": "steam-search-4291690",
+    "source": "steamdb",
+    "title": "Herd Demo",
+    "description": "Build your set, outplay your rival, and win the Mélodus in a cute musical card battler where every match becomes a live performance.",
+    "url": "https://store.steampowered.com/app/4291690/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291690/5ddf93d5106cc5fedb0872f1ae048410dc4bc9f5/header.jpg?t=1780846975",
+    "tags": [
+      "Casual",
+      "Strategy"
+    ],
+    "developer": "Games of Forge",
+    "release_date": "Jun 7, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-07T15:58:07Z"
+  },
+  {
     "id": "steam-search-4775960",
     "source": "steamdb",
     "title": "Runic Curse Remastered Demo",
@@ -7812,35 +7844,5 @@
     "release_date": "Jun 3, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-06-03T19:07:24Z"
-  },
-  {
-    "id": "steam-search-4735500",
-    "source": "steamdb",
-    "title": "Trotter Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4735500/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735500/a56cf4df6d676a65bd22606dc1148bc37086fbf2/header.jpg?t=1780503650",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Sysiac Games",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:07:22Z"
-  },
-  {
-    "id": "steam-search-4733980",
-    "source": "steamdb",
-    "title": "Tormentum II Demo",
-    "description": "Tormentum II is a dark, surreal Point &amp; Click adventure where nightmare worlds, grotesque creatures, and uneasy choices await. Inspired by H.R. Giger and Zdzisław Beksiński, it’s the long-awaited return to Tormentum.",
-    "url": "https://store.steampowered.com/app/4733980/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733980/60cdc7248129b3a5beae4c1039e9cc84d49419ed/header.jpg?t=1780506417",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "OhNoo Studio",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟣 PROTOTYPE WORTH WATCHING",
-    "indexed_at": "2026-06-03T19:07:20Z"
   }
 ]
