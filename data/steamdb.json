@@ -1,5 +1,35 @@
 [
   {
+    "id": "steam-search-4782290",
+    "source": "steamdb",
+    "title": "Talas Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4782290/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782290/306f9ac433fe7fbddf0e01d80a009852d1f9a17c/header.jpg?t=1780787415",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "Chillout Games",
+    "release_date": "Dec 31, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-07T00:08:06Z"
+  },
+  {
+    "id": "steam-search-4801130",
+    "source": "steamdb",
+    "title": "Nimaat Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4801130/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4801130/4407292914a55c83d628c120fea3b467f60947fc/header.jpg?t=1780787545",
+    "tags": [
+      "new-release"
+    ],
+    "developer": "RaObscura",
+    "release_date": "Jun 6, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-07T00:08:04Z"
+  },
+  {
     "id": "steam-search-4489650",
     "source": "steamdb",
     "title": "The Isle of Lost Bees Demo",
@@ -7815,35 +7845,5 @@
     "release_date": "Jun 3, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-06-03T19:06:29Z"
-  },
-  {
-    "id": "steam-search-4665160",
-    "source": "steamdb",
-    "title": "Ispell Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4665160/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665160/473e18fe5524873bef02c45ac51af8c254691d26/header.jpg?t=1780510295",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "RayMim",
-    "release_date": "Coming soon",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:06:27Z"
-  },
-  {
-    "id": "steam-search-4779850",
-    "source": "steamdb",
-    "title": "Epic Balls Smashing Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4779850/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779850/2109e7ace28aad6d78800d4c67079366a53a1690/header.jpg?t=1780511919",
-    "tags": [
-      "new-release"
-    ],
-    "developer": "Night Steed Games",
-    "release_date": "Jun 3, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-03T19:06:25Z"
   }
 ]
