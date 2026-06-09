@@ -1,5 +1,113 @@
 [
   {
+    "id": "4749540",
+    "source": "steam",
+    "title": "Pawns Revenge Demo",
+    "description": "The rules on the chessboard have changed! Start as a single pawn, gather roguelike abilities, and take your revenge on the Queen by defeating powerful pieces. Plan your moves wisely, it's your turn to checkmate!",
+    "url": "https://store.steampowered.com/app/4749540/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4749540/fbd649b2d12254c4f9721220b5fa09a6c5a82ee8/header.jpg?t=1780993753",
+    "tags": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "developer": "Deniz Kıran",
+    "release_date": "Jun 9, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-09T11:33:53Z"
+  },
+  {
+    "id": "4743750",
+    "source": "steam",
+    "title": "Alchemist Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4743750/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743750/7cb0d82eabcb4b876df5a2d2cd61026a775d84a3/header.jpg?t=1780996171",
+    "tags": [],
+    "developer": "Murbenchik",
+    "release_date": "Jun 9, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-09T11:33:49Z"
+  },
+  {
+    "id": "4809900",
+    "source": "steam",
+    "title": "Survivors: Become an Immortal DEMO",
+    "description": "DEMO of [ Survivors: Become an Immortal ]",
+    "url": "https://store.steampowered.com/app/4809900/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4809900/eac50314b24a3da0487387f765ec3a25889c04ab/header.jpg?t=1780998389",
+    "tags": [
+      "Action",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "developer": "幺月星",
+    "release_date": "Jun 9, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-09T11:33:45Z"
+  },
+  {
+    "id": "4478600",
+    "source": "steam",
+    "title": "How To Destroy A City Demo",
+    "description": "How to Destroy a City is a casual incremental game where you pilot a giant robot to destroy the city. Upgrade your robot, fight the army, and unlock special abilities and new robots. It's time to turn the city to ashes!",
+    "url": "https://store.steampowered.com/app/4478600/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478600/6a7c1df0ad28165fd320ec0bb75767a5bdfbdbe3/header.jpg?t=1780997982",
+    "tags": [
+      "Casual"
+    ],
+    "developer": "Studio LEF",
+    "release_date": "Jun 9, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-09T11:33:40Z"
+  },
+  {
+    "id": "4804530",
+    "source": "steam",
+    "title": "Interstellar Inn Demo",
+    "description": "Interstellar Inn is a 2D hotel building and management sim in space. - DEMO -",
+    "url": "https://store.steampowered.com/app/4804530/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804530/e2e91521fa34188dc9a16fab30c44a4c110d5ab3/header.jpg?t=1780998771",
+    "tags": [
+      "Simulation"
+    ],
+    "developer": "Kunaya",
+    "release_date": "Jun 9, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-09T11:33:37Z"
+  },
+  {
+    "id": "4809340",
+    "source": "steam",
+    "title": "MAGISTAL Demo",
+    "description": "MAGISTAL is a strategic board game where you battle by developing units on the board. Units level up in the order that magic energy is accumulated! Move your units and attack your opponent with arts. The first to destroy a certain number of your opponent's units wins!",
+    "url": "https://store.steampowered.com/app/4809340/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4809340/f899b6c7e64bdbbba7606a84660fc01e8f540a92/header.jpg?t=1781000093",
+    "tags": [
+      "Indie",
+      "Strategy"
+    ],
+    "developer": "bitman games",
+    "release_date": "Jun 9, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-09T11:33:34Z"
+  },
+  {
+    "id": "4738430",
+    "source": "steam",
+    "title": "Knuckle Creek Demo",
+    "description": "Knuckle Creek is a slapstick comedy brawler designed for friends, fun and light-hearted play sessions.",
+    "url": "https://store.steampowered.com/app/4738430/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4738430/4c4f19b7f4988b3b4ea3c2053a0d7ff14e490293/header.jpg?t=1781000543",
+    "tags": [],
+    "developer": "Claymatic Games Ltd",
+    "release_date": "Jun 9, 2026",
+    "classification": "🟡 HIGH POTENTIAL",
+    "indexed_at": "2026-06-09T11:33:31Z"
+  },
+  {
     "id": "4777690",
     "source": "steam",
     "title": "Keyboard Smash Demo",
@@ -7235,109 +7343,5 @@
     "release_date": "Jun 4, 2026",
     "classification": "🟡 HIGH POTENTIAL",
     "indexed_at": "2026-06-04T16:04:39Z"
-  },
-  {
-    "id": "4632260",
-    "source": "steam",
-    "title": "Goblins for Good Demo",
-    "description": "A short incremental game about growing a goblin army, merging them into massive units, and unleashing comedic, wholesome chaos — all while supporting real-world good. 90% of profits are donated to charity, and players vote in-game for which charity they want their money to support.",
-    "url": "https://store.steampowered.com/app/4632260/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632260/58327d469664329d4fac73decc0c122ec66e8b6f/header.jpg?t=1780584088",
-    "tags": [
-      "Casual",
-      "Indie",
-      "Simulation",
-      "Strategy"
-    ],
-    "developer": "HolyCowCreates",
-    "release_date": "Jun 4, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-04T16:04:36Z"
-  },
-  {
-    "id": "4516280",
-    "source": "steam",
-    "title": "Kamikaze Survivors Demo",
-    "description": "Survive waves of kamikaze attackers as battleships from the World Wars of last century to the present in this turret-based Roguelite. Gain equipment from underway replenishment and pick up admirals from history to increase the power of your ship.",
-    "url": "https://store.steampowered.com/app/4516280/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516280/b09acccbce049269f6bc6972f8d0a8fc064b48a2/header.jpg?t=1780583356",
-    "tags": [
-      "Action"
-    ],
-    "developer": "DaboSoft",
-    "release_date": "Jun 4, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-04T16:04:32Z"
-  },
-  {
-    "id": "438570",
-    "source": "steam",
-    "title": "Age After Age Demo",
-    "description": "Age After Age. Build a thriving settlement, shape society across multiple eras, and dominate a living world economy. Choose your path - classic history, Steampunk, Gothic, and more in a deep city-building strategy with evolving logistics, citizen classes, diplomacy, and research.",
-    "url": "https://store.steampowered.com/app/438570/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438570/38948e5763bc70d79e6ec98acc4583da46e1c5f4/header.jpg?t=1780586137",
-    "tags": [
-      "Strategy"
-    ],
-    "developer": "Farom Studio Ltd",
-    "release_date": "Jun 4, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-04T16:04:29Z"
-  },
-  {
-    "id": "4690870",
-    "source": "steam",
-    "title": "Dice Carnival Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4690870/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4690870/34199441d34e8b899e11114e22e4fcfd8b48c9f1/header.jpg?t=1780585224",
-    "tags": [],
-    "developer": "Phantom Script Studio",
-    "release_date": "Jun 4, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-04T16:04:26Z"
-  },
-  {
-    "id": "4569870",
-    "source": "steam",
-    "title": "Hakoniwa Electric Demo",
-    "description": "&quot;Hakoniwa Electric&quot; is a cute relaxing puzzle game. Explore adorable isometric stages, solve puzzles, and light them up. Why not spend a leisurely year as Akari, who's taken over grandpa's electronics shop, helping with the monthly troubles from the townsfolk?",
-    "url": "https://store.steampowered.com/app/4569870/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4569870/828783101f4c6f3b91ff85eb4e0f6a12c636ed27/header.jpg?t=1780585272",
-    "tags": [
-      "Casual"
-    ],
-    "developer": "亜寝帯 - ANETTAI ",
-    "release_date": "Jun 4, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-04T16:04:22Z"
-  },
-  {
-    "id": "4657380",
-    "source": "steam",
-    "title": "Tear Them All Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4657380/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657380/844b1b90cff979880812b6f29680dc350ae6f808/header.jpg?t=1780585277",
-    "tags": [],
-    "developer": "ArDev",
-    "release_date": "Jun 4, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-04T16:04:20Z"
-  },
-  {
-    "id": "4581690",
-    "source": "steam",
-    "title": "MEGAKO☆PUNCH! Demo",
-    "description": "“MEGAKO☆PUNCHI!” is a fast-paced deck-building roguelite! Smash through hordes of overflowing monsters with your ultimate techniques and make your way back home!",
-    "url": "https://store.steampowered.com/app/4581690/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581690/ae7cd748baa595b28c5462b0bb1cfa37f8148b7f/header.jpg?t=1780586956",
-    "tags": [
-      "Strategy"
-    ],
-    "developer": "物部モノ子",
-    "release_date": "Jun 4, 2026",
-    "classification": "🟡 HIGH POTENTIAL",
-    "indexed_at": "2026-06-04T16:04:17Z"
   }
 ]
