@@ -598,7 +598,41 @@
   .modal-actions {
     display: flex;
     justify-content: flex-end;
+    gap: 0.8rem;
     margin-top: 0.8rem;
+    flex-wrap: wrap;
+  }
+
+  /* ── ADMIN-ONLY DOWNLOAD BUTTON ── */
+  .dl-trailer-btn {
+    display: none;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.5rem 1rem;
+    background: linear-gradient(135deg, #7c3aed 0%, #5b21b6 100%);
+    color: #f5f3ff;
+    border: 1px solid #8b5cf6;
+    font-family: inherit;
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-decoration: none;
+  }
+  body.modern-theme .dl-trailer-btn {
+    border-radius: 8px;
+  }
+  .dl-trailer-btn:hover {
+    background: linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%);
+    box-shadow: 0 0 12px rgba(139,92,246,0.4), 0 0 24px rgba(139,92,246,0.15);
+    transform: translateY(-1px);
+  }
+  .dl-trailer-btn .dl-icon {
+    font-size: 1rem;
+  }
+  body.admin-mode .dl-trailer-btn.has-trailer {
+    display: inline-flex;
   }
 
 
@@ -926,6 +960,9 @@
     <div id="modal-desc" class="modal-desc"></div>
     <div id="modal-tags" class="modal-tags"></div>
     <div class="modal-actions">
+      <button id="modal-dl-trailer" class="dl-trailer-btn" onclick="downloadTrailer()" title="Save trailer to PC (Admin only)">
+        <span class="dl-icon">⬇</span> SAVE TRAILER
+      </button>
       <a id="modal-link" class="card-link" href="" target="_blank" rel="noopener">[ OPEN STORE ENTRY ]</a>
     </div>
   </div>
@@ -1015,6 +1052,11 @@ let activeGenre = "all";
 let sortMode   = "newest";
 let searchQ    = "";
 let nextFestOnly = false;
+let _currentModalEntry = null;
+
+// ── ADMIN MODE (exclusive: append ?admin=1 to URL) ───────────────────────────
+const IS_ADMIN = new URLSearchParams(window.location.search).get('admin') === '1';
+if (IS_ADMIN) document.body.classList.add('admin-mode');
 
 // ── CLOCK ─────────────────────────────────────────────────────────────────────
 function tick() {
@@ -1586,6 +1628,13 @@ function showDetails(id) {
   link.href = entry.url || '#';
   link.style.display = entry.url ? 'inline-block' : 'none';
 
+  // Admin-only: toggle download button visibility
+  _currentModalEntry = entry;
+  const dlBtn = document.getElementById('modal-dl-trailer');
+  if (dlBtn) {
+    dlBtn.classList.toggle('has-trailer', !!entry.trailer);
+  }
+
   modal.classList.add('active');
 }
 
@@ -1597,6 +1646,75 @@ function closeModal() {
   }
   const mediaWrap = document.getElementById('modal-media-wrap');
   if (mediaWrap) mediaWrap.innerHTML = "";
+  _currentModalEntry = null;
+}
+
+// ── ADMIN: DOWNLOAD TRAILER ──────────────────────────────────────────────────
+function downloadTrailer() {
+  if (!IS_ADMIN || !_currentModalEntry || !_currentModalEntry.trailer) return;
+  const entry = _currentModalEntry;
+  const url = entry.trailer;
+  const safeName = (entry.title || 'trailer').replace(/[^a-z0-9_\- ]/gi, '').replace(/\s+/g, '_');
+
+  // For HLS manifests (.m3u8) — copy the URL to clipboard for yt-dlp
+  if (url.includes('.m3u8') || url.includes('hls_264_master')) {
+    navigator.clipboard.writeText(`yt-dlp -o "${safeName}.mp4" "${url}"`).then(() => {
+      showDlToast(`📋 yt-dlp command copied! Paste in terminal to download "${safeName}.mp4"`);
+    }).catch(() => {
+      // Fallback: open manifest URL directly
+      window.open(url, '_blank');
+      showDlToast('⬇ Manifest URL opened — use VLC or yt-dlp to save.');
+    });
+    return;
+  }
+
+  // For YouTube/Vimeo embeds — copy yt-dlp command
+  if (url.includes('youtube.com') || url.includes('youtu.be') || url.includes('vimeo.com')) {
+    navigator.clipboard.writeText(`yt-dlp -o "${safeName}.mp4" "${url}"`).then(() => {
+      showDlToast(`📋 yt-dlp command copied! Paste in terminal to download "${safeName}.mp4"`);
+    }).catch(() => {
+      window.open(url, '_blank');
+    });
+    return;
+  }
+
+  // For direct video files (MP4) — trigger direct download
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = safeName + '.mp4';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  showDlToast(`⬇ Downloading "${safeName}.mp4"...`);
+}
+
+function showDlToast(msg) {
+  let toast = document.getElementById('dl-toast');
+  if (!toast) {
+    toast = document.createElement('div');
+    toast.id = 'dl-toast';
+    toast.style.cssText = `
+      position:fixed;bottom:2rem;left:50%;transform:translateX(-50%) translateY(80px);
+      background:linear-gradient(135deg,#7c3aed,#5b21b6);color:#f5f3ff;
+      padding:0.8rem 1.6rem;font-size:0.8rem;letter-spacing:0.04em;
+      border:1px solid #8b5cf6;z-index:2000;opacity:0;
+      transition:all 0.4s cubic-bezier(0.16,1,0.3,1);
+      font-family:inherit;max-width:90vw;text-align:center;
+    `;
+    document.body.appendChild(toast);
+  }
+  if (document.body.classList.contains('modern-theme')) toast.style.borderRadius = '12px';
+  else toast.style.borderRadius = '0';
+  toast.textContent = msg;
+  requestAnimationFrame(() => {
+    toast.style.opacity = '1';
+    toast.style.transform = 'translateX(-50%) translateY(0)';
+  });
+  clearTimeout(toast._timer);
+  toast._timer = setTimeout(() => {
+    toast.style.opacity = '0';
+    toast.style.transform = 'translateX(-50%) translateY(80px)';
+  }, 4000);
 }
 
 // ── CONTROLS ─────────────────────────────────────────────────────────────────
