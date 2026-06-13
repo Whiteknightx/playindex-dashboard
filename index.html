@@ -137,30 +137,10 @@
   body.modern-theme .stat-value { font-family: 'Outfit', sans-serif; text-shadow: none; }
   .sv-am{color:var(--amber);text-shadow:0 0 8px rgba(255,180,0,.35)}
   body.modern-theme .sv-am { text-shadow: none; }
-  .sv-rd{color:var(--red);text-shadow:0 0 8px rgba(255,34,51,.35)}
-  body.modern-theme .sv-rd { text-shadow: none; }
   .sv-cy{color:var(--cyan);text-shadow:0 0 8px rgba(0,229,255,.35)}
   body.modern-theme .sv-cy { text-shadow: none; }
   .sv-sm{font-size:.68rem;color:var(--green-dim)}
   body.modern-theme #s-nextfest { color: #ec4899 !important; text-shadow: none !important; }
-
-  /* ── DISTRIBUTION METRICS BAR ── */
-  .distribution-bar {
-    display: flex;
-    height: 5px;
-    width: 100%;
-    background: var(--border);
-    overflow: hidden;
-  }
-  .dist-segment {
-    height: 100%;
-    transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
-  }
-  .dist-segment.seg-hazard { background: var(--red); }
-  .dist-segment.seg-corrupted { background: var(--amber); }
-  .dist-segment.seg-prototype { background: var(--purple); }
-  .dist-segment.seg-potential { background: #e8c200; }
-  .dist-segment.seg-archived { background: var(--dim); }
 
   /* ── FILTER PANEL ── */
   .filter-panel{
@@ -357,8 +337,8 @@
     cursor: pointer;
   }
   .card:hover{background:var(--bg3)}
-  .card::before{content:'';position:absolute;top:0;left:0;width:2px;height:100%;background:var(--ca,var(--green-muted));transition:background .2s}
-  .card:hover::before{background:var(--cab,var(--green));box-shadow:var(--glow)}
+  .card::before{content:'';position:absolute;top:0;left:0;width:2px;height:100%;background:var(--green-muted);transition:background .2s}
+  .card:hover::before{background:var(--green);box-shadow:var(--glow)}
 
   body.modern-theme .card {
     border-radius: 10px;
@@ -509,24 +489,7 @@
     text-shadow: none;
   }
 
-  /* ── MODERN CLASSIFICATION BADGES ── */
-  body.modern-theme .card-cls {
-    display: inline-flex;
-    align-items: center;
-    padding: 0.25rem 0.75rem;
-    border-radius: 50px;
-    font-size: 0.65rem;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    margin-bottom: 0.3rem;
-    align-self: flex-start;
-  }
-  body.modern-theme .card-cls.hz { background: rgba(239, 68, 68, 0.15); color: #fca5a5; border: 1px solid rgba(239, 68, 68, 0.3); }
-  body.modern-theme .card-cls.co { background: rgba(245, 158, 11, 0.15); color: #fdba74; border: 1px solid rgba(245, 158, 11, 0.3); }
-  body.modern-theme .card-cls.pr { background: rgba(167, 139, 250, 0.15); color: #ddd6fe; border: 1px solid rgba(167, 139, 250, 0.3); }
-  body.modern-theme .card-cls.ja { background: rgba(160, 120, 88, 0.15); color: #e4d4c8; border: 1px solid rgba(160, 120, 88, 0.3); }
-  body.modern-theme .card-cls.hp { background: rgba(232, 194, 0, 0.15); color: #fef08a; border: 1px solid rgba(232, 194, 0, 0.3); }
-  body.modern-theme .card-cls.ar { background: rgba(100, 116, 139, 0.15); color: #cbd5e1; border: 1px solid rgba(100, 116, 139, 0.3); }
+
 
   /* ── DETAILS MODAL ── */
   .modal-overlay {
@@ -638,13 +601,7 @@
     margin-top: 0.8rem;
   }
 
-  /* Classification accent colours */
-  .hz{color:var(--red);--ca:#4a0810;--cab:var(--red)}
-  .co{color:var(--amber);--ca:#3d2800;--cab:var(--amber)}
-  .pr{color:var(--purple);--ca:#281545;--cab:var(--purple)}
-  .ja{color:#a07858;--ca:#25180a;--cab:#a07858}
-  .hp{color:#e8c200;--ca:#332e00;--cab:#e8c200}
-  .ar{color:var(--dim);--ca:#141f17;--cab:#4a7a52}
+
 
   /* ── EMPTY ── */
   #empty{grid-column:1/-1;display:none;flex-direction:column;align-items:center;justify-content:center;padding:4rem 2rem;gap:.7rem;color:var(--dim)}
@@ -883,19 +840,9 @@
     <div class="stat"><div class="stat-label">Total</div><div class="stat-value" id="s-total">—</div></div>
     <div class="stat"><div class="stat-label">Steam</div><div class="stat-value sv-cy" id="s-steam">—</div></div>
     <div class="stat"><div class="stat-label">itch.io</div><div class="stat-value sv-am" id="s-itchio">—</div></div>
-    <div class="stat"><div class="stat-label">Hazards</div><div class="stat-value sv-rd" id="s-hazard">—</div></div>
     <div class="stat"><div class="stat-label" style="color:#ff00ff">Next Fest</div><div class="stat-value" id="s-nextfest" style="color:#ff00ff;text-shadow:0 0 8px rgba(255,0,255,.35)">—</div></div>
     <div class="stat"><div class="stat-label">Showing</div><div class="stat-value" id="s-showing">—</div><div class="stat-label" id="s-filter-state" style="color:var(--amber);margin-top:2px"></div></div>
     <div class="stat"><div class="stat-label">Updated</div><div class="stat-value sv-sm" id="s-updated">—</div></div>
-  </div>
-
-  <!-- DISTRIBUTION BAR -->
-  <div class="distribution-bar" id="dist-bar">
-    <div class="dist-segment seg-hazard" id="seg-hazard" title="Psychological Hazard" style="width: 0%"></div>
-    <div class="dist-segment seg-corrupted" id="seg-corrupted" title="Corrupted / High Interest" style="width: 0%"></div>
-    <div class="dist-segment seg-prototype" id="seg-prototype" title="Prototype Worth Watching" style="width: 0%"></div>
-    <div class="dist-segment seg-potential" id="seg-potential" title="High Potential" style="width: 0%"></div>
-    <div class="dist-segment seg-archived" id="seg-archived" title="Archived" style="width: 0%"></div>
   </div>
 
   <div id="home-view" class="on"></div>
@@ -910,18 +857,6 @@
         <button class="fbtn" data-src="itchio">ITCH.IO</button>
         <div style="flex-grow: 1;"></div>
         <button id="nextfest-toggle" class="fbtn next-fest-toggle-btn">🎉 NEXT FEST ONLY</button>
-      </div>
-
-      <!-- Classification filter -->
-      <div class="filter-row">
-        <span class="filter-row-label">CLASS</span>
-        <button class="fbtn on" data-cls="all">ALL</button>
-        <button class="fbtn" data-cls="hz">HAZARD</button>
-        <button class="fbtn" data-cls="co">CORRUPTED</button>
-        <button class="fbtn" data-cls="pr">PROTOTYPE</button>
-        <button class="fbtn" data-cls="ja">JAM</button>
-        <button class="fbtn" data-cls="hp">POTENTIAL</button>
-        <button class="fbtn" data-cls="ar">ARCHIVED</button>
       </div>
 
       <!-- Genre filter — full taxonomy -->
@@ -984,7 +919,6 @@
   <div class="modal-container" onclick="event.stopPropagation()">
     <button class="modal-close" onclick="closeModal()">×</button>
     <img id="modal-img" class="modal-header-img" src="" alt="" onerror="this.style.display='none'" />
-    <div id="modal-classification" class="card-cls"></div>
     <h2 id="modal-title" class="modal-title"></h2>
     <div class="modal-meta">
       <span><strong>Source:</strong> <span id="modal-source"></span></span>
@@ -1079,7 +1013,6 @@ const SAMPLE_ENTRIES = [
 // ── STATE ─────────────────────────────────────────────────────────────────────
 let allEntries = [];
 let activeSrc  = "all";
-let activeCls  = "all";
 let activeGenre = "all";
 let sortMode   = "newest";
 let searchQ    = "";
@@ -1186,24 +1119,12 @@ function updateLastUpdated() {
 }
 
 // ── FILTER + SORT ─────────────────────────────────────────────────────────────
-function clsKey(cls) {
-  const c = (cls||"").toUpperCase();
-  if (c.includes("HAZARD"))    return "hz";
-  if (c.includes("CORRUPTED")) return "co";
-  if (c.includes("PROTOTYPE")) return "pr";
-  if (c.includes("JAM"))       return "ja";
-  if (c.includes("POTENTIAL")) return "hp";
-  return "ar";
-}
-
 function filtered() {
   let res = allEntries.filter(e => {
     const src = (e.source||"").toLowerCase();
-    const ck  = clsKey(e.classification);
     const genres = e._genres || [];
 
     if (activeSrc !== "all" && src !== activeSrc) return false;
-    if (activeCls !== "all" && ck !== activeCls)  return false;
     if (activeGenre !== "all" && !genres.includes(activeGenre)) return false;
     if (nextFestOnly && !isNextFest(e.tags)) return false;
 
@@ -1217,11 +1138,9 @@ function filtered() {
     return true;
   });
 
-  const clsOrder = {hz:0,co:1,pr:2,ja:3,hp:4,ar:5};
   if (sortMode === "newest") res.sort((a,b)=>new Date(b.release_date || b.date || b.indexed_at || 0)-new Date(a.release_date || a.date || a.indexed_at || 0));
   else if (sortMode === "oldest") res.sort((a,b)=>new Date(a.release_date || a.date || a.indexed_at || 0)-new Date(b.release_date || b.date || b.indexed_at || 0));
   else if (sortMode === "az") res.sort((a,b)=>(a.title||"").localeCompare(b.title||""));
-  else if (sortMode === "cls") res.sort((a,b)=>(clsOrder[clsKey(a.classification)]||9)-(clsOrder[clsKey(b.classification)]||9));
 
   return res;
 }
@@ -1245,15 +1164,7 @@ function srcBadge(src) {
   return '<span class="card-source-badge '+cls+'">'+label+'</span>';
 }
 
-function clsLabel(cls) {
-  const c=(cls||"").toUpperCase();
-  if(c.includes("HAZARD"))    return "\uD83D\uDD34 PSYCHOLOGICAL HAZARD";
-  if(c.includes("CORRUPTED")) return "\uD83D\uDFE0 CORRUPTED";
-  if(c.includes("PROTOTYPE")) return "\uD83D\uDFE3 PROTOTYPE WORTH WATCHING";
-  if(c.includes("JAM"))       return "\uD83D\uDFE4 JAM DISCOVERY";
-  if(c.includes("POTENTIAL")) return "\uD83D\uDFE1 HIGH POTENTIAL";
-  return "\u26AA ARCHIVED";
-}
+
 
 function genrePills(genres) {
   return genres.map(g => {
@@ -1289,7 +1200,6 @@ function nextFestBadge(e) {
 }
 
 function cardHtml(e, i) {
-  const ck    = clsKey(e.classification);
   const delay = Math.min(i*0.03,0.5).toFixed(2);
   const genres = e._genres || [];
   const date  = (e.indexed_at||"").slice(0,10);
@@ -1301,10 +1211,9 @@ function cardHtml(e, i) {
   const descHtml = highlightText((e.description || e.desc || "").slice(0,240), searchQ);
 
   return (
-    '<div class="card '+ck+'" style="animation-delay:'+delay+'s" onclick="showDetails(\''+e.id+'\')">'+
+    '<div class="card" style="animation-delay:'+delay+'s" onclick="showDetails(\''+e.id+'\')">'+
       '<div class="card-header"><div style="display:flex;gap:.35rem;align-items:center;">'+srcBadge(e.source)+nextFestBadge(e)+'</div><span style="font-size:.58rem;color:var(--dim)">'+date+'</span></div>'+
       '<div style="position:relative;overflow:hidden;border-radius:inherit;">'+img+'</div>'+
-      '<div class="card-cls '+ck+'">'+clsLabel(e.classification)+'</div>'+
       (genres.length?'<div class="card-genres">'+genrePills(genres)+'</div>':'')+
       '<div class="card-title">'+titleHtml+'</div>'+
       '<div class="card-desc">'+descHtml+'</div>'+
@@ -1330,12 +1239,10 @@ function homeSort(a, b) {
 
 function resetFilters() {
   activeSrc = "all";
-  activeCls = "all";
   activeGenre = "all";
   searchQ = "";
   nextFestOnly = false;
   document.querySelectorAll("[data-src]").forEach(b => b.classList.toggle("on", b.dataset.src === "all"));
-  document.querySelectorAll("[data-cls]").forEach(b => b.classList.toggle("on", b.dataset.cls === "all"));
   document.querySelectorAll("[data-genre]").forEach(b => b.classList.toggle("on", b.dataset.genre === "all"));
   document.getElementById("search").value = "";
   document.getElementById("sort").value = "newest";
@@ -1367,38 +1274,6 @@ function buildSections() {
         nextFestOnly = true;
         const nfToggle = document.getElementById('nextfest-toggle');
         if (nfToggle) nfToggle.classList.add('on');
-        switchView("browse");
-      }
-    },
-    {
-      id: "hazards",
-      title: "🔴 Psychological Hazards",
-      cls: "sec-red",
-      items: sorted.filter(e => clsKey(e.classification) === "hz").slice(0, 10),
-      onSeeAll: () => {
-        resetFilters();
-        activeCls = "hz";
-        const btn = document.querySelector('[data-cls="hz"]');
-        if (btn) {
-          document.querySelectorAll("[data-cls]").forEach(b => b.classList.remove("on"));
-          btn.classList.add("on");
-        }
-        switchView("browse");
-      }
-    },
-    {
-      id: "corrupted",
-      title: "🟠 Corrupted Files",
-      cls: "sec-amber",
-      items: sorted.filter(e => clsKey(e.classification) === "co").slice(0, 10),
-      onSeeAll: () => {
-        resetFilters();
-        activeCls = "co";
-        const btn = document.querySelector('[data-cls="co"]');
-        if (btn) {
-          document.querySelectorAll("[data-cls]").forEach(b => b.classList.remove("on"));
-          btn.classList.add("on");
-        }
         switchView("browse");
       }
     },
@@ -1547,7 +1422,7 @@ function switchView(view) {
 
 function render() {
   if (currentView === "home") {
-    const isFiltering = activeSrc !== "all" || activeCls !== "all" || activeGenre !== "all" || searchQ !== "" || nextFestOnly;
+    const isFiltering = activeSrc !== "all" || activeGenre !== "all" || searchQ !== "" || nextFestOnly;
     if (isFiltering) {
       switchView("browse");
       return;
@@ -1579,7 +1454,7 @@ function render() {
 function updateStats(filteredItems) {
   const vis = filteredItems || filtered();
   const all = allEntries;
-  const isFiltering = activeSrc !== "all" || activeCls !== "all" || activeGenre !== "all" || searchQ !== "" || nextFestOnly;
+  const isFiltering = activeSrc !== "all" || activeGenre !== "all" || searchQ !== "" || nextFestOnly;
 
   // Total: show "X / Y" when filtered, just "Y" when showing all
   const totalEl = document.getElementById("s-total");
@@ -1589,13 +1464,6 @@ function updateStats(filteredItems) {
   // Per-source: filtered counts
   document.getElementById("s-steam").textContent   = vis.filter(e=>(e.source||"").toLowerCase()==="steam").length;
   document.getElementById("s-itchio").textContent  = vis.filter(e=>(e.source||"").toLowerCase()==="itchio").length;
-
-  // Hazards: visible / total
-  const totalHazards = all.filter(e=>(e.classification||"").toUpperCase().includes("HAZARD")).length;
-  const visHazards   = vis.filter(e=>(e.classification||"").toUpperCase().includes("HAZARD")).length;
-  const hazardEl = document.getElementById("s-hazard");
-  hazardEl.textContent = isFiltering ? visHazards + " / " + totalHazards : String(totalHazards);
-  hazardEl.style.fontSize = isFiltering ? "0.82rem" : "";
 
   // Next Fest count
   const totalNf = all.filter(e => isNextFest(e.tags)).length;
@@ -1612,28 +1480,6 @@ function updateStats(filteredItems) {
   const filterStateEl = document.getElementById("s-filter-state");
   if (filterStateEl) filterStateEl.textContent = isFiltering ? "FILTERED" : "";
 
-  // Update dynamic metrics distribution bar
-  const total = all.length;
-  if (total > 0) {
-    const hazard  = all.filter(e=>(e.classification||'').toUpperCase().includes('HAZARD')).length;
-    const corrupted = all.filter(e=>(e.classification||'').toUpperCase().includes('CORRUPTED')).length;
-    const prototype = all.filter(e=>(e.classification||'').toUpperCase().includes('PROTOTYPE')).length;
-    const potential = all.filter(e=>(e.classification||'').toUpperCase().includes('POTENTIAL')).length;
-    const archived = total - hazard - corrupted - prototype - potential;
-
-    document.getElementById('seg-hazard').style.width = `${(hazard / total) * 100}%`;
-    document.getElementById('seg-corrupted').style.width = `${(corrupted / total) * 100}%`;
-    document.getElementById('seg-prototype').style.width = `${(prototype / total) * 100}%`;
-    document.getElementById('seg-potential').style.width = `${(potential / total) * 100}%`;
-    document.getElementById('seg-archived').style.width = `${(archived / total) * 100}%`;
-  } else {
-    document.getElementById('seg-hazard').style.width = '0%';
-    document.getElementById('seg-corrupted').style.width = '0%';
-    document.getElementById('seg-prototype').style.width = '0%';
-    document.getElementById('seg-potential').style.width = '0%';
-    document.getElementById('seg-archived').style.width = '0%';
-  }
-
   const times = allEntries.map(e => e.indexed_at ? new Date(e.indexed_at) : null).filter(Boolean).sort((a,b)=>b-a);
   if (times.length) {
     const d = times[0], p = v=>String(v).padStart(2,"0");
@@ -1649,7 +1495,6 @@ function showDetails(id) {
 
   const modal = document.getElementById('details-modal');
   const img = document.getElementById('modal-img');
-  const classification = document.getElementById('modal-classification');
   const title = document.getElementById('modal-title');
   const source = document.getElementById('modal-source');
   const developer = document.getElementById('modal-developer');
@@ -1664,11 +1509,6 @@ function showDetails(id) {
   } else {
     img.style.display = 'none';
   }
-
-  const ck = clsKey(entry.classification);
-
-  classification.className = `card-cls ${ck}`;
-  classification.innerHTML = clsLabel(entry.classification);
 
   title.textContent = entry.title || 'UNKNOWN ENTRY';
   source.textContent = (entry.source || '').toUpperCase();
@@ -1696,12 +1536,6 @@ document.querySelectorAll("[data-src]").forEach(btn => {
   btn.addEventListener("click", () => {
     document.querySelectorAll("[data-src]").forEach(b => b.classList.remove("on"));
     btn.classList.add("on"); activeSrc = btn.dataset.src; render();
-  });
-});
-document.querySelectorAll("[data-cls]").forEach(btn => {
-  btn.addEventListener("click", () => {
-    document.querySelectorAll("[data-cls]").forEach(b => b.classList.remove("on"));
-    btn.classList.add("on"); activeCls = btn.dataset.cls; render();
   });
 });
 document.querySelectorAll("[data-genre]").forEach(btn => {
