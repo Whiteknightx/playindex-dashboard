@@ -845,59 +845,57 @@
     <div class="stat"><div class="stat-label">Updated</div><div class="stat-value sv-sm" id="s-updated">—</div></div>
   </div>
 
+  <div class="filter-panel">
+
+    <div class="filter-row">
+      <span class="filter-row-label">SOURCE</span>
+      <button class="fbtn on" data-src="steam">STEAM</button>
+      <button class="fbtn" data-src="itchio">ITCH.IO</button>
+      <div style="flex-grow: 1;"></div>
+      <button id="nextfest-toggle" class="fbtn next-fest-toggle-btn">🎉 NEXT FEST ONLY</button>
+    </div>
+
+    <!-- Genre filter — full taxonomy -->
+    <div class="genre-row">
+      <span class="filter-row-label">GENRE</span>
+      <button class="fbtn genre-btn on" data-genre="all">ALL</button>
+      <button class="fbtn genre-btn g-action"    data-genre="Action">ACTION</button>
+      <button class="fbtn genre-btn g-adv"       data-genre="Adventure">ADVENTURE</button>
+      <button class="fbtn genre-btn g-rpg"       data-genre="RPG">RPG</button>
+      <button class="fbtn genre-btn g-strategy"  data-genre="Strategy">STRATEGY</button>
+      <button class="fbtn genre-btn g-simulation"data-genre="Simulation">SIMULATION</button>
+      <button class="fbtn genre-btn g-puzzle"    data-genre="Puzzle">PUZZLE</button>
+      <button class="fbtn genre-btn g-horror"    data-genre="Horror">HORROR</button>
+      <button class="fbtn genre-btn g-platform"  data-genre="Platformer">PLATFORMER</button>
+      <button class="fbtn genre-btn g-multi"     data-genre="Multiplayer">MULTIPLAYER</button>
+      <button class="fbtn genre-btn g-indie"     data-genre="Indie">INDIE</button>
+      <button class="fbtn genre-btn g-sports"    data-genre="Sports & Racing">SPORTS</button>
+      <button class="fbtn genre-btn g-music"     data-genre="Music & Rhythm">MUSIC</button>
+      <button class="fbtn genre-btn g-openworld" data-genre="Open World & Survival">OPEN WORLD</button>
+      <button class="fbtn genre-btn g-scifi"     data-genre="Sci-Fi & Space">SCI-FI</button>
+      <button class="fbtn genre-btn g-fantasy"   data-genre="Fantasy">FANTASY</button>
+      <button class="fbtn genre-btn g-casual"    data-genre="Casual">CASUAL</button>
+      <button class="fbtn genre-btn g-jam"       data-genre="Jam & Prototype">JAM</button>
+    </div>
+
+    <!-- Search + sort -->
+    <div class="tools-row">
+      <span class="filter-row-label">SEARCH</span>
+      <input type="text" id="search" placeholder="title, tag, genre..." autocomplete="off" spellcheck="false"/>
+      <select id="sort" title="Sort Index">
+        <option value="newest">NEWEST FIRST</option>
+        <option value="oldest">OLDEST FIRST</option>
+        <option value="az">A to Z</option>
+      </select>
+
+      <span class="results-count" id="results-count">— entries</span>
+    </div>
+
+  </div>
+
   <div id="home-view" class="on"></div>
 
   <div id="browse-wrap">
-    <div class="filter-panel">
-
-      <div class="filter-row">
-        <span class="filter-row-label">SOURCE</span>
-        <button class="fbtn on" data-src="all">ALL</button>
-        <button class="fbtn" data-src="steam">STEAM</button>
-        <button class="fbtn" data-src="itchio">ITCH.IO</button>
-        <div style="flex-grow: 1;"></div>
-        <button id="nextfest-toggle" class="fbtn next-fest-toggle-btn">🎉 NEXT FEST ONLY</button>
-      </div>
-
-      <!-- Genre filter — full taxonomy -->
-      <div class="genre-row">
-        <span class="filter-row-label">GENRE</span>
-        <button class="fbtn genre-btn on" data-genre="all">ALL</button>
-        <button class="fbtn genre-btn g-action"    data-genre="Action">ACTION</button>
-        <button class="fbtn genre-btn g-adv"       data-genre="Adventure">ADVENTURE</button>
-        <button class="fbtn genre-btn g-rpg"       data-genre="RPG">RPG</button>
-        <button class="fbtn genre-btn g-strategy"  data-genre="Strategy">STRATEGY</button>
-        <button class="fbtn genre-btn g-simulation"data-genre="Simulation">SIMULATION</button>
-        <button class="fbtn genre-btn g-puzzle"    data-genre="Puzzle">PUZZLE</button>
-        <button class="fbtn genre-btn g-horror"    data-genre="Horror">HORROR</button>
-        <button class="fbtn genre-btn g-platform"  data-genre="Platformer">PLATFORMER</button>
-        <button class="fbtn genre-btn g-multi"     data-genre="Multiplayer">MULTIPLAYER</button>
-        <button class="fbtn genre-btn g-indie"     data-genre="Indie">INDIE</button>
-        <button class="fbtn genre-btn g-sports"    data-genre="Sports & Racing">SPORTS</button>
-        <button class="fbtn genre-btn g-music"     data-genre="Music & Rhythm">MUSIC</button>
-        <button class="fbtn genre-btn g-openworld" data-genre="Open World & Survival">OPEN WORLD</button>
-        <button class="fbtn genre-btn g-scifi"     data-genre="Sci-Fi & Space">SCI-FI</button>
-        <button class="fbtn genre-btn g-fantasy"   data-genre="Fantasy">FANTASY</button>
-        <button class="fbtn genre-btn g-casual"    data-genre="Casual">CASUAL</button>
-        <button class="fbtn genre-btn g-jam"       data-genre="Jam & Prototype">JAM</button>
-      </div>
-
-      <!-- Search + sort -->
-      <div class="tools-row">
-        <span class="filter-row-label">SEARCH</span>
-        <input type="text" id="search" placeholder="title, tag, genre..." autocomplete="off" spellcheck="false"/>
-        <select id="sort" title="Sort Index">
-          <option value="newest">NEWEST FIRST</option>
-          <option value="oldest">OLDEST FIRST</option>
-          <option value="az">A to Z</option>
-          <option value="cls">CLASSIFICATION</option>
-        </select>
-
-        <span class="results-count" id="results-count">— entries</span>
-      </div>
-
-    </div>
-
     <main id="grid">
       <div id="empty">
         <div id="empty-ico">░░░</div>
@@ -918,7 +916,7 @@
 <div id="details-modal" class="modal-overlay" onclick="closeModal()">
   <div class="modal-container" onclick="event.stopPropagation()">
     <button class="modal-close" onclick="closeModal()">×</button>
-    <img id="modal-img" class="modal-header-img" src="" alt="" onerror="this.style.display='none'" />
+    <div id="modal-media-wrap"></div>
     <h2 id="modal-title" class="modal-title"></h2>
     <div class="modal-meta">
       <span><strong>Source:</strong> <span id="modal-source"></span></span>
@@ -1012,7 +1010,7 @@ const SAMPLE_ENTRIES = [
 
 // ── STATE ─────────────────────────────────────────────────────────────────────
 let allEntries = [];
-let activeSrc  = "all";
+let activeSrc  = "steam";
 let activeGenre = "all";
 let sortMode   = "newest";
 let searchQ    = "";
@@ -1124,12 +1122,13 @@ function filtered() {
     const src = (e.source||"").toLowerCase();
     const genres = e._genres || [];
 
-    if (activeSrc !== "all" && src !== activeSrc) return false;
+    if (src !== activeSrc) return false;
     if (activeGenre !== "all" && !genres.includes(activeGenre)) return false;
     if (nextFestOnly && !isNextFest(e.tags)) return false;
 
     if (searchQ) {
       const q = searchQ.toLowerCase();
+      if (q === "has:trailer") return !!e.trailer;
       return (e.title||"").toLowerCase().includes(q) ||
              (e.description || e.desc || "").toLowerCase().includes(q) ||
              (e.tags||[]).some(t => t.toLowerCase().includes(q)) ||
@@ -1238,11 +1237,11 @@ function homeSort(a, b) {
 }
 
 function resetFilters() {
-  activeSrc = "all";
+  activeSrc = "steam";
   activeGenre = "all";
   searchQ = "";
   nextFestOnly = false;
-  document.querySelectorAll("[data-src]").forEach(b => b.classList.toggle("on", b.dataset.src === "all"));
+  document.querySelectorAll("[data-src]").forEach(b => b.classList.toggle("on", b.dataset.src === "steam"));
   document.querySelectorAll("[data-genre]").forEach(b => b.classList.toggle("on", b.dataset.genre === "all"));
   document.getElementById("search").value = "";
   document.getElementById("sort").value = "newest";
@@ -1274,6 +1273,18 @@ function buildSections() {
         nextFestOnly = true;
         const nfToggle = document.getElementById('nextfest-toggle');
         if (nfToggle) nfToggle.classList.add('on');
+        switchView("browse");
+      }
+    },
+    {
+      id: "with_trailers",
+      title: "🎬 Demos with Trailers",
+      cls: "sec-cyan",
+      items: sorted.filter(e => e.trailer).slice(0, 10),
+      onSeeAll: () => {
+        resetFilters();
+        searchQ = "has:trailer";
+        document.getElementById("search").value = "has:trailer";
         switchView("browse");
       }
     },
@@ -1422,7 +1433,7 @@ function switchView(view) {
 
 function render() {
   if (currentView === "home") {
-    const isFiltering = activeSrc !== "all" || activeGenre !== "all" || searchQ !== "" || nextFestOnly;
+    const isFiltering = activeSrc !== "steam" || activeGenre !== "all" || searchQ !== "" || nextFestOnly;
     if (isFiltering) {
       switchView("browse");
       return;
@@ -1454,7 +1465,7 @@ function render() {
 function updateStats(filteredItems) {
   const vis = filteredItems || filtered();
   const all = allEntries;
-  const isFiltering = activeSrc !== "all" || activeGenre !== "all" || searchQ !== "" || nextFestOnly;
+  const isFiltering = activeSrc !== "steam" || activeGenre !== "all" || searchQ !== "" || nextFestOnly;
 
   // Total: show "X / Y" when filtered, just "Y" when showing all
   const totalEl = document.getElementById("s-total");
@@ -1494,7 +1505,7 @@ function showDetails(id) {
   if (!entry) return;
 
   const modal = document.getElementById('details-modal');
-  const img = document.getElementById('modal-img');
+  const mediaWrap = document.getElementById('modal-media-wrap');
   const title = document.getElementById('modal-title');
   const source = document.getElementById('modal-source');
   const developer = document.getElementById('modal-developer');
@@ -1503,11 +1514,62 @@ function showDetails(id) {
   const tags = document.getElementById('modal-tags');
   const link = document.getElementById('modal-link');
 
-  if (entry.image) {
-    img.src = entry.image;
-    img.style.display = 'block';
-  } else {
-    img.style.display = 'none';
+  if (mediaWrap) {
+    mediaWrap.innerHTML = "";
+    if (entry.trailer) {
+      let embedUrl = "";
+      if (entry.trailer.includes("youtube.com") || entry.trailer.includes("youtu.be")) {
+        let videoId = "";
+        if (entry.trailer.includes("v=")) {
+          videoId = entry.trailer.split("v=")[1].split("&")[0];
+        } else if (entry.trailer.includes("youtu.be/")) {
+          videoId = entry.trailer.split("youtu.be/")[1].split("?")[0];
+        } else if (entry.trailer.includes("embed/")) {
+          videoId = entry.trailer.split("embed/")[1].split("?")[0];
+        }
+        if (videoId) {
+          embedUrl = `https://www.youtube.com/embed/${videoId}?autoplay=0&rel=0`;
+        }
+      } else if (entry.trailer.includes("vimeo.com")) {
+        let vimeoId = entry.trailer.split("vimeo.com/")[1].split("?")[0];
+        if (vimeoId) {
+          embedUrl = `https://player.vimeo.com/video/${vimeoId}`;
+        }
+      }
+
+      if (embedUrl) {
+        mediaWrap.innerHTML = `<iframe class="modal-header-img" style="aspect-ratio:16/9;border:none;background:#000;" src="${embedUrl}" allowfullscreen></iframe>`;
+      } else if (entry.trailer.includes(".m3u8") || entry.trailer.includes("hls_264_master")) {
+        mediaWrap.innerHTML = `<video id="modal-video" controls class="modal-header-img" style="aspect-ratio:16/9;object-fit:contain;background:#000;"></video>`;
+        const video = document.getElementById('modal-video');
+        if (video.canPlayType('application/vnd.apple.mpegurl')) {
+          video.src = entry.trailer;
+        } else if (typeof Hls !== 'undefined') {
+          const hls = new Hls();
+          hls.loadSource(entry.trailer);
+          hls.attachMedia(video);
+          window._activeHls = hls;
+        } else {
+          const script = document.createElement('script');
+          script.src = 'https://cdn.jsdelivr.net/npm/hls.js@1';
+          script.onload = () => {
+            if (Hls.isSupported()) {
+              const hls = new Hls();
+              hls.loadSource(entry.trailer);
+              hls.attachMedia(video);
+              window._activeHls = hls;
+            } else {
+              video.src = entry.trailer;
+            }
+          };
+          document.head.appendChild(script);
+        }
+      } else {
+        mediaWrap.innerHTML = `<video controls class="modal-header-img" style="aspect-ratio:16/9;object-fit:contain;background:#000;"><source src="${entry.trailer}" type="video/mp4">Your browser does not support the video tag.</video>`;
+      }
+    } else if (entry.image) {
+      mediaWrap.innerHTML = `<img id="modal-img" class="modal-header-img" src="${esc(entry.image)}" alt="" />`;
+    }
   }
 
   title.textContent = entry.title || 'UNKNOWN ENTRY';
@@ -1529,6 +1591,12 @@ function showDetails(id) {
 
 function closeModal() {
   document.getElementById('details-modal').classList.remove('active');
+  if (window._activeHls) {
+    window._activeHls.destroy();
+    window._activeHls = null;
+  }
+  const mediaWrap = document.getElementById('modal-media-wrap');
+  if (mediaWrap) mediaWrap.innerHTML = "";
 }
 
 // ── CONTROLS ─────────────────────────────────────────────────────────────────
