@@ -216,6 +216,40 @@
   .fbtn.genre-btn{font-size:.64rem;padding:.22rem .6rem}
   .fbtn.genre-btn.on{background:rgba(0,255,65,.08)}
 
+  /* Theme Toggle Button */
+  .theme-toggle-btn {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.82rem;
+    padding: 0.4rem 1.1rem;
+    background: transparent;
+    border: 1px solid var(--green);
+    color: var(--green);
+    cursor: pointer;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transition: all 0.2s ease;
+    box-shadow: var(--glow);
+    font-weight: 700;
+    margin-right: 0.8rem;
+  }
+  .theme-toggle-btn:hover {
+    background: var(--green);
+    color: var(--bg);
+    box-shadow: 0 0 15px rgba(0, 255, 65, 0.6);
+  }
+  body.modern-theme .theme-toggle-btn {
+    font-family: inherit;
+    border-radius: 8px;
+    border: 1px solid var(--green);
+    color: var(--green);
+    box-shadow: none;
+  }
+  body.modern-theme .theme-toggle-btn:hover {
+    background: var(--green);
+    color: var(--white);
+    box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+  }
+
   /* Genre accent colours */
   .g-action    .fbtn.on{border-color:#ff6b35;color:#ff6b35;box-shadow:0 0 8px rgba(255,107,53,.4)}
   .g-horror    .fbtn.on{border-color:var(--red);color:var(--red);box-shadow:var(--glow-red,0 0 8px rgba(255,34,51,.4))}
@@ -549,6 +583,7 @@
   <header>
     <div class="logo">PLAY<span>//</span>INDEX <span style="font-size:.55em;letter-spacing:.08em">DEMO DISCOVERY</span></div>
     <div class="hdr-right">
+      <button id="theme-toggle" class="theme-toggle-btn">✨ MODERN UI</button>
       <span><span class="live-dot"></span>AUTO-REFRESH 20MIN</span>
       <span id="clock">--:--:-- UTC</span>
     </div>
@@ -629,8 +664,6 @@
         <option value="az">A to Z</option>
         <option value="cls">CLASSIFICATION</option>
       </select>
-
-      <button id="theme-toggle" class="fbtn">✨ MODERN UI</button>
 
       <span class="results-count" id="results-count">— entries</span>
     </div>
