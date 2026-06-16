@@ -884,7 +884,8 @@
     <div class="filter-row">
       <span class="filter-row-label">SOURCE</span>
       <button class="fbtn on" data-src="steam">STEAM</button>
-      <button class="fbtn" data-src="itchio">ITCH.IO</button>
+      <button class="fbtn" data-src="itch-downloadable">ITCH (DOWNLOAD)</button>
+      <button class="fbtn" data-src="itch-webplays">ITCH (WEB PLAY)</button>
       <div style="flex-grow: 1;"></div>
       <button id="nextfest-toggle" class="fbtn next-fest-toggle-btn">🎉 NEXT FEST ONLY</button>
     </div>
@@ -1047,11 +1048,11 @@ const SAMPLE_ENTRIES = [
   { id:'s2', source:'steam', title:'Parasite Protocol', description:'A sci-fi survival horror prototype featured in Steam Next Fest where an alien organism rewrites the rules of your ship. Every playthrough mutates.', url:'https://store.steampowered.com', image:'https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg', tags:['Horror','Sci-fi','Roguelike','Indie','Steam Next Fest'], classification:'CORRUPTED', release_date:'Jun 12, 2026', indexed_at:'2026-06-12T08:00:00Z' },
   { id:'s3', source:'steam', title:'Liminal Spaces: Demo', description:'Walk through endless transitional spaces — empty hotels, fluorescent hallways, parking garages at 3am. A pure atmosphere experience.', url:'https://store.steampowered.com', image:'', tags:['Atmospheric','Walking Simulator','Horror','Art Game'], classification:'PROTOTYPE WORTH WATCHING', release_date:'Jun 11, 2026', indexed_at:'2026-06-11T08:00:00Z' },
   { id:'s4', source:'steam', title:'Entropy Garden', description:'A puzzle game where you coax extinct ecosystems back to life using only light and entropy. Gorgeous generative art.', url:'https://store.steampowered.com', image:'', tags:['Puzzle','Art Game','Relaxing','Indie'], classification:'HIGH POTENTIAL', release_date:'Jun 10, 2026', indexed_at:'2026-06-10T08:00:00Z' },
-  { id:'i1', source:'itchio', title:'CORRIDOR_07.exe', description:'A game that pretends to be a corrupted file. Navigate system errors, fake blue screens, and broken terminals. Deeply unsettling.', url:'https://itch.io', image:'', tags:['Horror','Experimental','Meta','Weird'], classification:'PSYCHOLOGICAL HAZARD', release_date:'Jun 13, 2026', indexed_at:'2026-06-13T08:00:00Z' },
-  { id:'i2', source:'itchio', title:'Soft Machine', description:'A body horror narrative game told through medical UI. You are diagnosing something that does not want to be diagnosed.', url:'https://itch.io', image:'', tags:['Horror','Narrative','Experimental','Body Horror'], classification:'CORRUPTED', release_date:'Jun 12, 2026', indexed_at:'2026-06-12T08:00:00Z' },
-  { id:'i3', source:'itchio', title:'Mycelium Network', description:'A jam entry exploring communication through fungal networks. You play as a forest intelligence sending signals.', url:'https://itch.io', image:'', tags:['Jam','Experimental','Narrative','Nature'], classification:'JAM DISCOVERY', release_date:'Jun 11, 2026', indexed_at:'2026-06-11T08:00:00Z' },
-  { id:'i4', source:'itchio', title:'Purgatory Slots', description:'A slot machine that makes moral decisions for you. A surreal commentary on free will dressed as a casino game.', url:'https://itch.io', image:'', tags:['Experimental','Surreal','Art Game','Weird'], classification:'PROTOTYPE WORTH WATCHING', release_date:'Jun 08, 2026', indexed_at:'2026-06-08T08:00:00Z' },
-  { id:'i5', source:'itchio', title:'Depth Charge', description:'An underwater exploration game with procedural ocean trenches. The darkness responds to sound.', url:'https://itch.io', image:'', tags:['Horror','Exploration','Atmospheric','Indie'], classification:'HIGH POTENTIAL', release_date:'Jun 06, 2026', indexed_at:'2026-06-06T08:00:00Z' },
+  { id:'i1', source:'itchio', title:'CORRIDOR_07.exe', description:'A game that pretends to be a corrupted file. Navigate system errors, fake blue screens, and broken terminals. Deeply unsettling.', url:'https://itch.io', image:'', tags:['Horror','Experimental','Meta','Weird'], classification:'PSYCHOLOGICAL HAZARD', release_date:'Jun 13, 2026', indexed_at:'2026-06-13T08:00:00Z', platforms:['html'] },
+  { id:'i2', source:'itchio', title:'Soft Machine', description:'A body horror narrative game told through medical UI. You are diagnosing something that does not want to be diagnosed.', url:'https://itch.io', image:'', tags:['Horror','Narrative','Experimental','Body Horror'], classification:'CORRUPTED', release_date:'Jun 12, 2026', indexed_at:'2026-06-12T08:00:00Z', platforms:['windows'] },
+  { id:'i3', source:'itchio', title:'Mycelium Network', description:'A jam entry exploring communication through fungal networks. You play as a forest intelligence sending signals.', url:'https://itch.io', image:'', tags:['Jam','Experimental','Narrative','Nature'], classification:'JAM DISCOVERY', release_date:'Jun 11, 2026', indexed_at:'2026-06-11T08:00:00Z', platforms:['html','windows'] },
+  { id:'i4', source:'itchio', title:'Purgatory Slots', description:'A slot machine that makes moral decisions for you. A surreal commentary on free will dressed as a casino game.', url:'https://itch.io', image:'', tags:['Experimental','Surreal','Art Game','Weird'], classification:'PROTOTYPE WORTH WATCHING', release_date:'Jun 08, 2026', indexed_at:'2026-06-08T08:00:00Z', platforms:[] },
+  { id:'i5', source:'itchio', title:'Depth Charge', description:'An underwater exploration game with procedural ocean trenches. The darkness responds to sound.', url:'https://itch.io', image:'', tags:['Horror','Exploration','Atmospheric','Indie'], classification:'HIGH POTENTIAL', release_date:'Jun 06, 2026', indexed_at:'2026-06-06T08:00:00Z', platforms:['windows','osx'] },
 ];
 
 // ── STATE ─────────────────────────────────────────────────────────────────────
@@ -1173,7 +1174,24 @@ function filtered() {
     const src = (e.source||"").toLowerCase();
     const genres = e._genres || [];
 
-    if (src !== activeSrc) return false;
+    if (activeSrc === "steam") {
+      if (src !== "steam") return false;
+    } else if (activeSrc === "itch-downloadable") {
+      if (src !== "itchio") return false;
+      const platforms = e.platforms || [];
+      const isDl = platforms.some(p => ["windows", "osx", "linux", "android"].includes(p)) || platforms.length === 0;
+      if (!isDl) return false;
+    } else if (activeSrc === "itch-webplays") {
+      if (src !== "itchio") return false;
+      const platforms = e.platforms || [];
+      const isWeb = platforms.includes("html");
+      if (!isWeb) return false;
+    } else if (activeSrc === "itchio") {
+      if (src !== "itchio") return false;
+    } else {
+      if (src !== activeSrc) return false;
+    }
+
     if (activeGenre !== "all" && !genres.includes(activeGenre)) return false;
     if (nextFestOnly && !isNextFest(e.tags)) return false;
 
@@ -1207,11 +1225,23 @@ function highlightText(text, query) {
 // ── RENDER ────────────────────────────────────────────────────────────────────
 function esc(s){ return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
 
-function srcBadge(src) {
+function srcBadge(src, platforms) {
   const s = (src||"").toLowerCase();
-  const cls = s==="steam"?"src-steam":s==="itchio"?"src-itchio":"src-steamdb";
-  const label = s==="itchio"?"ITCH.IO":s.toUpperCase();
-  return '<span class="card-source-badge '+cls+'">'+label+'</span>';
+  if (s === "steam") {
+    return '<span class="card-source-badge src-steam">STEAM</span>';
+  } else if (s === "itchio") {
+    const p = platforms || [];
+    const isWeb = p.includes("html");
+    const isDl = p.some(x => ["windows", "osx", "linux", "android"].includes(x)) || p.length === 0;
+    if (isWeb && isDl) {
+      return '<span class="card-source-badge src-itchio">ITCH.IO (WEB/DL)</span>';
+    } else if (isWeb) {
+      return '<span class="card-source-badge src-itchio">ITCH.IO (WEB)</span>';
+    } else {
+      return '<span class="card-source-badge src-itchio">ITCH.IO (DL)</span>';
+    }
+  }
+  return '<span class="card-source-badge src-steamdb">' + s.toUpperCase() + '</span>';
 }
 
 
@@ -1262,7 +1292,7 @@ function cardHtml(e, i) {
 
   return (
     '<div class="card" style="animation-delay:'+delay+'s" onclick="showDetails(\''+e.id+'\')">'+
-      '<div class="card-header"><div style="display:flex;gap:.35rem;align-items:center;">'+srcBadge(e.source)+nextFestBadge(e)+'</div><span style="font-size:.58rem;color:var(--dim)">'+date+'</span></div>'+
+      '<div class="card-header"><div style="display:flex;gap:.35rem;align-items:center;">'+srcBadge(e.source, e.platforms)+nextFestBadge(e)+'</div><span style="font-size:.58rem;color:var(--dim)">'+date+'</span></div>'+
       '<div style="position:relative;overflow:hidden;border-radius:inherit;">'+img+'</div>'+
       (genres.length?'<div class="card-genres">'+genrePills(genres)+'</div>':'')+
       '<div class="card-title">'+titleHtml+'</div>'+
@@ -1324,7 +1354,7 @@ function buildSections() {
       onSeeAll: () => {
         resetFilters();
         activeSrc = "itchio";
-        document.querySelectorAll("[data-src]").forEach(b => b.classList.toggle("on", b.dataset.src === "itchio"));
+        document.querySelectorAll("[data-src]").forEach(b => b.classList.toggle("on", b.dataset.src === "itch-downloadable" || b.dataset.src === "itch-webplays"));
         switchView("browse");
       }
     },
@@ -1633,7 +1663,23 @@ function showDetails(id) {
   }
 
   title.textContent = entry.title || 'UNKNOWN ENTRY';
-  source.textContent = (entry.source || '').toUpperCase();
+  
+  const s = (entry.source || '').toLowerCase();
+  if (s === 'itchio') {
+    const p = entry.platforms || [];
+    const isWeb = p.includes("html");
+    const isDl = p.some(x => ["windows", "osx", "linux", "android"].includes(x)) || p.length === 0;
+    if (isWeb && isDl) {
+      source.textContent = 'ITCH.IO (WEB/DL)';
+    } else if (isWeb) {
+      source.textContent = 'ITCH.IO (WEB PLAY)';
+    } else {
+      source.textContent = 'ITCH.IO (DOWNLOAD)';
+    }
+  } else {
+    source.textContent = s.toUpperCase();
+  }
+
   developer.textContent = entry.developer || 'Unknown';
   release.textContent = entry.release_date || entry.date || 'TBD';
   desc.textContent = entry.description || entry.desc || 'No description available.';
