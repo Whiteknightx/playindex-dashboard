@@ -116,6 +116,16 @@
   
   .hdr-right{display:flex;align-items:center;gap:1.2rem;font-size:.72rem;color:var(--dim);flex-wrap:wrap}
   .live-dot{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:var(--glow);animation:blink 1.1s infinite;display:inline-block;margin-right:.35rem}
+  .live-dot.scanning {
+    background: var(--amber) !important;
+    box-shadow: 0 0 8px rgba(255,180,0,0.75) !important;
+    animation: blink 0.5s infinite !important;
+  }
+  .live-dot.delayed {
+    background: var(--red) !important;
+    box-shadow: 0 0 8px rgba(255,34,51,0.75) !important;
+    animation: none !important;
+  }
   #clock{color:var(--green-dim);font-size:.75rem}
 
   /* ── STATS ── */
@@ -865,7 +875,7 @@
     <div class="hdr-right">
       <button id="view-toggle" class="view-toggle-btn">📋 BROWSE ALL</button>
       <button id="theme-toggle" class="theme-toggle-btn">✨ MODERN UI</button>
-      <span><span class="live-dot"></span>AUTO-REFRESH 20MIN</span>
+      <span><span class="live-dot"></span><span id="scan-status-text">AUTO-REFRESH 20MIN</span></span>
       <span id="clock">--:--:-- UTC</span>
     </div>
   </header>
@@ -1039,6 +1049,7 @@ const isLocalDev = window.location.protocol === 'file:' || window.location.hostn
 const DATA = {
   steam:   (isLocalDev && isMonitorRepo) ? "public_data_repo/data/steam.json" : "data/steam.json",
   itchio:  (isLocalDev && isMonitorRepo) ? "public_data_repo/data/itchio.json" : "data/itchio.json",
+  status:  (isLocalDev && isMonitorRepo) ? "public_data_repo/data/status.json" : "data/status.json",
 };
 const REFRESH_MS = 20 * 60 * 1000;
 
@@ -1063,16 +1074,81 @@ let sortMode   = "newest";
 let searchQ    = "";
 let nextFestOnly = false;
 let _currentModalEntry = null;
+let statusData = null;
+let lastStatusPoll = 0;
 
 // ── ADMIN MODE (exclusive: append ?admin=1 to URL) ───────────────────────────
 const IS_ADMIN = new URLSearchParams(window.location.search).get('admin') === '1';
 if (IS_ADMIN) document.body.classList.add('admin-mode');
 
-// ── CLOCK ─────────────────────────────────────────────────────────────────────
+// ── CLOCK & STATUS MONITOR ────────────────────────────────────────────────────
+async function checkStatusUpdate() {
+  const now = Date.now();
+  if (now - lastStatusPoll < 30 * 1000) return; // limit polling to once every 30s
+  lastStatusPoll = now;
+
+  try {
+    const rStatus = await fetch(DATA.status + "?t=" + now);
+    if (rStatus.ok) {
+      const fresh = await rStatus.json();
+      if (fresh && fresh.last_run && (!statusData || fresh.last_run !== statusData.last_run)) {
+        statusData = fresh;
+        // Trigger full data reload to show new games!
+        loadAll();
+      }
+    }
+  } catch(e) {
+    console.warn("Status poll failed:", e);
+  }
+}
+
+function updateScanStatus() {
+  const statusText = document.getElementById("scan-status-text");
+  const liveDot = document.querySelector(".live-dot");
+  if (!statusText || !liveDot) return;
+
+  if (!statusData || !statusData.last_run) {
+    statusText.textContent = "AUTO-REFRESH 20MIN";
+    liveDot.className = "live-dot";
+    return;
+  }
+
+  const lastRun = new Date(statusData.last_run);
+  const now = new Date();
+  
+  // Calculate difference in seconds
+  const diffMs = now.getTime() - lastRun.getTime();
+  const diffSec = Math.floor(diffMs / 1000);
+  const cycleSec = 30 * 60; // 30 minutes cycle
+
+  if (diffSec < cycleSec) {
+    // Idle state: counting down to next scan
+    const remainingSec = cycleSec - diffSec;
+    const mins = Math.floor(remainingSec / 60);
+    const secs = remainingSec % 60;
+    const timeStr = String(mins).padStart(2, '0') + ":" + String(secs).padStart(2, '0');
+    statusText.innerHTML = `NEXT SCAN IN: <span style="color: var(--white); font-weight: bold;">${timeStr}</span>`;
+    liveDot.className = "live-dot";
+  } else if (diffSec < cycleSec + 8 * 60) {
+    // Active state: workflow is running now (usually takes 1-8 minutes)
+    statusText.innerHTML = `<span style="color: var(--amber); font-weight: bold; text-shadow: 0 0 5px rgba(255, 180, 0, 0.35);">🟢 PI IS SCANNING DEMOS NOW...</span>`;
+    liveDot.className = "live-dot scanning";
+    // Poll for status update to detect completion
+    checkStatusUpdate();
+  } else {
+    // Overdue state: scan is due shortly or pending actions trigger
+    statusText.innerHTML = `<span style="color: var(--dim);">SCAN DUE SHORTLY...</span>`;
+    liveDot.className = "live-dot delayed";
+    // Poll for status update to detect completion
+    checkStatusUpdate();
+  }
+}
+
 function tick() {
   const n = new Date(), p = v => String(v).padStart(2,"0");
   document.getElementById("clock").textContent =
     p(n.getUTCHours())+":"+p(n.getUTCMinutes())+":"+p(n.getUTCSeconds())+" UTC";
+  updateScanStatus();
 }
 setInterval(tick, 1000); tick();
 
@@ -1099,6 +1175,16 @@ async function loadAll() {
   const steam = await fetchSrc("steam", DATA.steam);
   setLoader(60, "ACCESSING ITCH.IO ARCHIVE...");
   const itchio = await fetchSrc("itchio", DATA.itchio);
+  
+  try {
+    const rStatus = await fetch(DATA.status + "?t=" + Date.now());
+    if (rStatus.ok) {
+      statusData = await rStatus.json();
+    }
+  } catch(e) {
+    console.warn("Status fetch failed:", e);
+  }
+
   setLoader(95, "COMPILING INDEX...");
 
   const seen = new Set();
