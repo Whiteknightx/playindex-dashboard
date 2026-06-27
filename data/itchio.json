@@ -1,5 +1,597 @@
 [
   {
+    "id": "https://phasmantic.itch.io/hack-and-whack-wip",
+    "source": "itchio",
+    "title": "Hack'n'Whack [Free] [Windows]",
+    "description": "It&#039;s been your childhood dream to be experimented on!",
+    "url": "https://phasmantic.itch.io/hack-and-whack-wip",
+    "image": "https://img.itch.zone/aW1nLzI4MTI1NTYwLnBuZw==/315x250%23c/g3LjmV.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 26 Jun 2026 03:27:24 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:25:31Z"
+  },
+  {
+    "id": "https://splazly.itch.io/enduro-unicycle-racing-1",
+    "source": "itchio",
+    "title": "Enduro Unicycle Racing 1 [Free] [Windows]",
+    "description": "we bad at art :)",
+    "url": "https://splazly.itch.io/enduro-unicycle-racing-1",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxMDIwLnBuZw==/315x250%23c/fYwKSu.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:56:03 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-06-27T06:25:26Z"
+  },
+  {
+    "id": "https://moontyzoo.itch.io/hamsterworks",
+    "source": "itchio",
+    "title": "HamsterWorks [Free] [Puzzle] [Windows]",
+    "description": "",
+    "url": "https://moontyzoo.itch.io/hamsterworks",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxMTA4LmdpZg==/original/ayJpSI.gif",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 26 Jun 2026 17:30:50 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:25:22Z"
+  },
+  {
+    "id": "https://riwie.itch.io/threshold",
+    "source": "itchio",
+    "title": "Threshold [Free] [Adventure] [Windows]",
+    "description": "An emergency call to the lower level. Just fix the generator and come back up.",
+    "url": "https://riwie.itch.io/threshold",
+    "image": "https://img.itch.zone/aW1nLzI4MDMxMTg2LnBuZw==/315x250%23c/mHAekq.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sun, 21 Jun 2026 22:57:25 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-06-27T06:25:19Z"
+  },
+  {
+    "id": "https://ironhandmd.itch.io/industrial-burger",
+    "source": "itchio",
+    "title": "Industrial Burger [Free] [Action]",
+    "description": "Mass manufactured burgers , nice!",
+    "url": "https://ironhandmd.itch.io/industrial-burger",
+    "image": "https://img.itch.zone/aW1nLzI4MTMwODQ0LnBuZw==/315x250%23c/CM7c8V.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:57:40 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:25:16Z"
+  },
+  {
+    "id": "https://perhapsotto.itch.io/spinning-x-buissness",
+    "source": "itchio",
+    "title": "SPINNING X BUSINESS [Free]",
+    "description": "BUSINESS BUSINESS BUSINESS BUSINESS",
+    "url": "https://perhapsotto.itch.io/spinning-x-buissness",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxMjU1LnBuZw==/315x250%23c/dvE1y%2F.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:57:16 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:25:12Z"
+  },
+  {
+    "id": "https://fatfishygames.itch.io/silly-billy-adventure",
+    "source": "itchio",
+    "title": "Silly Billy's Silly Adventure [Free]",
+    "description": "",
+    "url": "https://fatfishygames.itch.io/silly-billy-adventure",
+    "image": "https://img.itch.zone/aW1nLzI4MTMwNzA1LnBuZw==/315x250%23c/vFfogY.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:48:56 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:25:08Z"
+  },
+  {
+    "id": "https://narrenschlag.itch.io/ricochet",
+    "source": "itchio",
+    "title": "Ricochet [Free] [Puzzle] [Windows] [Linux]",
+    "description": "Nothing tears you down like the kinetic energy of gravity",
+    "url": "https://narrenschlag.itch.io/ricochet",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxMzAwLnBuZw==/315x250%23c/1L5LmP.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 26 Jun 2026 05:07:34 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "indexed_at": "2026-06-27T06:25:05Z"
+  },
+  {
+    "id": "https://ros-dev.itch.io/unhandled",
+    "source": "itchio",
+    "title": "Unhandled [Free] [Action]",
+    "description": "",
+    "url": "https://ros-dev.itch.io/unhandled",
+    "image": "https://img.itch.zone/aW1nLzI4MDgzMDg4LnBuZw==/315x250%23c/0ku6ym.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Thu, 25 Jun 2026 04:09:21 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:25:01Z"
+  },
+  {
+    "id": "https://phantomnerve.itch.io/elecator",
+    "source": "itchio",
+    "title": "Elecator [Free] [Action]",
+    "description": "Game about riding Elevator full of Cats!",
+    "url": "https://phantomnerve.itch.io/elecator",
+    "image": "https://img.itch.zone/aW1nLzI4MTI5NzE2LnBuZw==/315x250%23c/1bYqxT.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:15:59 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:24:57Z"
+  },
+  {
+    "id": "https://skelebyte-studios.itch.io/spin-that-fish",
+    "source": "itchio",
+    "title": "SPIN THAT FISH [Free] [Other]",
+    "description": "Made for The Very Serious Juniper Dev Game Jam",
+    "url": "https://skelebyte-studios.itch.io/spin-that-fish",
+    "image": "https://img.itch.zone/aW1nLzI4MDc0OTU1LnBuZw==/315x250%23c/xxe%2Blj.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Thu, 25 Jun 2026 03:00:33 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-06-27T06:24:54Z"
+  },
+  {
+    "id": "https://wito-awa.itch.io/selling-tangyuan",
+    "source": "itchio",
+    "title": "Selling Tangyuan [Free] [Interactive Fiction]",
+    "description": "",
+    "url": "https://wito-awa.itch.io/selling-tangyuan",
+    "image": "https://img.itch.zone/aW1nLzI4MTE2MTk0LnBuZw==/315x250%23c/3LKyUR.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 26 Jun 2026 20:41:44 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:24:49Z"
+  },
+  {
+    "id": "https://baptexe.itch.io/spin-to-wind",
+    "source": "itchio",
+    "title": "Spin To Wind [Free] [Puzzle]",
+    "description": "You need to spin if you want to win!",
+    "url": "https://baptexe.itch.io/spin-to-wind",
+    "image": "https://img.itch.zone/aW1nLzI4MTE1MDU4LnBuZw==/315x250%23c/KKekWd.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:58:33 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:24:45Z"
+  },
+  {
+    "id": "https://tminitial.itch.io/no-dice",
+    "source": "itchio",
+    "title": "NO Dice [Free] [Fighting]",
+    "description": "Milo the bird and slot machines",
+    "url": "https://tminitial.itch.io/no-dice",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxMjQ4LnBuZw==/315x250%23c/Wifyx%2F.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 06:02:05 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:24:41Z"
+  },
+  {
+    "id": "https://rsstudio1524.itch.io/catch-a-word",
+    "source": "itchio",
+    "title": "Catch a Word [Free] [Educational] [Windows]",
+    "description": "",
+    "url": "https://rsstudio1524.itch.io/catch-a-word",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxMjIxLnBuZw==/315x250%23c/%2BO0F91.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:53:02 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-06-27T06:24:38Z"
+  },
+  {
+    "id": "https://verletgames.itch.io/playground-playground",
+    "source": "itchio",
+    "title": "Playground Playground [Free] [Simulation] [Windows] [macOS]",
+    "description": "Spin up some nostalgia in this multiplayer playground",
+    "url": "https://verletgames.itch.io/playground-playground",
+    "image": "https://img.itch.zone/aW1nLzI4MTIxNjYxLnBuZw==/315x250%23c/5B%2BR6t.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 00:19:56 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows",
+      "osx"
+    ],
+    "indexed_at": "2026-06-27T06:24:35Z"
+  },
+  {
+    "id": "https://lord-flophat.itch.io/alls-there-hotel",
+    "source": "itchio",
+    "title": "All's There Hotel [Free]",
+    "description": "",
+    "url": "https://lord-flophat.itch.io/alls-there-hotel",
+    "image": "https://img.itch.zone/aW1nLzI4MTMwOTE5LnBuZw==/315x250%23c/8FUsFK.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 04:55:45 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:24:31Z"
+  },
+  {
+    "id": "https://ottotsu.itch.io/playground-hijinks",
+    "source": "itchio",
+    "title": "Playground Hijinks [Free] [Simulation]",
+    "description": "",
+    "url": "https://ottotsu.itch.io/playground-hijinks",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxMjczLnBuZw==/315x250%23c/qDT7Iy.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Wed, 24 Jun 2026 18:30:39 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:24:27Z"
+  },
+  {
+    "id": "https://ranchonbread.itch.io/armaludus",
+    "source": "itchio",
+    "title": "Armaludus [Jam Version] [Free] [Action]",
+    "description": "",
+    "url": "https://ranchonbread.itch.io/armaludus",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxNDM0LnBuZw==/315x250%23c/qppGNu.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:59:45 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:24:24Z"
+  },
+  {
+    "id": "https://prasnu.itch.io/bobtheglob",
+    "source": "itchio",
+    "title": "Bob the glob [Free] [Action]",
+    "description": "You realize something is seriously wrong when you about to eat breakfast",
+    "url": "https://prasnu.itch.io/bobtheglob",
+    "image": "https://img.itch.zone/aW1nLzI4MTMwOTQ3LnBuZw==/315x250%23c/%2FuK1CC.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:38:09 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:24:21Z"
+  },
+  {
+    "id": "https://thecoolestwickk.itch.io/spinout",
+    "source": "itchio",
+    "title": "SPINOUT [Free] [Action]",
+    "description": "Made for Juniperdev&#039;s very serious game jam",
+    "url": "https://thecoolestwickk.itch.io/spinout",
+    "image": "https://img.itch.zone/aW1nLzI4MTIyNTE3LnBuZw==/315x250%23c/JShAui.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 26 Jun 2026 19:31:39 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:24:17Z"
+  },
+  {
+    "id": "https://warksman.itch.io/doki-doki-mafia-club",
+    "source": "itchio",
+    "title": "Doki Doki Mafia Club [Free]",
+    "description": "",
+    "url": "https://warksman.itch.io/doki-doki-mafia-club",
+    "image": "https://img.itch.zone/aW1nLzI4MDUzNDgzLnBuZw==/315x250%23c/3P2Ou5.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Wed, 24 Jun 2026 01:13:47 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:24:13Z"
+  },
+  {
+    "id": "https://somesillysprunker.itch.io/otherside2",
+    "source": "itchio",
+    "title": "Sprunki: Otherside (updated!) [Free]",
+    "description": "",
+    "url": "https://somesillysprunker.itch.io/otherside2",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxMjA4LnBuZw==/315x250%23c/%2F2AarZ.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 06:08:24 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:24:10Z"
+  },
+  {
+    "id": "https://mr-yum-yum.itch.io/top-top",
+    "source": "itchio",
+    "title": "Top Top! [Free] [Windows]",
+    "description": "",
+    "url": "https://mr-yum-yum.itch.io/top-top",
+    "image": "https://img.itch.zone/aW1nLzI4MTMwOTgzLmpwZw==/315x250%23c/srf92z.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:54:06 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-06-27T06:24:07Z"
+  },
+  {
+    "id": "https://mrmistermr.itch.io/spin-to-save-the-world",
+    "source": "itchio",
+    "title": "Spin To Save The World [Free] [Other]",
+    "description": "Help Stella save the world!!",
+    "url": "https://mrmistermr.itch.io/spin-to-save-the-world",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxMTA3LnBuZw==/315x250%23c/h%2FxVUT.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 06:04:02 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:24:03Z"
+  },
+  {
+    "id": "https://lostsock3000.itch.io/dogs-cant-spinreal",
+    "source": "itchio",
+    "title": "Dogs can't spins [Free] [Windows]",
+    "description": "",
+    "url": "https://lostsock3000.itch.io/dogs-cant-spinreal",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxMDM0LnBuZw==/315x250%23c/TgWVaM.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:58:06 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-06-27T06:24:00Z"
+  },
+  {
+    "id": "https://goodhunter-wom.itch.io/mini-knight-vs-dev",
+    "source": "itchio",
+    "title": "Mini Knight vs Dev [Free] [Platformer] [Windows]",
+    "description": "",
+    "url": "https://goodhunter-wom.itch.io/mini-knight-vs-dev",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxMTgxLnBuZw==/315x250%23c/NySud4.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 06:03:18 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-06-27T06:23:56Z"
+  },
+  {
+    "id": "https://gandshack.itch.io/circus-roulette",
+    "source": "itchio",
+    "title": "Circus Roulette [Free] [Action] [Windows]",
+    "description": "",
+    "url": "https://gandshack.itch.io/circus-roulette",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxNDMwLnBuZw==/315x250%23c/0IhP9y.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:58:46 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-06-27T06:23:53Z"
+  },
+  {
+    "id": "https://spiertier.itch.io/a-spin-between-times",
+    "source": "itchio",
+    "title": "A  Spin Between Times [Free] [Platformer] [Windows]",
+    "description": "Spin between 2 times",
+    "url": "https://spiertier.itch.io/a-spin-between-times",
+    "image": "https://img.itch.zone/aW1nLzI4MTMwOTI3LnBuZw==/315x250%23c/LQs7aB.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:57:01 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-06-27T06:23:50Z"
+  },
+  {
+    "id": "https://mark-keeble.itch.io/honey-i-lost-the-house",
+    "source": "itchio",
+    "title": "honey i lost the house [Free] [Other] [Windows]",
+    "description": "",
+    "url": "https://mark-keeble.itch.io/honey-i-lost-the-house",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxMjA3LnBuZw==/315x250%23c/oteLBN.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 05:45:36 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-06-27T06:23:46Z"
+  },
+  {
+    "id": "https://monologued.itch.io/360-95",
+    "source": "itchio",
+    "title": "360; 9-5 [Free] [Platformer]",
+    "description": "On the clock, always!",
+    "url": "https://monologued.itch.io/360-95",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxNTIxLnBuZw==/315x250%23c/%2FEuuB4.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 06:16:05 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:23:43Z"
+  },
+  {
+    "id": "https://ne9oz.itch.io/field-crasher-3d",
+    "source": "itchio",
+    "title": "Field Crasher 3D [Free]",
+    "description": "Field Crasher 3D",
+    "url": "https://ne9oz.itch.io/field-crasher-3d",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxMDMyLnBuZw==/315x250%23c/Y7e8Bh.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 06:08:51 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-06-27T06:23:38Z"
+  },
+  {
+    "id": "https://arsen-gevorgyan.itch.io/wheel-ship",
+    "source": "itchio",
+    "title": "Wheel ship [Free] [Adventure]",
+    "description": "Gmae",
+    "url": "https://arsen-gevorgyan.itch.io/wheel-ship",
+    "image": "https://img.itch.zone/aW1nLzI4MTMxNDA1LnBuZw==/315x250%23c/9XR5M2.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 27 Jun 2026 06:13:48 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-06-27T06:23:35Z"
+  },
+  {
     "id": "https://xdiel.itch.io/bloodyield",
     "source": "itchio",
     "title": "BloodYield [Free] [Other] [Windows]",
@@ -37338,592 +37930,5 @@
       "windows"
     ],
     "indexed_at": "2026-06-20T08:18:23Z"
-  },
-  {
-    "id": "https://linkingamez.itch.io/goofy-bird-remastered",
-    "source": "itchio",
-    "title": "goofy bird remastered for windows [Free] [Adventure]",
-    "description": "",
-    "url": "https://linkingamez.itch.io/goofy-bird-remastered",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2MTMzLnBuZw==/315x250%23c/bZI2t%2B.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 02:41:02 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-06-20T04:51:20Z"
-  },
-  {
-    "id": "https://utka42.itch.io/ruhtra",
-    "source": "itchio",
-    "title": "Ruhtra [Free] [Puzzle] [Windows] [macOS] [Linux]",
-    "description": "Smash blocks with your magic sword!",
-    "url": "https://utka42.itch.io/ruhtra",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2MDg0LnBuZw==/315x250%23c/s5EVg%2F.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 02:32:15 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:51:16Z"
-  },
-  {
-    "id": "https://miianatupuna.itch.io/the-mystery-ei",
-    "source": "itchio",
-    "title": "The Mystery Ei [Free] [Card Game]",
-    "description": "A journey across the Aitutaki lagoon to retrieve a ceremonial treasure",
-    "url": "https://miianatupuna.itch.io/the-mystery-ei",
-    "image": "https://img.itch.zone/aW1nLzI3OTIyNjAzLmpwZw==/315x250%23c/daO16o.jpg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Wed, 17 Jun 2026 12:17:53 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:51:11Z"
-  },
-  {
-    "id": "https://motrider.itch.io/naia-abismo-eterno",
-    "source": "itchio",
-    "title": "Naia: Abismo Eterno [Free] [Adventure] [Windows]",
-    "description": "",
-    "url": "https://motrider.itch.io/naia-abismo-eterno",
-    "image": "https://img.itch.zone/aW1nLzI3OTc1ODM1LnBuZw==/315x250%23c/dH8nUf.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Fri, 19 Jun 2026 23:45:41 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows"
-    ],
-    "indexed_at": "2026-06-20T04:51:07Z"
-  },
-  {
-    "id": "https://jarmanso7.itch.io/angels-of-his-mercy",
-    "source": "itchio",
-    "title": "Angels of His Mercy [pre-alpha release] [Free] [Card Game] [Windows] [Android]",
-    "description": "",
-    "url": "https://jarmanso7.itch.io/angels-of-his-mercy",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2MjgwLnBuZw==/315x250%23c/iS9Ot%2F.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sun, 14 Jun 2026 17:44:29 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows",
-      "android"
-    ],
-    "indexed_at": "2026-06-20T04:51:04Z"
-  },
-  {
-    "id": "https://crazyttttt.itch.io/shawdowy-tag",
-    "source": "itchio",
-    "title": "shawdowy tag [Free]",
-    "description": "",
-    "url": "https://crazyttttt.itch.io/shawdowy-tag",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2MTg0LnBuZw==/315x250%23c/mrRmyO.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 02:42:46 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-06-20T04:51:00Z"
-  },
-  {
-    "id": "https://novaonvr.itch.io/hidden-blocks-scratch",
-    "source": "itchio",
-    "title": "hidden blocks scratch [Free]",
-    "description": "turbowarp has more!",
-    "url": "https://novaonvr.itch.io/hidden-blocks-scratch",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2MDMyLmpwZw==/315x250%23c/4%2BjlCO.jpg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 02:35:55 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-06-20T04:50:56Z"
-  },
-  {
-    "id": "https://xyzzxc00.itch.io/yokai-blood-demo",
-    "source": "itchio",
-    "title": "Yokai Blood (妖血) Demo [Free] [Action]",
-    "description": "Survive the Blood Moon as a yokai warrior in this fast-paced bullet-heaven roguelite.",
-    "url": "https://xyzzxc00.itch.io/yokai-blood-demo",
-    "image": "https://img.itch.zone/aW1nLzI3OTYzODc5LnBuZw==/315x250%23c/x%2FMPm7.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Fri, 19 Jun 2026 14:37:15 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-06-20T04:50:53Z"
-  },
-  {
-    "id": "https://handcraftgames.itch.io/chudbudsxlikerogue",
-    "source": "itchio",
-    "title": "ChudBuds x Like Rogue [Free]",
-    "description": "",
-    "url": "https://handcraftgames.itch.io/chudbudsxlikerogue",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2MDkwLnBuZw==/315x250%23c/0HGA0b.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 02:30:21 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-06-20T04:50:49Z"
-  },
-  {
-    "id": "https://kikibyte.itch.io/constell",
-    "source": "itchio",
-    "title": "Constell [Free] [Simulation]",
-    "description": "Map the Heavens, Find the constellations!",
-    "url": "https://kikibyte.itch.io/constell",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2MDQ4LmpwZw==/315x250%23c/6DIdgW.jpg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 02:04:44 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:50:45Z"
-  },
-  {
-    "id": "https://gtxone.itch.io/roguefps",
-    "source": "itchio",
-    "title": "RogueFPS [Free] [Action] [Windows]",
-    "description": "Roguelike FPS Action Survival",
-    "url": "https://gtxone.itch.io/roguefps",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2MTgzLnBuZw==/315x250%23c/pvZLI2.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 01:49:55 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows"
-    ],
-    "indexed_at": "2026-06-20T04:50:41Z"
-  },
-  {
-    "id": "https://hedge-in.itch.io/rotten-bananza",
-    "source": "itchio",
-    "title": "Rotten Bananza [Free] [Action]",
-    "description": "",
-    "url": "https://hedge-in.itch.io/rotten-bananza",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2MjIzLnBuZw==/315x250%23c/gTj9yR.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:00:32 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:50:36Z"
-  },
-  {
-    "id": "https://rgb-games-studio.itch.io/garden-of-horror",
-    "source": "itchio",
-    "title": "Garden of horror [Free] [Survival]",
-    "description": "",
-    "url": "https://rgb-games-studio.itch.io/garden-of-horror",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2Mzk3LnBuZw==/315x250%23c/GlFBIF.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:10:39 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:50:32Z"
-  },
-  {
-    "id": "https://chillmillstudio.itch.io/quickscope-king",
-    "source": "itchio",
-    "title": "Quickscope King [Free] [Shooter] [Windows]",
-    "description": "Become the Quickscope King",
-    "url": "https://chillmillstudio.itch.io/quickscope-king",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2MjcyLnBuZw==/315x250%23c/gdWGbC.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:01:13 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows"
-    ],
-    "indexed_at": "2026-06-20T04:50:28Z"
-  },
-  {
-    "id": "https://luttegames.itch.io/guns-city",
-    "source": "itchio",
-    "title": "Guns City [Free] [Action]",
-    "description": "Build your reputation in a 2D gangster city filled with guns, gangs, and missions.",
-    "url": "https://luttegames.itch.io/guns-city",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2NDQ0LnBuZw==/315x250%23c/C1s54o.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:16:12 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:50:24Z"
-  },
-  {
-    "id": "https://dacornchipe.itch.io/sometimes-sacrifice-is-needed",
-    "source": "itchio",
-    "title": "Sometimes Sacrifice Is Needed [Free] [Puzzle]",
-    "description": "",
-    "url": "https://dacornchipe.itch.io/sometimes-sacrifice-is-needed",
-    "image": "https://img.itch.zone/aW1nLzI3OTc1NjcyLnBuZw==/315x250%23c/TW3eAH.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 02:03:01 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:50:20Z"
-  },
-  {
-    "id": "https://iznsyrh.itch.io/mathventure",
-    "source": "itchio",
-    "title": "MATHVENTURE [Free] [Adventure]",
-    "description": "A fun 3D educational mathematics adventure game designed for students.",
-    "url": "https://iznsyrh.itch.io/mathventure",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2MjkyLnBuZw==/315x250%23c/%2F96vvG.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:03:45 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-06-20T04:50:15Z"
-  },
-  {
-    "id": "https://game-factory3.itch.io/isaelly-game",
-    "source": "itchio",
-    "title": "Isaelly Game [Free] [Adventure]",
-    "description": "Jogo criado pela Isaelly nas aulas de Game Factory Essential",
-    "url": "https://game-factory3.itch.io/isaelly-game",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2NDc3LnBuZw==/315x250%23c/OMEhAq.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:20:38 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:50:11Z"
-  },
-  {
-    "id": "https://os-farms.itch.io/jm-655",
-    "source": "itchio",
-    "title": "J&M 655 [Free]",
-    "description": "FS25",
-    "url": "https://os-farms.itch.io/jm-655",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2NDY4LnBuZw==/315x250%23c/4iSGjP.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:19:08 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-06-20T04:50:06Z"
-  },
-  {
-    "id": "https://whippedmakey.itch.io/lyons-clicker-game",
-    "source": "itchio",
-    "title": "Lyon's Clicker Game! [Free] [Simulation]",
-    "description": "whatwastherealbutton?",
-    "url": "https://whippedmakey.itch.io/lyons-clicker-game",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2NDgyLmpwZWc=/315x250%23c/sc5i5s.jpeg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:22:44 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-06-20T04:50:02Z"
-  },
-  {
-    "id": "https://pixelstar-studio.itch.io/reciclomania",
-    "source": "itchio",
-    "title": "Reciclomania [Free] [Simulation] [Windows]",
-    "description": "Rougelike de recoger basura",
-    "url": "https://pixelstar-studio.itch.io/reciclomania",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2NjQ0LnBuZw==/315x250%23c/RTnyQN.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:29:29 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows"
-    ],
-    "indexed_at": "2026-06-20T04:49:58Z"
-  },
-  {
-    "id": "https://findyourmonkey.itch.io/super-chini-family",
-    "source": "itchio",
-    "title": "Super Chini Family [Free] [Platformer]",
-    "description": "mario like side scoller, to collect pizzas on your way to the ring",
-    "url": "https://findyourmonkey.itch.io/super-chini-family",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2NDc4LnBuZw==/315x250%23c/21FblV.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:27:53 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:49:53Z"
-  },
-  {
-    "id": "https://os-farms.itch.io/john-deere-1730-12-row-22-inch-planter",
-    "source": "itchio",
-    "title": "John Deere 1730 12 Row 22 inch planter [Free]",
-    "description": "FS25",
-    "url": "https://os-farms.itch.io/john-deere-1730-12-row-22-inch-planter",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2Nzg5LnBuZw==/315x250%23c/9EEtil.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:47:46 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-06-20T04:49:46Z"
-  },
-  {
-    "id": "https://game-factory3.itch.io/matheus-game",
-    "source": "itchio",
-    "title": "Matheus Game [Free]",
-    "description": "Jogo criado pelo Matheus nas aulas de Game Factory Essential",
-    "url": "https://game-factory3.itch.io/matheus-game",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2Nzk5LnBuZw==/315x250%23c/IJUjhU.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:49:12 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:49:42Z"
-  },
-  {
-    "id": "https://matula.itch.io/get-into-the-groove",
-    "source": "itchio",
-    "title": "Get Into the Groove [Free] [Simulation]",
-    "description": "",
-    "url": "https://matula.itch.io/get-into-the-groove",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2Nzc0LmpwZw==/315x250%23c/2ICxPc.jpg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:40:42 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:49:39Z"
-  },
-  {
-    "id": "https://thearti47.itch.io/void-kernel-reincarnation",
-    "source": "itchio",
-    "title": "Void Kernel Reincarnation [Free] [Strategy] [Windows]",
-    "description": "Тактическая RPG с модульной системой эссенций",
-    "url": "https://thearti47.itch.io/void-kernel-reincarnation",
-    "image": "https://img.itch.zone/aW1nLzI3OTU4NTQxLnBuZw==/315x250%23c/Igxj2a.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Fri, 19 Jun 2026 08:43:33 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows"
-    ],
-    "indexed_at": "2026-06-20T04:49:34Z"
-  },
-  {
-    "id": "https://cheva360.itch.io/monkeyin-around",
-    "source": "itchio",
-    "title": "Monkeyin' Around [Free]",
-    "description": "Sandwich Climber&#039;s predecessor!",
-    "url": "https://cheva360.itch.io/monkeyin-around",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2NzgwLnBuZw==/315x250%23c/lQSUzr.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:48:20 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-06-20T04:49:29Z"
-  },
-  {
-    "id": "https://os-farms.itch.io/john-deere-1760-12-row-30-inch-planter",
-    "source": "itchio",
-    "title": "John Deere 1760 12 Row 30 Inch Planter [Free]",
-    "description": "",
-    "url": "https://os-farms.itch.io/john-deere-1760-12-row-30-inch-planter",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2OTE0LnBuZw==/315x250%23c/KZ8%2FcL.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:58:48 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-06-20T04:49:25Z"
-  },
-  {
-    "id": "https://shita-amagawa.itch.io/ufo-site",
-    "source": "itchio",
-    "title": "日本UFOアーカイブ [Free]",
-    "description": "ARG ブラウザ探索 微ホラー",
-    "url": "https://shita-amagawa.itch.io/ufo-site",
-    "image": "https://img.itch.zone/aW1nLzI3OTc3MjQyLnBuZw==/315x250%23c/P7o6Rx.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:06:04 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:49:21Z"
-  },
-  {
-    "id": "https://xesense.itch.io/brazen",
-    "source": "itchio",
-    "title": "Brazen [Free] [Action]",
-    "description": "A wizard FPS game about controlling the elements",
-    "url": "https://xesense.itch.io/brazen",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2NzQwLmpwZw==/315x250%23c/xaZMR9.jpg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:44:14 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-06-20T04:49:17Z"
-  },
-  {
-    "id": "https://kittarya09.itch.io/colon3remastered",
-    "source": "itchio",
-    "title": ":3 Remastered! [Free] [Other]",
-    "description": "",
-    "url": "https://kittarya09.itch.io/colon3remastered",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2ODg4LnBuZw==/315x250%23c/eKmj4x.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:57:43 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-06-20T04:49:12Z"
-  },
-  {
-    "id": "https://mrgabas.itch.io/cowboy-saloon-survival",
-    "source": "itchio",
-    "title": "Cowboy Saloon Survival [Free] [Survival]",
-    "description": "​Juego para los suscriptores #4",
-    "url": "https://mrgabas.itch.io/cowboy-saloon-survival",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2NjYxLnBuZw==/315x250%23c/ZMGt0H.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:12:12 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:49:08Z"
-  },
-  {
-    "id": "https://cocoraw-game.itch.io/rock-paper-shotgun-2-boss-rush",
-    "source": "itchio",
-    "title": "Rock Paper Shotgun 2: BOSS RUSH [Free] [Action]",
-    "description": "Rock-paper-scissors boss rush — read the boss&#039;s move and shoot to win!",
-    "url": "https://cocoraw-game.itch.io/rock-paper-shotgun-2-boss-rush",
-    "image": "https://img.itch.zone/aW1nLzI3OTc2ODUxLnBuZw==/315x250%23c/3YukLk.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 03:54:37 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:49:04Z"
-  },
-  {
-    "id": "https://komets-productions.itch.io/virtual-shot-mobile",
-    "source": "itchio",
-    "title": "Virtual Shot (MOBILE) [Free]",
-    "description": "Environment Protocol: Unknown",
-    "url": "https://komets-productions.itch.io/virtual-shot-mobile",
-    "image": "https://img.itch.zone/aW1nLzI3OTc3MjQwLnBuZw==/315x250%23c/2HnKPB.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 20 Jun 2026 04:25:47 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-06-20T04:48:59Z"
   }
 ]
