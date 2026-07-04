@@ -592,6 +592,48 @@
   footer{border-top:1px solid var(--border);padding:.7rem 2rem;display:flex;align-items:center;justify-content:space-between;font-size:.6rem;color:var(--dim);background:var(--bg2);flex-wrap:wrap;gap:.4rem;transition:background 0.3s, border-color 0.3s;}
   #last-updated{color:var(--green-dim)}
 
+  /* ── PAGINATION ── */
+  .pagination-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.8rem;
+    margin: 2rem 0;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 0.82rem;
+  }
+  .pg-btn {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    color: var(--green);
+    padding: 0.4rem 0.8rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-weight: bold;
+    user-select: none;
+  }
+  .pg-btn:hover:not(.disabled) {
+    background: var(--green);
+    color: var(--bg);
+    box-shadow: var(--glow);
+    border-color: var(--green);
+  }
+  .pg-btn.disabled {
+    color: var(--dim);
+    border-color: var(--border);
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+  .pg-info {
+    color: var(--white);
+    letter-spacing: 0.05em;
+  }
+  body.modern-theme .pg-btn {
+    font-family: inherit;
+    border-radius: 8px;
+    background: var(--bg3);
+  }
+
   /* SCROLLBAR */
   ::-webkit-scrollbar{width:6px; height: 6px;}
   ::-webkit-scrollbar-track{background:var(--bg)}
@@ -876,6 +918,7 @@
         <p style="font-size:.68rem">ADJUST PARAMETERS AND RETRY</p>
       </div>
     </main>
+    <div id="pagination" class="pagination-container"></div>
   </div>
 
   <footer>
@@ -998,14 +1041,34 @@ let activeSrc  = "steam";
 let activeGenre = "all";
 let sortMode   = "newest";
 let searchQ    = "";
+let currentPage = 1;
+const ITEMS_PER_PAGE = 30;
 
 let _currentModalEntry = null;
 let statusData = null;
 let lastStatusPoll = 0;
 
+// Parse URL search parameters on initial load
+const urlParams = new URLSearchParams(window.location.search);
+if (urlParams.has("source")) activeSrc = urlParams.get("source");
+if (urlParams.has("genre")) activeGenre = urlParams.get("genre");
+if (urlParams.has("search")) searchQ = urlParams.get("search");
+if (urlParams.has("sort")) sortMode = urlParams.get("sort");
+if (urlParams.has("page")) currentPage = parseInt(urlParams.get("page"), 10) || 1;
+
 // ── ADMIN MODE (exclusive: append ?admin=1 to URL) ───────────────────────────
-const IS_ADMIN = new URLSearchParams(window.location.search).get('admin') === '1';
+const IS_ADMIN = urlParams.get('admin') === '1';
 if (IS_ADMIN) document.body.classList.add('admin-mode');
+
+// Sync UI controls with parsed URL parameters
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll("[data-src]").forEach(b => b.classList.toggle("on", b.dataset.src === activeSrc));
+  document.querySelectorAll("[data-genre]").forEach(b => b.classList.toggle("on", b.dataset.genre === activeGenre));
+  const searchInput = document.getElementById("search");
+  if (searchInput) searchInput.value = searchQ;
+  const sortSelect = document.getElementById("sort");
+  if (sortSelect) sortSelect.value = sortMode;
+});
 
 // ── CLOCK & STATUS MONITOR ────────────────────────────────────────────────────
 async function checkStatusUpdate() {
@@ -1282,7 +1345,16 @@ function cardHtml(e, i) {
   );
 }
 
-let currentView = "home";
+let currentView = (activeSrc !== "steam" || activeGenre !== "all" || searchQ !== "" || currentPage !== 1) ? "browse" : "home";
+
+// Initial display sync for browser layout
+document.addEventListener("DOMContentLoaded", () => {
+  if (currentView === "browse") {
+    document.getElementById("home-view").classList.remove("on");
+    document.getElementById("browse-wrap").classList.add("on");
+    document.getElementById("view-toggle").textContent = "◀ HOME";
+  }
+});
 
 function homeSort(a, b) {
   const imgA = a.image ? 1 : 0;
@@ -1297,6 +1369,7 @@ function resetFilters() {
   activeSrc = "steam";
   activeGenre = "all";
   searchQ = "";
+  currentPage = 1;
   document.querySelectorAll("[data-src]").forEach(b => b.classList.toggle("on", b.dataset.src === "steam"));
   document.querySelectorAll("[data-genre]").forEach(b => b.classList.toggle("on", b.dataset.genre === "all"));
   document.getElementById("search").value = "";
@@ -1478,11 +1551,14 @@ function switchView(view) {
     home.classList.remove("on");
     browse.classList.add("on");
     btn.textContent = "◀ HOME";
-    render();
+    render(true);
   }
+  syncURL();
 }
 
-function render() {
+function render(resetPage = false) {
+  if (resetPage) currentPage = 1;
+
   if (currentView === "home") {
     const isFiltering = activeSrc !== "steam" || activeGenre !== "all" || searchQ !== "";
     if (isFiltering) {
@@ -1500,17 +1576,78 @@ function render() {
 
   Array.from(grid.querySelectorAll(".card")).forEach(c => c.remove());
 
-  if (!items.length) {
+  // Pagination calculation
+  const totalPages = Math.ceil(items.length / ITEMS_PER_PAGE) || 1;
+  if (currentPage > totalPages) currentPage = totalPages;
+  if (currentPage < 1) currentPage = 1;
+
+  const pageItems = items.slice((currentPage - 1) * ITEMS_PER_PAGE, currentPage * ITEMS_PER_PAGE);
+
+  if (!pageItems.length) {
     empty.classList.add("show");
   } else {
     empty.classList.remove("show");
     const wrap = document.createElement("div");
     wrap.style.display = "contents";
-    wrap.innerHTML = items.map((e,i) => cardHtml(e,i)).join("");
+    wrap.innerHTML = pageItems.map((e,i) => cardHtml(e,i)).join("");
     Array.from(wrap.children).forEach(n => grid.appendChild(n));
   }
 
   updateStats(items);
+  renderPagination(totalPages);
+  syncURL();
+}
+
+function renderPagination(totalPages) {
+  const container = document.getElementById("pagination");
+  if (!container) return;
+
+  if (totalPages <= 1) {
+    container.style.display = "none";
+    return;
+  }
+  container.style.display = "flex";
+
+  const firstDisabled = currentPage === 1 ? "disabled" : "";
+  const prevDisabled = currentPage === 1 ? "disabled" : "";
+  const nextDisabled = currentPage === totalPages ? "disabled" : "";
+  const lastDisabled = currentPage === totalPages ? "disabled" : "";
+
+  container.innerHTML = `
+    <button class="pg-btn ${firstDisabled}" onclick="changePage(1)" ${firstDisabled}>&lt;&lt;</button>
+    <button class="pg-btn ${prevDisabled}" onclick="changePage(${currentPage - 1})" ${prevDisabled}>&lt;</button>
+    <span class="pg-info">PAGE ${currentPage} OF ${totalPages}</span>
+    <button class="pg-btn ${nextDisabled}" onclick="changePage(${currentPage + 1})" ${nextDisabled}>&gt;</button>
+    <button class="pg-btn ${lastDisabled}" onclick="changePage(${totalPages})" ${lastDisabled}>&gt;&gt;</button>
+  `;
+}
+
+function changePage(page) {
+  currentPage = page;
+  render();
+  const browseWrap = document.getElementById("browse-wrap");
+  if (browseWrap) {
+    browseWrap.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function syncURL() {
+  const url = new URL(window.location.href);
+  if (currentView === "home") {
+    url.searchParams.delete("source");
+    url.searchParams.delete("genre");
+    url.searchParams.delete("search");
+    url.searchParams.delete("sort");
+    url.searchParams.delete("page");
+  } else {
+    if (activeSrc !== "steam") url.searchParams.set("source", activeSrc); else url.searchParams.delete("source");
+    if (activeGenre !== "all") url.searchParams.set("genre", activeGenre); else url.searchParams.delete("genre");
+    if (searchQ) url.searchParams.set("search", searchQ); else url.searchParams.delete("search");
+    if (sortMode !== "newest") url.searchParams.set("sort", sortMode); else url.searchParams.delete("sort");
+    if (currentPage !== 1) url.searchParams.set("page", currentPage); else url.searchParams.delete("page");
+  }
+  window.history.replaceState({}, "", url.toString());
 }
 
 function updateStats(filteredItems) {
@@ -1768,17 +1905,17 @@ function showDlToast(msg) {
 document.querySelectorAll("[data-src]").forEach(btn => {
   btn.addEventListener("click", () => {
     document.querySelectorAll("[data-src]").forEach(b => b.classList.remove("on"));
-    btn.classList.add("on"); activeSrc = btn.dataset.src; render();
+    btn.classList.add("on"); activeSrc = btn.dataset.src; render(true);
   });
 });
 document.querySelectorAll("[data-genre]").forEach(btn => {
   btn.addEventListener("click", () => {
     document.querySelectorAll("[data-genre]").forEach(b => b.classList.remove("on"));
-    btn.classList.add("on"); activeGenre = btn.dataset.genre; render();
+    btn.classList.add("on"); activeGenre = btn.dataset.genre; render(true);
   });
 });
-document.getElementById("search").addEventListener("input", e => { searchQ = e.target.value; render(); });
-document.getElementById("sort").addEventListener("change", e => { sortMode = e.target.value; render(); });
+document.getElementById("search").addEventListener("input", e => { searchQ = e.target.value; render(true); });
+document.getElementById("sort").addEventListener("change", e => { sortMode = e.target.value; render(true); });
 
 
 
@@ -1788,13 +1925,13 @@ function filterGenre(genre) {
   document.querySelectorAll("[data-genre]").forEach(b => {
     b.classList.toggle("on", b.dataset.genre === genre);
   });
-  render();
+  render(true);
 }
 
 // Click tag chip on card
 function searchTag(tag) {
   document.getElementById("search").value = tag;
-  searchQ = tag; render();
+  searchQ = tag; render(true);
 }
 
 document.getElementById('view-toggle').addEventListener('click', () => {
