@@ -6,7 +6,7 @@
 <meta http-equiv="Pragma" content="no-cache"/>
 <meta http-equiv="Expires" content="0"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-<title>PLAYINDEX // DEMO DISCOVERY v3.2</title>
+<title>PLAYINDEX // DEMO DISCOVERY v3.3</title>
 <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;700;900&family=VT323&family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet"/>
 <style>
   :root{
@@ -150,7 +150,7 @@
   .sv-cy{color:var(--cyan);text-shadow:0 0 8px rgba(0,229,255,.35)}
   body.modern-theme .sv-cy { text-shadow: none; }
   .sv-sm{font-size:.68rem;color:var(--green-dim)}
-  body.modern-theme #s-nextfest { color: #ec4899 !important; text-shadow: none !important; }
+
 
   /* ── FILTER PANEL ── */
   .filter-panel{
@@ -400,79 +400,7 @@
   body.modern-theme .tag-chip { border-radius: 4px; }
   .tag-chip:hover{border-color:var(--dim);color:var(--dim)}
 
-  /* Steam Next Fest special tag chip styling */
-  .tag-chip.next-fest-tag {
-    background: rgba(255, 0, 85, 0.1) !important;
-    color: #ff0055 !important;
-    border: 1px solid rgba(255, 0, 85, 0.3) !important;
-    font-weight: 700;
-  }
-  .tag-chip.next-fest-tag:hover {
-    background: rgba(255, 0, 85, 0.2) !important;
-    border-color: #ff0055 !important;
-    box-shadow: 0 0 8px rgba(255, 0, 85, 0.4);
-  }
-  body.modern-theme .tag-chip.next-fest-tag {
-    background: rgba(236, 72, 153, 0.1) !important;
-    color: #ec4899 !important;
-    border: 1px solid rgba(236, 72, 153, 0.25) !important;
-  }
-  body.modern-theme .tag-chip.next-fest-tag:hover {
-    background: rgba(236, 72, 153, 0.2) !important;
-    border-color: #ec4899 !important;
-    box-shadow: 0 4px 10px rgba(236, 72, 153, 0.25);
-  }
 
-  /* Next Fest Badge styling */
-  .next-fest-badge {
-    background: linear-gradient(135deg, #ff0055, #9900ff);
-    color: #fff !important;
-    border: 1px solid #ff00ff !important;
-    font-weight: 700;
-    box-shadow: 0 0 8px rgba(255, 0, 255, 0.4);
-    text-shadow: 0 1px 2px rgba(0,0,0,0.5);
-    cursor: pointer;
-    font-size: .56rem;
-    letter-spacing: .1em;
-    text-transform: uppercase;
-    padding: .1rem .35rem;
-  }
-  body.modern-theme .next-fest-badge {
-    background: linear-gradient(135deg, #ec4899, #8b5cf6);
-    color: #ffffff !important;
-    border: none !important;
-    box-shadow: 0 2px 8px rgba(236, 72, 153, 0.4);
-    border-radius: 4px;
-  }
-
-  /* Next Fest Toggle Button styling */
-  .next-fest-toggle-btn {
-    border-color: #ff00ff !important;
-    color: #ff00ff !important;
-    transition: all 0.15s;
-    font-weight: 700;
-  }
-  .next-fest-toggle-btn:hover, .next-fest-toggle-btn.on {
-    background: rgba(255, 0, 255, 0.1) !important;
-    box-shadow: 0 0 10px rgba(255, 0, 255, 0.4) !important;
-    color: #ff00ff !important;
-    border-color: #ff00ff !important;
-  }
-  body.modern-theme .next-fest-toggle-btn {
-    border-color: #ec4899 !important;
-    color: #ec4899 !important;
-  }
-  body.modern-theme .next-fest-toggle-btn:hover {
-    background: rgba(236, 72, 153, 0.08) !important;
-    border-color: #ec4899 !important;
-    color: #ec4899 !important;
-  }
-  body.modern-theme .next-fest-toggle-btn.on {
-    background: linear-gradient(135deg, #ec4899, #8b5cf6) !important;
-    color: var(--white) !important;
-    border-color: transparent !important;
-    box-shadow: 0 4px 12px rgba(236, 72, 153, 0.35) !important;
-  }
 
   .card-foot{display:flex;align-items:center;justify-content:space-between;font-size:.6rem;color:var(--dim);border-top:1px solid var(--border);padding-top:.5rem;gap:.4rem;flex-wrap:wrap}
   .card-link{font-family:'Share Tech Mono',monospace;font-size:.62rem;color:var(--green-dim);text-decoration:none;padding:.16rem .42rem;border:1px solid var(--green-muted);letter-spacing:.07em;transition:all .15s}
@@ -641,7 +569,8 @@
   .dl-trailer-btn .dl-icon {
     font-size: 1rem;
   }
-  body.admin-mode .dl-trailer-btn.has-trailer {
+  body.admin-mode .dl-trailer-btn.has-trailer,
+  body.admin-mode .dl-trailer-btn.has-image {
     display: inline-flex;
   }
 
@@ -857,7 +786,7 @@
 
 <div id="boot">
   <div class="boot-logo">PLAYINDEX</div>
-  <div class="boot-line" style="animation-delay:.2s">INITIALIZING DISCOVERY SYSTEM v3.2...</div>
+  <div class="boot-line" style="animation-delay:.2s">INITIALIZING DISCOVERY SYSTEM v3.3...</div>
   <div class="boot-line" style="animation-delay:.65s">LOADING GENRE TAXONOMY (18 CATEGORIES / 279 TAGS)...</div>
   <div class="boot-line" style="animation-delay:1.1s">CONNECTING TO STEAM // ITCH.IO...</div>
   <div class="boot-bar-wrap"><div class="boot-bar"></div></div>
@@ -884,7 +813,7 @@
     <div class="stat"><div class="stat-label">Total</div><div class="stat-value" id="s-total">—</div></div>
     <div class="stat"><div class="stat-label">Steam</div><div class="stat-value sv-cy" id="s-steam">—</div></div>
     <div class="stat"><div class="stat-label">itch.io</div><div class="stat-value sv-am" id="s-itchio">—</div></div>
-    <div class="stat"><div class="stat-label" style="color:#ff00ff">Next Fest</div><div class="stat-value" id="s-nextfest" style="color:#ff00ff;text-shadow:0 0 8px rgba(255,0,255,.35)">—</div></div>
+
     <div class="stat"><div class="stat-label">Showing</div><div class="stat-value" id="s-showing">—</div><div class="stat-label" id="s-filter-state" style="color:var(--amber);margin-top:2px"></div></div>
     <div class="stat"><div class="stat-label">Updated</div><div class="stat-value sv-sm" id="s-updated">—</div></div>
   </div>
@@ -897,7 +826,6 @@
       <button class="fbtn" data-src="itch-downloadable">ITCH (DOWNLOAD)</button>
       <button class="fbtn" data-src="itch-webplays">ITCH (WEB PLAY)</button>
       <div style="flex-grow: 1;"></div>
-      <button id="nextfest-toggle" class="fbtn next-fest-toggle-btn">🎉 NEXT FEST ONLY</button>
     </div>
 
     <!-- Genre filter — full taxonomy -->
@@ -951,7 +879,7 @@
   </div>
 
   <footer>
-    <span>PLAYINDEX v3.2 // DEMO DISCOVERY</span>
+    <span>PLAYINDEX v3.3 // DEMO DISCOVERY</span>
     <span>STEAM • ITCH.IO &nbsp;|&nbsp; 18 GENRES / 279 TAGS</span>
     <span id="last-updated">—</span>
   </footer>
@@ -973,6 +901,9 @@
     <div class="modal-actions">
       <button id="modal-dl-trailer" class="dl-trailer-btn" onclick="downloadTrailer()" title="Save trailer to PC (Admin only)">
         <span class="dl-icon">⬇</span> SAVE TRAILER
+      </button>
+      <button id="modal-dl-image" class="dl-trailer-btn" onclick="downloadImage()" title="Save main image to PC (Admin only)">
+        <span class="dl-icon">📷</span> SAVE IMAGE
       </button>
       <a id="modal-link" class="card-link" href="" target="_blank" rel="noopener">[ OPEN STORE ENTRY ]</a>
     </div>
@@ -1008,12 +939,7 @@ for (const [cat, tags] of Object.entries(GENRE_TAXONOMY)) {
   for (const tag of tags) TAG_TO_GENRE[tag.toLowerCase()] = cat;
 }
 
-function isNextFest(tags) {
-  return (tags || []).some(t => {
-    const tl = t.toLowerCase();
-    return tl.includes("next fest") || tl.includes("nextfest") || tl.includes("next-fest");
-  });
-}
+
 
 function getGenres(tags) {
   const seen = new Set();
@@ -1072,7 +998,7 @@ let activeSrc  = "steam";
 let activeGenre = "all";
 let sortMode   = "newest";
 let searchQ    = "";
-let nextFestOnly = false;
+
 let _currentModalEntry = null;
 let statusData = null;
 let lastStatusPoll = 0;
@@ -1197,16 +1123,7 @@ async function loadAll() {
       if (k && !seen.has(k)) {
         seen.add(k);
         let tags = [...(e.tags || [])];
-        const hasNfTag = tags.some(t => {
-          const tl = t.toLowerCase();
-          return tl.includes("next fest") || tl.includes("nextfest") || tl.includes("next-fest");
-        });
-        if (!hasNfTag) {
-          const checkText = `${e.title || ""} ${e.description || ""}`.toLowerCase();
-          if (checkText.includes("next fest") || checkText.includes("nextfest") || checkText.includes("next-fest")) {
-            tags.push("Steam Next Fest");
-          }
-        }
+
         allEntries.push({
           ...e,
           id: e.id || `${e.source}-${idx}`,
@@ -1218,16 +1135,7 @@ async function loadAll() {
     allEntries = [];
     SAMPLE_ENTRIES.forEach((e, idx) => {
       let tags = [...(e.tags || [])];
-      const hasNfTag = tags.some(t => {
-        const tl = t.toLowerCase();
-        return tl.includes("next fest") || tl.includes("nextfest") || tl.includes("next-fest");
-      });
-      if (!hasNfTag) {
-        const checkText = `${e.title || ""} ${e.description || ""}`.toLowerCase();
-        if (checkText.includes("next fest") || checkText.includes("nextfest") || checkText.includes("next-fest")) {
-          tags.push("Steam Next Fest");
-        }
-      }
+
       allEntries.push({
         ...e,
         tags: tags
@@ -1279,7 +1187,7 @@ function filtered() {
     }
 
     if (activeGenre !== "all" && !genres.includes(activeGenre)) return false;
-    if (nextFestOnly && !isNextFest(e.tags)) return false;
+
 
     if (searchQ) {
       const q = searchQ.toLowerCase();
@@ -1340,30 +1248,12 @@ function genrePills(genres) {
 }
 
 function tagChips(tags) {
-  // Prioritize Next Fest tags to the front so they don't get sliced
-  const sorted = [...(tags || [])].sort((a, b) => {
-    const aIs = isNextFest([a]);
-    const bIs = isNextFest([b]);
-    if (aIs && !bIs) return -1;
-    if (!aIs && bIs) return 1;
-    return 0;
-  });
-
-  return sorted.slice(0,8).map(t => {
-    const isNf = isNextFest([t]);
-    const extraCls = isNf ? ' next-fest-tag' : '';
-    return '<span class="tag-chip' + extraCls + '" onclick="event.stopPropagation(); searchTag(\''+esc(t)+'\')">'+highlightText(esc(t), searchQ)+'</span>';
+  return (tags || []).slice(0,8).map(t => {
+    return '<span class="tag-chip" onclick="event.stopPropagation(); searchTag(\''+esc(t)+'\')">'+highlightText(esc(t), searchQ)+'</span>';
   }).join("");
 }
 
-function nextFestBadge(e) {
-  if (!isNextFest(e.tags)) return "";
-  const tag = (e.tags || []).find(t => {
-    const tl = t.toLowerCase();
-    return tl.includes("next fest") || tl.includes("nextfest") || tl.includes("next-fest");
-  }) || "Steam Next Fest";
-  return '<span class="card-source-badge next-fest-badge" onclick="event.stopPropagation(); searchTag(\'' + esc(tag) + '\')">' + esc(tag).toUpperCase() + '</span>';
-}
+
 
 function cardHtml(e, i) {
   const delay = Math.min(i*0.03,0.5).toFixed(2);
@@ -1378,7 +1268,7 @@ function cardHtml(e, i) {
 
   return (
     '<div class="card" style="animation-delay:'+delay+'s" onclick="showDetails(\''+e.id+'\')">'+
-      '<div class="card-header"><div style="display:flex;gap:.35rem;align-items:center;">'+srcBadge(e.source, e.platforms)+nextFestBadge(e)+'</div><span style="font-size:.58rem;color:var(--dim)">'+date+'</span></div>'+
+      '<div class="card-header"><div style="display:flex;gap:.35rem;align-items:center;">'+srcBadge(e.source, e.platforms)+'</div><span style="font-size:.58rem;color:var(--dim)">'+date+'</span></div>'+
       '<div style="position:relative;overflow:hidden;border-radius:inherit;">'+img+'</div>'+
       (genres.length?'<div class="card-genres">'+genrePills(genres)+'</div>':'')+
       '<div class="card-title">'+titleHtml+'</div>'+
@@ -1407,14 +1297,11 @@ function resetFilters() {
   activeSrc = "steam";
   activeGenre = "all";
   searchQ = "";
-  nextFestOnly = false;
   document.querySelectorAll("[data-src]").forEach(b => b.classList.toggle("on", b.dataset.src === "steam"));
   document.querySelectorAll("[data-genre]").forEach(b => b.classList.toggle("on", b.dataset.genre === "all"));
   document.getElementById("search").value = "";
   document.getElementById("sort").value = "newest";
   sortMode = "newest";
-  const nfToggle = document.getElementById("nextfest-toggle");
-  if (nfToggle) nfToggle.classList.remove("on");
 }
 
 function buildSections() {
@@ -1444,19 +1331,7 @@ function buildSections() {
         switchView("browse");
       }
     },
-    {
-      id: "next_fest",
-      title: "🎉 Steam Next Fest",
-      cls: "sec-pink",
-      items: sorted.filter(e => isNextFest(e.tags)).slice(0, 10),
-      onSeeAll: () => {
-        resetFilters();
-        nextFestOnly = true;
-        const nfToggle = document.getElementById('nextfest-toggle');
-        if (nfToggle) nfToggle.classList.add('on');
-        switchView("browse");
-      }
-    },
+
     {
       id: "with_trailers",
       title: "🎬 Demos with Trailers",
@@ -1609,7 +1484,7 @@ function switchView(view) {
 
 function render() {
   if (currentView === "home") {
-    const isFiltering = activeSrc !== "steam" || activeGenre !== "all" || searchQ !== "" || nextFestOnly;
+    const isFiltering = activeSrc !== "steam" || activeGenre !== "all" || searchQ !== "";
     if (isFiltering) {
       switchView("browse");
       return;
@@ -1641,7 +1516,7 @@ function render() {
 function updateStats(filteredItems) {
   const vis = filteredItems || filtered();
   const all = allEntries;
-  const isFiltering = activeSrc !== "steam" || activeGenre !== "all" || searchQ !== "" || nextFestOnly;
+  const isFiltering = activeSrc !== "steam" || activeGenre !== "all" || searchQ !== "";
 
   // Total: show "X / Y" when filtered, just "Y" when showing all
   const totalEl = document.getElementById("s-total");
@@ -1652,14 +1527,7 @@ function updateStats(filteredItems) {
   document.getElementById("s-steam").textContent   = vis.filter(e=>(e.source||"").toLowerCase()==="steam").length;
   document.getElementById("s-itchio").textContent  = vis.filter(e=>(e.source||"").toLowerCase()==="itchio").length;
 
-  // Next Fest count
-  const totalNf = all.filter(e => isNextFest(e.tags)).length;
-  const visNf   = vis.filter(e => isNextFest(e.tags)).length;
-  const nfEl = document.getElementById("s-nextfest");
-  if (nfEl) {
-    nfEl.textContent = isFiltering ? visNf + " / " + totalNf : String(totalNf);
-    nfEl.style.fontSize = isFiltering ? "0.82rem" : "";
-  }
+
 
   // Showing + results label
   document.getElementById("s-showing").textContent = vis.length;
@@ -1771,8 +1639,7 @@ function showDetails(id) {
   desc.textContent = entry.description || entry.desc || 'No description available.';
 
   tags.innerHTML = (entry.tags || []).map(t => {
-    const nfClass = isNextFest([t]) ? ' next-fest-tag' : '';
-    return `<span class="tag-chip${nfClass}" onclick="searchTag('${t}'); closeModal();">${t}</span>`;
+    return `<span class="tag-chip" onclick="searchTag('${t}'); closeModal();">${t}</span>`;
   }).join('');
 
   link.href = entry.url || '';
@@ -1783,6 +1650,10 @@ function showDetails(id) {
   const dlBtn = document.getElementById('modal-dl-trailer');
   if (dlBtn) {
     dlBtn.classList.toggle('has-trailer', !!entry.trailer);
+  }
+  const dlImgBtn = document.getElementById('modal-dl-image');
+  if (dlImgBtn) {
+    dlImgBtn.classList.toggle('has-image', !!entry.image);
   }
 
   modal.classList.add('active');
@@ -1834,6 +1705,36 @@ function downloadTrailer() {
   showDlToast(`⬇ Downloading "${safeName}.mp4"...`);
 }
 
+function downloadImage() {
+  if (!IS_ADMIN || !_currentModalEntry || !_currentModalEntry.image) return;
+  const entry = _currentModalEntry;
+  const url = entry.image;
+  const safeName = (entry.title || 'capsule').replace(/[^a-z0-9_\- ]/gi, '').replace(/\s+/g, '_');
+  const ext = url.split('.').pop().split('?')[0] || 'jpg';
+  const filename = `${entry.source}_${safeName}.${ext}`;
+
+  fetch(url)
+    .then(r => {
+      if (!r.ok) throw new Error("CORS or fetch error");
+      return r.blob();
+    })
+    .then(blob => {
+      const blobUrl = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = blobUrl;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(blobUrl);
+      showDlToast(`⬇ Downloading "${filename}"...`);
+    })
+    .catch(() => {
+      window.open(url, '_blank');
+      showDlToast('📷 Opened image in new tab. Right click to save.');
+    });
+}
+
 function showDlToast(msg) {
   let toast = document.getElementById('dl-toast');
   if (!toast) {
@@ -1879,13 +1780,7 @@ document.querySelectorAll("[data-genre]").forEach(btn => {
 document.getElementById("search").addEventListener("input", e => { searchQ = e.target.value; render(); });
 document.getElementById("sort").addEventListener("change", e => { sortMode = e.target.value; render(); });
 
-// Next Fest toggle
-document.getElementById('nextfest-toggle').addEventListener('click', () => {
-  const btn = document.getElementById('nextfest-toggle');
-  nextFestOnly = !nextFestOnly;
-  btn.classList.toggle('on', nextFestOnly);
-  render();
-});
+
 
 // Click genre pill on card
 function filterGenre(genre) {
