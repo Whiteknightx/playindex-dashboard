@@ -1,5 +1,42 @@
 [
   {
+    "id": "4900580",
+    "source": "steam",
+    "title": "Mythfall Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4900580/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900580/5c4401cae75b5d45b564e8f7c003f6cef14d8e2e/header.jpg?t=1783255019",
+    "tags": [
+      "Action Roguelike",
+      "MMORPG",
+      "Bullet Hell",
+      "Dungeon Crawler",
+      "Roguelite",
+      "Perma Death",
+      "PvE",
+      "RPG",
+      "Shooter",
+      "Roguelike",
+      "Character Customization",
+      "2D",
+      "Cute",
+      "Isometric",
+      "Top-Down",
+      "Steampunk",
+      "Base Building",
+      "Choices Matter",
+      "Nonlinear",
+      "Open World",
+      "Action",
+      "Indie",
+      "Massively Multiplayer"
+    ],
+    "developer": "Vatt Labs",
+    "release_date": "Jul 5, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/3475620/816750/253d324eac56eef488c26874b3edcf9276d924c1/1750854273/hls_264_master.m3u8?t=1737803454",
+    "indexed_at": "2026-07-05T14:14:51Z"
+  },
+  {
     "id": "4874200",
     "source": "steam",
     "title": "Irondrive Demo",
@@ -6575,7 +6612,7 @@
     ],
     "developer": "Bison Forge Interactive",
     "release_date": "Jun 26, 2026",
-    "trailer": "",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4848480/758144455/cbb3ebe7bd368021b81d494ed6eac0cd76fbbdd5/1781797094/hls_264_master.m3u8?t=1782157792",
     "indexed_at": "2026-06-26T21:03:21Z"
   },
   {
@@ -6596,7 +6633,7 @@
     ],
     "developer": "kann zaubern",
     "release_date": "Jun 26, 2026",
-    "trailer": "",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4618250/947402283/a9ddc2e90b5cf3a9cf648dd0c5c80e31a13146d9/1776373025/hls_264_master.m3u8?t=1778710534",
     "indexed_at": "2026-06-26T21:03:12Z"
   },
   {
@@ -6654,7 +6691,7 @@
     ],
     "developer": "DustWyrmStudio",
     "release_date": "Jun 26, 2026",
-    "trailer": "",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4631130/642009212/407610436a01ab69d6ef43ac76d5ffd23a6ac4ee/1780497920/hls_264_master.m3u8?t=1780498433",
     "indexed_at": "2026-06-26T17:14:29Z"
   },
   {
@@ -11774,38 +11811,5 @@
     "release_date": "Jun 20, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4747220/1980192417/3ea8f295488c45330935953bba137cadda6f9ac2/1778869498/hls_264_master.m3u8?t=1781538771",
     "indexed_at": "2026-06-20T14:38:33Z"
-  },
-  {
-    "id": "4865750",
-    "source": "steam",
-    "title": "Last Watchtower Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4865750/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4865750/c909ac16f1250daec44557f028e51f14414369c0/header.jpg?t=1781946123",
-    "tags": [
-      "Auto Battler",
-      "Strategy",
-      "Tower Defense",
-      "Idler",
-      "Top-Down",
-      "Minimalist",
-      "Fantasy",
-      "Indie",
-      "2D",
-      "Medieval",
-      "Dark",
-      "Singleplayer",
-      "Casual",
-      "Incremental",
-      "Old School",
-      "Magic",
-      "Retro",
-      "Combat",
-      "Resource Management"
-    ],
-    "developer": "nija games",
-    "release_date": "Jun 20, 2026",
-    "trailer": "",
-    "indexed_at": "2026-06-20T10:44:53Z"
   }
 ]
