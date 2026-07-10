@@ -1,5 +1,83 @@
 [
   {
+    "id": "4847240",
+    "source": "steam",
+    "title": "Age of Legacy Demo",
+    "description": "Age of Legacy is an unforgiving roguelike RPG with intense turn-based 1v1 combat. Choose a class to define your tactical approach, and hunt unique equipment and powerful runestones. Survival is key, because death means game over!",
+    "url": "https://store.steampowered.com/app/4847240/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847240/025ad5dc8e3f28de28fa317281ad181dd5ba6e5e/header.jpg?t=1783666806",
+    "tags": [
+      "RPG",
+      "Roguelike",
+      "Turn-Based Combat",
+      "Perma Death",
+      "Strategy RPG",
+      "Indie",
+      "Turn-Based Strategy",
+      "Strategy",
+      "Pixel Graphics",
+      "Difficult",
+      "Tactical RPG",
+      "2D",
+      "Fantasy",
+      "Magic",
+      "Retro",
+      "Singleplayer"
+    ],
+    "developer": "Chaotic Order Games",
+    "release_date": "Jul 10, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4847240/960628193/d7296a67f6e53449acfc8af4236ac8d827e4d4d5/1781252914/hls_264_master.m3u8?t=1781679979",
+    "indexed_at": "2026-07-10T10:24:50Z"
+  },
+  {
+    "id": "4858170",
+    "source": "steam",
+    "title": "Areteion Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4858170/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858170/b61751c0fb952c26e3ecea7585a90e5776af7420/header.jpg?t=1783668994",
+    "tags": [
+      "Strategy",
+      "Mythology",
+      "Card Game",
+      "Board Game",
+      "Deckbuilding",
+      "Singleplayer",
+      "Colorful",
+      "Multiplayer",
+      "Turn-Based Strategy",
+      "Top-Down",
+      "2D",
+      "Indie",
+      "Roguelike"
+    ],
+    "developer": "juxtapositioned",
+    "release_date": "Jul 10, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4097640/1125880315/aacb98eebbf1bb489e6323ea8ca29741edb67577/1781293925/hls_264_master.m3u8?t=1781294357",
+    "indexed_at": "2026-07-10T10:24:42Z"
+  },
+  {
+    "id": "4904310",
+    "source": "steam",
+    "title": "ぺちぺちハクスラ Demo",
+    "description": "A hack-and-slash RPG where you defeat monsters, gather materials, and grow stronger through equipment crafting and skills. The more you upgrade, the faster your material farming becomes! Watching your stats steadily rise is irresistibly addictive!",
+    "url": "https://store.steampowered.com/app/4904310/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4904310/7b2679330bb0b05acc7fb848adfc05c42cde428f/header.jpg?t=1783671137",
+    "tags": [
+      "RPG",
+      "JRPG",
+      "2D Platformer",
+      "Hack and Slash",
+      "Incremental",
+      "2D",
+      "Singleplayer"
+    ],
+    "developer": "ディンク",
+    "release_date": "Jul 10, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4904310/1011734333/3ab5e54b271445d80b51fd82a72be472d827770f/1782654739/hls_264_master.m3u8?t=1783671136",
+    "indexed_at": "2026-07-10T10:24:35Z"
+  },
+  {
     "id": "4932430",
     "source": "steam",
     "title": "Dyeversion Demo",
@@ -13126,28 +13204,5 @@
     "release_date": "Jun 25, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4850960/1618331282/ca5ac96321665a48a600d36df144167a27ebd779/1781338745/hls_264_master.m3u8?t=1781794125",
     "indexed_at": "2026-06-25T10:35:02Z"
-  },
-  {
-    "id": "4792500",
-    "source": "steam",
-    "title": "Monke Brain Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4792500/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4792500/694e6d13e33314f6829f4cef2b2d1cdc934a58ba/header.jpg?t=1782367989",
-    "tags": [
-      "Strategy",
-      "Card Game",
-      "Roguelike",
-      "2D",
-      "Relaxing",
-      "Deckbuilding",
-      "Singleplayer",
-      "Roguelite",
-      "Roguelike Deckbuilder"
-    ],
-    "developer": "PIRI PIRI INTERACTIVE",
-    "release_date": "Jun 24, 2026",
-    "trailer": "",
-    "indexed_at": "2026-06-25T07:35:33Z"
   }
 ]
