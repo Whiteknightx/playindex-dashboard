@@ -1,5 +1,61 @@
 [
   {
+    "id": "4480440",
+    "source": "steam",
+    "title": "Loop Tower Demo",
+    "description": "Loop Tower tells the story of adventurers climbing an endless tower. Place it on a corner of your desktop and help them continue their ascent. Experience a fresh blend of desktop idle gameplay + roguelike + RPG right now!",
+    "url": "https://store.steampowered.com/app/4480440/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4480440/e75eee9b66d5bf1ea4f83e0fab502b587f834b63/header.jpg?t=1783645307",
+    "tags": [
+      "RPG",
+      "Casual",
+      "Simulation",
+      "Auto Battler",
+      "Roguelike",
+      "Indie",
+      "Hack and Slash",
+      "Idler",
+      "Roguelite",
+      "Hand-drawn",
+      "Top-Down",
+      "Dark Fantasy",
+      "Retro",
+      "Singleplayer",
+      "2D"
+    ],
+    "developer": "Enter the Game Studios",
+    "release_date": "Jul 9, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4480440/1633339321/9d0e582d95786bdaf51ea21a43b42fe4fc65e573/1783644636/hls_264_master.m3u8?t=1783644931",
+    "indexed_at": "2026-07-10T03:18:36Z"
+  },
+  {
+    "id": "4892820",
+    "source": "steam",
+    "title": "Ironvale Demo",
+    "description": "IRONVALE is a survival-crafting roguelike. Gameplay is split into a day/night cycle, where crafting, resource gathering, and building primarily happen during the day -- but at night, swarms of enemies attack the player and they must fight to survive.",
+    "url": "https://store.steampowered.com/app/4892820/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4892820/5f59dda5e38da1bb1e8435d45ff2cc4404b7a974/header.jpg?t=1783646728",
+    "tags": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "RPG",
+      "Action Roguelike",
+      "2D",
+      "Co-op",
+      "Multiplayer",
+      "Online Co-Op",
+      "Singleplayer",
+      "Crafting",
+      "Roguelike",
+      "Survival"
+    ],
+    "developer": "Kelmen Studios",
+    "release_date": "Jul 9, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4892820/29261608/c92c89d249cda1e761b5455efb19dfb171fc1add/1782324984/hls_264_master.m3u8?t=1782826524",
+    "indexed_at": "2026-07-10T03:18:29Z"
+  },
+  {
     "id": "4914200",
     "source": "steam",
     "title": "GeneWorld Demo",
@@ -13064,50 +13120,5 @@
     "release_date": "Jun 24, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4807830/447159312/6e7ce4e03e2942fb52a54bb6f17b205883563486/1780371227/hls_264_master.m3u8?t=1782241106",
     "indexed_at": "2026-06-25T03:55:26Z"
-  },
-  {
-    "id": "4796190",
-    "source": "steam",
-    "title": "Chirpology Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4796190/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4796190/674880e03bf2a7c1ffeb09c59fe67cb501cf1dca/header.jpg?t=1782198335",
-    "tags": [
-      "Casual",
-      "Singleplayer",
-      "Cute",
-      "Idler",
-      "Creature Collector",
-      "Indie"
-    ],
-    "developer": "Sawbird Studio",
-    "release_date": "Jun 23, 2026",
-    "trailer": "",
-    "indexed_at": "2026-06-24T23:59:51Z"
-  },
-  {
-    "id": "4867430",
-    "source": "steam",
-    "title": "Cow Heard Demo",
-    "description": "Welcome to the Cow Heard Demo! This demo introduces players to the atmosphere, setting, and core mechanics of Cow Heard. You will experience the beginning section of the story, explore part of the farm environment, and encounter early puzzles and narrative elements that establish the tone of the full game!",
-    "url": "https://store.steampowered.com/app/4867430/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4867430/fa9a0bbbf3c31054182362a4afbb777be8180a20/header.jpg?t=1782341200",
-    "tags": [
-      "Casual",
-      "Puzzle",
-      "Exploration",
-      "3D",
-      "First-Person",
-      "Horror",
-      "Quick-Time Events",
-      "Free to Play",
-      "Indie",
-      "Singleplayer",
-      "Free To Play"
-    ],
-    "developer": "bean_exe53",
-    "release_date": "Jun 24, 2026",
-    "trailer": "",
-    "indexed_at": "2026-06-24T23:59:45Z"
   }
 ]
