@@ -1,5 +1,39 @@
 [
   {
+    "id": "4838400",
+    "source": "steam",
+    "title": "BreakEven - Idle Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4838400/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838400/f7fc6c27a87e9237ecfb1e984b50a212eb1d47c4/header.jpg?t=1783895323",
+    "tags": [
+      "RPG",
+      "Idler",
+      "Incremental",
+      "Action RPG",
+      "2D",
+      "Dark Humor",
+      "Adventure",
+      "Pixel Graphics",
+      "Dark Fantasy",
+      "Demons",
+      "Economy",
+      "Fantasy",
+      "Loot",
+      "Magic",
+      "Indie",
+      "Early Access",
+      "Casual",
+      "Atmospheric",
+      "Crafting",
+      "Old School"
+    ],
+    "developer": "NKnives",
+    "release_date": "Jul 12, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4833310/710468079/e23ad584c6e30ccb01ab51267caa0f35d3807b66/1783677697/hls_264_master.m3u8?t=1783875023",
+    "indexed_at": "2026-07-12T23:14:32Z"
+  },
+  {
     "id": "4908810",
     "source": "steam",
     "title": "GeneLoot Demo",
@@ -11911,28 +11945,5 @@
     "release_date": "Jun 27, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4728270/1271397649/0531ddc28a7d61a0e6c69dc3eb9101d730787f46/1779828847/hls_264_master.m3u8?t=1779829155",
     "indexed_at": "2026-06-27T23:57:32Z"
-  },
-  {
-    "id": "4886530",
-    "source": "steam",
-    "title": "SHARDS Demo",
-    "description": "An asymmetric co-op horror puzzle for 2–4 (best as a duo). One works the board, the rest hold the rules — you never see each other's screen, only your voices connect. The symbols you must describe have no names. Convey them before the caged core collapses. Miscommunication is fatal.",
-    "url": "https://store.steampowered.com/app/4886530/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886530/4698b998049688fd9b9cc69423ba0bf687d6e605/header.jpg?t=1782597981",
-    "tags": [
-      "Adventure",
-      "Puzzle",
-      "Horror",
-      "Online Co-Op",
-      "Singleplayer",
-      "Multiplayer",
-      "Gore",
-      "Co-op",
-      "Indie"
-    ],
-    "developer": "LUMICROFT",
-    "release_date": "Jun 27, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4886530/1716330738/a3bf4af303640bdccc2e2dad1ba8aa82f7c55f32/1782221773/hls_264_master.m3u8?t=1782420696",
-    "indexed_at": "2026-06-27T22:56:36Z"
   }
 ]
