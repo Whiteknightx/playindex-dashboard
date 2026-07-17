@@ -1,5 +1,57 @@
 [
   {
+    "id": "4960130",
+    "source": "steam",
+    "title": "HexLemma Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4960130/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960130/817f4fbe51e8f73a1478d9fd157038cdd0fc2a1d/header.jpg?t=1784316081",
+    "tags": [
+      "Casual",
+      "Puzzle",
+      "2D",
+      "Logic",
+      "Relaxing",
+      "Hex Grid",
+      "Procedural Generation",
+      "Singleplayer"
+    ],
+    "developer": "Geriatric Games",
+    "release_date": "Jul 17, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4801330/243796954/b425a24d1432cc1008efa81d5da72f5e1bdc7989/1781019241/hls_264_master.m3u8?t=1781407467",
+    "indexed_at": "2026-07-17T19:59:45Z"
+  },
+  {
+    "id": "4960160",
+    "source": "steam",
+    "title": "Wizard Tournament Demo",
+    "description": "Wizard Tournament is a tower-building autobattler where every run is a puzzle of placement, economy, and magical item synergies.Dive into the free demo,  giving you the chance experience every element of the game with only ranked and co-op mode disabled.",
+    "url": "https://store.steampowered.com/app/4960160/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960160/fc20a158dcfc7bddc1d2db4aabbb053886c9416a/header.jpg?t=1784316490",
+    "tags": [
+      "Online Co-Op",
+      "Asynchronous Multiplayer",
+      "PvP",
+      "Strategy",
+      "Auto Battler",
+      "Singleplayer",
+      "Casual",
+      "Simulation",
+      "Team-Based",
+      "Indie",
+      "Multiplayer",
+      "Inventory Management",
+      "Competitive",
+      "Base Building",
+      "Battle Royale",
+      "2D"
+    ],
+    "developer": "Rachop Studios",
+    "release_date": "Jul 17, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4917740/1748446503/cbd6873b5085d28455fd816409fbba77e5696c2b/1783552935/hls_264_master.m3u8?t=1784135034",
+    "indexed_at": "2026-07-17T19:59:36Z"
+  },
+  {
     "id": "4387430",
     "source": "steam",
     "title": "Rhythmic Retro Racer Demo",
@@ -14248,60 +14300,5 @@
     "release_date": "Jul 2, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4877720/297342195/a49769d9a90cc42472d6896361465b2155fd8710/1782084680/hls_264_master.m3u8?t=1783022961",
     "indexed_at": "2026-07-02T21:08:12Z"
-  },
-  {
-    "id": "4879820",
-    "source": "steam",
-    "title": "Swamptender Demo",
-    "description": "A fast-paced retro action game DEMO where you serve weaponized drinks to waves of hostile swamp creatures, defend your bar, and survive the night in a Game Boy–inspired experience.",
-    "url": "https://store.steampowered.com/app/4879820/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4879820/d7caf3ed14d8eabbdb2a5364a1bb8e1325ebe17d/header.jpg?t=1783019258",
-    "tags": [
-      "Action",
-      "Strategy",
-      "Arcade",
-      "Shooter",
-      "Shoot 'Em Up",
-      "2D",
-      "Pixel Graphics",
-      "Top-Down",
-      "Comedy",
-      "Dark Fantasy",
-      "Dark Humor",
-      "Funny",
-      "Lovecraftian",
-      "Retro",
-      "Combat",
-      "Linear",
-      "PvE",
-      "Score Attack",
-      "Singleplayer"
-    ],
-    "developer": "Tarcus Montessori",
-    "release_date": "Jul 2, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4579050/352534105/d65c5435598ba7126f7218e5aed4817692d7a98d/1775039614/hls_264_master.m3u8?t=1783014060",
-    "indexed_at": "2026-07-02T19:58:48Z"
-  },
-  {
-    "id": "4871610",
-    "source": "steam",
-    "title": "Akaneiro ni Somaru Saka Demo",
-    "description": "Nagase Junichi's life takes an unexpected turn when his fiancée, Katagiri Yuuhi transfers to his school but what would be a happy reunion crumbles due to a misunderstanding. Will this be an end to Junichi's formally peaceful, school life?",
-    "url": "https://store.steampowered.com/app/4871610/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4871610/0be376554cc013f7338a6342415d4b6495d35b16/header.jpg?t=1783021609",
-    "tags": [
-      "Visual Novel",
-      "Adventure",
-      "Casual",
-      "Anime",
-      "Emotional",
-      "Romance",
-      "Choices Matter",
-      "Singleplayer"
-    ],
-    "developer": "feng",
-    "release_date": "Coming soon",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4871610/707774508/566b2066e926d9f43eab3bfe30eb35ef2951498e/1782857563/hls_264_master.m3u8?t=1783021564",
-    "indexed_at": "2026-07-02T19:58:40Z"
   }
 ]
