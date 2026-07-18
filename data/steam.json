@@ -1,5 +1,36 @@
 [
   {
+    "id": "4872980",
+    "source": "steam",
+    "title": "Nicotine Merchant Simulator Demo",
+    "description": "You're a Nicotine Merchant. Start your production using improvised materials and grow it into a large enterprise. But be careful, just a few wrong moves and everything could fall apart!",
+    "url": "https://store.steampowered.com/app/4872980/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872980/26d7ca79861dbe14348337959ca16a5cb3b75568/header.jpg?t=1784407959",
+    "tags": [
+      "Simulation",
+      "Early Access",
+      "Singleplayer",
+      "Indie",
+      "3D",
+      "Casual",
+      "Management",
+      "Economy",
+      "Shop Keeper",
+      "Life Sim",
+      "Trading",
+      "Capitalism",
+      "Sandbox",
+      "First-Person",
+      "Colorful",
+      "Relaxing",
+      "Controller"
+    ],
+    "developer": "pickaxe",
+    "release_date": "Coming soon",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4872980/953712260/394d4de7b0107152aff5775755c9f863684ab54d/1782336084/hls_264_master.m3u8?t=1782778395",
+    "indexed_at": "2026-07-18T21:41:13Z"
+  },
+  {
     "id": "4919990",
     "source": "steam",
     "title": "DIBARO Demo",
@@ -14132,39 +14163,5 @@
     "release_date": "Jul 3, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4858700/1391872789/ce7c72704d300e650262511435fd6343bd5a2461/1781674962/hls_264_master.m3u8?t=1782514270",
     "indexed_at": "2026-07-03T23:01:33Z"
-  },
-  {
-    "id": "4904590",
-    "source": "steam",
-    "title": "小小餐馆 Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4904590/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4904590/f1627867f9dc16ba9262f8338b0960b674e01ca7/header.jpg?t=1783105613",
-    "tags": [
-      "Casual",
-      "Cooking",
-      "Simulation",
-      "Shop Keeper",
-      "Relaxing",
-      "Inventory Management",
-      "Anime",
-      "Stylized",
-      "Crafting",
-      "Atmospheric",
-      "Cartoon",
-      "Cartoony",
-      "Indie",
-      "City Builder",
-      "Life Sim",
-      "3D",
-      "Top-Down",
-      "Third Person",
-      "Resource Management",
-      "Singleplayer"
-    ],
-    "developer": "Wei Yuming",
-    "release_date": "Jul 3, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4783530/1503042365/0cc89e928a26e5913641b97599e97e711e5dcf57/1779873338/hls_264_master.m3u8?t=1781843842",
-    "indexed_at": "2026-07-03T20:35:52Z"
   }
 ]
