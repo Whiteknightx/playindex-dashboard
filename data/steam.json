@@ -1,5 +1,31 @@
 [
   {
+    "id": "4878960",
+    "source": "steam",
+    "title": "Football Conquerors Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4878960/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4878960/0e1c5b7aa13682a19e49c8766f4ec5424a5de938/header.jpg?t=1784480188",
+    "tags": [
+      "Strategy",
+      "Arcade",
+      "2D",
+      "Football (Soccer)",
+      "Singleplayer",
+      "Sports",
+      "Indie",
+      "Early Access",
+      "Turn-Based Strategy",
+      "Real Time Tactics",
+      "Turn-Based Tactics",
+      "Roguelite"
+    ],
+    "developer": "Ravencorwind",
+    "release_date": "Jul 19, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4434890/1762712249/3ae5e8deb394f86efa3a92487aa2d61c9e700234/1783893161/hls_264_master.m3u8?t=1783893612",
+    "indexed_at": "2026-07-19T17:50:51Z"
+  },
+  {
     "id": "4948550",
     "source": "steam",
     "title": "LexiWeave Demo",
@@ -14169,39 +14195,5 @@
     "release_date": "Coming soon",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4304740/772475121/eeeecae12d83ca4b1ee3cef9090e1290ce50c7ab/1777857933/hls_264_master.m3u8?t=1777858556",
     "indexed_at": "2026-07-04T21:26:38Z"
-  },
-  {
-    "id": "4905000",
-    "source": "steam",
-    "title": "Son of Beach Demo",
-    "description": "Start as a Beach Caretaker Intern. Clean up trash left behind by tourists and recycle it to unlock powerful new tools. Follow the changing tides to dig up hidden treasures beneath the sand. Catch seafood, run your own seafood stand, and sell rare coastal collectibles in your treasure shop.",
-    "url": "https://store.steampowered.com/app/4905000/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905000/951dd8177c96d837fe5de4efa9ad235bcd84fbba/header.jpg?t=1783180818",
-    "tags": [
-      "Simulation",
-      "Casual",
-      "Exploration",
-      "Relaxing",
-      "Immersive Sim",
-      "Economy",
-      "Life Sim",
-      "Job Simulator",
-      "Loot",
-      "Management",
-      "Indie",
-      "Funny",
-      "Colorful",
-      "Trading",
-      "Crafting",
-      "Cleaning",
-      "Realistic",
-      "First-Person",
-      "Singleplayer",
-      "3D"
-    ],
-    "developer": "Rainboar Studios",
-    "release_date": "Jul 4, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4905000/1100302176/3ea8b39b9f1853093506c5833f1e7780f72d06b0/1783166128/hls_264_master.m3u8?t=1783180216",
-    "indexed_at": "2026-07-04T16:54:58Z"
   }
 ]
