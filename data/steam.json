@@ -1,5 +1,54 @@
 [
   {
+    "id": "4480160",
+    "source": "steam",
+    "title": "ConfigNexus Demo",
+    "description": "这是一个面向游戏开发者的数据配置工作流平台，支持字段类型、数据校验、Excel 导入与多格式导出，拥有富文本编辑，多数据编辑，json编辑，文件浏览器等诸多特性，可以让游戏开发者提升效率，事半功倍！",
+    "url": "https://store.steampowered.com/app/4480160/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4480160/8cafc1270cf45f92c9af9dc578b6676d09ab9363/header.jpg?t=1784591281",
+    "tags": [
+      "Early Access",
+      "Game Development",
+      "Utilities",
+      "Automation",
+      "Software",
+      "Design & Illustration",
+      "Education",
+      "Software Training",
+      "Web Publishing"
+    ],
+    "developer": "BitDG studio, BitDG studio",
+    "release_date": "Jul 20, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4400360/2035606108/e3388b661cf5098e4b1e15d46e681e773e870829/1781923547/hls_264_master.m3u8?t=1781924501",
+    "indexed_at": "2026-07-21T01:49:41Z"
+  },
+  {
+    "id": "4955140",
+    "source": "steam",
+    "title": "Xeno Clip Demo",
+    "description": "A top-down shooter Roguelike. You are a prospector, venturing deep into an alien planet to complete &quot;planetary exploration&quot;: clearing , choosing , collecting , and experiencing the exhilarating feeling . It's a game in aiming, movement, and deck building.",
+    "url": "https://store.steampowered.com/app/4955140/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4955140/c2422f8891e105cc003574938b8d21b91762e2bd/header.jpg?t=1784597830",
+    "tags": [
+      "Adventure",
+      "Action",
+      "Action-Adventure",
+      "Action Roguelike",
+      "Shooter",
+      "Top-Down Shooter",
+      "2D",
+      "Cartoon",
+      "Aliens",
+      "Space",
+      "Combat",
+      "Singleplayer"
+    ],
+    "developer": "Dox",
+    "release_date": "Jul 20, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4955140/1730739211/1c8b5124b4bc1bb258d3bc46e99c89e8055aafba/1783733078/hls_264_master.m3u8?t=1784597795",
+    "indexed_at": "2026-07-21T01:49:36Z"
+  },
+  {
     "id": "4950800",
     "source": "steam",
     "title": "Icon: Voidfall Demo",
@@ -15724,27 +15773,5 @@
     "release_date": "Jul 5, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4790650/603415473/cc94b0295b5f1cb9aa87f809032f6dcdc9831eb4/1782743693/hls_264_master.m3u8?t=1782867351",
     "indexed_at": "2026-07-06T03:25:20Z"
-  },
-  {
-    "id": "4902230",
-    "source": "steam",
-    "title": "UnderWorldMonstersPinball Demo",
-    "description": "Introducing *Underworld Monsters Pinball*, a fresh take on pinball where you aim for high scores with a cast of quirky monster characters riding the ball! Hone your skills and aim for your personal best score!",
-    "url": "https://store.steampowered.com/app/4902230/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902230/9f1730866338da14e1712bc93e7de0ee762db90a/header.jpg?t=1783292552",
-    "tags": [
-      "Casual",
-      "Indie",
-      "Pinball",
-      "Score Attack",
-      "3D",
-      "Arcade",
-      "Singleplayer",
-      "Dark"
-    ],
-    "developer": "OrcaStepRecords",
-    "release_date": "Jul 5, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4808780/300639569/ce801cacbcfa4af01d4c131386d0ee1b30efd545/1780402968/hls_264_master.m3u8?t=1781063159",
-    "indexed_at": "2026-07-05T23:58:06Z"
   }
 ]
