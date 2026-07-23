@@ -1,5 +1,34 @@
 [
   {
+    "id": "4968340",
+    "source": "steam",
+    "title": "Skimmies Demo",
+    "description": "Skimmies is an arcade action adventure about skimming stones through dangerous rivers, dodging obstacles, battling enemies, and chasing the perfect run.",
+    "url": "https://store.steampowered.com/app/4968340/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968340/dafb97f12859de8adad7cda67b6b2096a7b850a5/header.jpg?t=1784849701",
+    "tags": [
+      "Adventure",
+      "Casual",
+      "Arcade",
+      "Runner",
+      "2D",
+      "Action",
+      "Pixel Graphics",
+      "Cozy",
+      "Family Friendly",
+      "Nature",
+      "Controller",
+      "Indie",
+      "Score Attack",
+      "Tutorial",
+      "Singleplayer"
+    ],
+    "developer": "Cactus Banjo Games",
+    "release_date": "Jul 23, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4944280/73856682/94308a1a53b60cb0e0aa67b108a7fc3dd4ab9fd3/1783522864/hls_264_master.m3u8?t=1784727840",
+    "indexed_at": "2026-07-23T23:53:13Z"
+  },
+  {
     "id": "4979260",
     "source": "steam",
     "title": "Beat Slicer Demo",
@@ -16701,31 +16730,5 @@
     "release_date": "Jul 8, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4850420/1956907744/0048049899af91d0a1e059a26b05c2f7cb264bb5/1781345136/hls_264_master.m3u8?t=1783528007",
     "indexed_at": "2026-07-09T01:07:53Z"
-  },
-  {
-    "id": "4866530",
-    "source": "steam",
-    "title": "Swarmslam Demo",
-    "description": "Watch a swarm of tiny slammers hurl themselves at a planet and mine it till it breaks, then feed that ore to THE VOID to make your swarm bigger and faster. SLAM, CRACK, REPEAT",
-    "url": "https://store.steampowered.com/app/4866530/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866530/5485580861c3482551a8ba19950556117966ca75/header.jpg?t=1783548376",
-    "tags": [
-      "Idler",
-      "Incremental",
-      "Building",
-      "Economy",
-      "Strategy",
-      "Casual",
-      "Simulation",
-      "Pixel Graphics",
-      "Atmospheric",
-      "Indie",
-      "Resource Management",
-      "Singleplayer"
-    ],
-    "developer": "joffarex",
-    "release_date": "Jul 8, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4866530/128750333/2797dcb4655bfb02859450cc4e931dcf037a9a7c/1783004215/hls_264_master.m3u8?t=1783004771",
-    "indexed_at": "2026-07-08T23:09:53Z"
   }
 ]
