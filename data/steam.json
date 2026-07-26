@@ -1,5 +1,39 @@
 [
   {
+    "id": "4912500",
+    "source": "steam",
+    "title": "Ember Folks Demo",
+    "description": "Heat a dying star to millions of degrees. Mine resources, summon an army of workers, and expand your city. Discover new upgrades and synergies, prestige to unlock new mechanics, and push the heat ever higher. Numbers go up - a lot.",
+    "url": "https://store.steampowered.com/app/4912500/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4912500/d8984d3f5e7f12d52a83713414eed307a64e2d7d/header.jpg?t=1785077878",
+    "tags": [
+      "Strategy",
+      "Incremental",
+      "Idler",
+      "Resource Management",
+      "Fantasy",
+      "Indie",
+      "2D",
+      "Colorful",
+      "Pixel Graphics",
+      "Building",
+      "Cute",
+      "Magic",
+      "RPG",
+      "Economy",
+      "Simulation",
+      "Arcade",
+      "Singleplayer",
+      "Short",
+      "Management",
+      "Experimental"
+    ],
+    "developer": "Hryhorii Trukhan",
+    "release_date": "Jul 26, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4912500/1935370983/e3235e54d7b32a746bb8088e7800c0a50ec81b97/1783030495/hls_264_master.m3u8?t=1783976627",
+    "indexed_at": "2026-07-26T15:36:19Z"
+  },
+  {
     "id": "4811450",
     "source": "steam",
     "title": "FABLED Demo",
@@ -16214,28 +16248,5 @@
     "release_date": "Jul 11, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4939910/1300977322/7943c9f7eabd7cdcc0957670835d83175cfab805/1783519474/hls_264_master.m3u8?t=1783745065",
     "indexed_at": "2026-07-11T16:24:42Z"
-  },
-  {
-    "id": "4931380",
-    "source": "steam",
-    "title": "Sparky's Escape Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4931380/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931380/5cbe3f0857ff9c949707f2fe6e0293eb1bd09e01/header.jpg?t=1783696826",
-    "tags": [
-      "Action",
-      "Casual",
-      "Arcade",
-      "2D",
-      "Top-Down",
-      "Tactical",
-      "Controller",
-      "Indie",
-      "Singleplayer"
-    ],
-    "developer": "Gerd Gaiser",
-    "release_date": "Jul 10, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4906760/1840795233/dcd61d77fae16e607e9c994bd352f2a13ffb2e6a/1782743181/hls_264_master.m3u8?t=1783081087",
-    "indexed_at": "2026-07-11T15:28:22Z"
   }
 ]
