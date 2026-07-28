@@ -1,5 +1,37 @@
 [
   {
+    "id": "4964680",
+    "source": "steam",
+    "title": "Wrathflame Demo",
+    "description": "A dark fantasy themed 2D top down real-time bullet hell shooter featuring retro Pico8 pixel graphics and chiptunes",
+    "url": "https://store.steampowered.com/app/4964680/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964680/12523a6c581f392efdbeeecd652b9a75536a05d2/header.jpg?t=1785275355",
+    "tags": [
+      "Action",
+      "Arcade",
+      "Shooter",
+      "Bullet Hell",
+      "Shoot 'Em Up",
+      "2D",
+      "Pixel Graphics",
+      "Top-Down",
+      "Atmospheric",
+      "Dark Fantasy",
+      "Dragons",
+      "Medieval",
+      "Mythology",
+      "Retro",
+      "Character Customization",
+      "Combat",
+      "Controller",
+      "Singleplayer"
+    ],
+    "developer": "SloanSoft Games",
+    "release_date": "Jul 28, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4964680/1993281476/8a5363524af4a6d577cf1ed1e552b0739441a04c/1783970742/hls_264_master.m3u8?t=1784740698",
+    "indexed_at": "2026-07-28T22:31:30Z"
+  },
+  {
     "id": "4989190",
     "source": "steam",
     "title": "Tinturbo Demo",
@@ -16614,35 +16646,5 @@
     "release_date": "Jul 13, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4893350/2039046577/906b959e4877d16e1ce080003cfccc83d6389757/1783027705/hls_264_master.m3u8?t=1783028776",
     "indexed_at": "2026-07-13T22:46:04Z"
-  },
-  {
-    "id": "4929630",
-    "source": "steam",
-    "title": "Gloomvex Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4929630/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4929630/a130013d3956e6adb684d7be8dddb27bff62e06b/header.jpg?t=1783976746",
-    "tags": [
-      "Action Roguelike",
-      "Bullet Hell",
-      "Roguelite",
-      "PvE",
-      "Roguelike",
-      "2D",
-      "Top-Down",
-      "Controller",
-      "Action",
-      "Casual",
-      "Space",
-      "Sci-fi",
-      "Futuristic",
-      "Singleplayer",
-      "Indie",
-      "Dark"
-    ],
-    "developer": "Bitareon Studio",
-    "release_date": "Jul 13, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4449700/813077377/4c59ad0be44f32314448c58b4e68ce5dbcedfff6/1778619343/hls_264_master.m3u8?t=1778619921",
-    "indexed_at": "2026-07-13T21:46:04Z"
   }
 ]
