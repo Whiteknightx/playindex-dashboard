@@ -1,5 +1,40 @@
 [
   {
+    "id": "4990760",
+    "source": "steam",
+    "title": "Netspectre Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4990760/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990760/c43f8f8ae4253d57fbf2ecb37f93b2d454e90f2e/header.jpg?t=1785685396",
+    "tags": [
+      "Hacking",
+      "Cyberpunk",
+      "Roguelike",
+      "Futuristic",
+      "Procedural Generation",
+      "Deckbuilding",
+      "Perma Death",
+      "Sci-fi",
+      "Card Game",
+      "Logic",
+      "Abstract",
+      "Stylized",
+      "Colorful",
+      "Minimalist",
+      "2D",
+      "PvE",
+      "RPG",
+      "Action Roguelike",
+      "Choices Matter",
+      "Singleplayer",
+      "Indie"
+    ],
+    "developer": "Iridescence Interactive",
+    "release_date": "Aug 2, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/1913700/756329647/58afb2ad0d7cf55acf4a6dfd22dd57b0f1e29892/1785531842/hls_264_master.m3u8?t=1785532538",
+    "indexed_at": "2026-08-02T16:48:47Z"
+  },
+  {
     "id": "4897890",
     "source": "steam",
     "title": "Freaking Gamers Demo",
@@ -18131,37 +18166,5 @@
     "release_date": "Jul 18, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4759220/975206716/1e0cd042a3a16f7313ee7dbde6a7e1bd4de4fb1c/1784397254/hls_264_master.m3u8?t=1784397985",
     "indexed_at": "2026-07-18T18:49:08Z"
-  },
-  {
-    "id": "4880500",
-    "source": "steam",
-    "title": "Skelecool: Remnants Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4880500/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4880500/c9a9b29386fc67c4ce49d1373809a387e24e9f44/header.jpg?t=1784391335",
-    "tags": [
-      "3D Platformer",
-      "Surreal",
-      "Motorbike",
-      "Action",
-      "Psychedelic",
-      "Stylized",
-      "Dystopian",
-      "Driving",
-      "Cyberpunk",
-      "Gothic",
-      "3D",
-      "Linear",
-      "Indie",
-      "Third Person",
-      "Tutorial",
-      "Controller",
-      "Platformer",
-      "Singleplayer"
-    ],
-    "developer": "Mediocre Metastasis",
-    "release_date": "Jul 18, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4535840/1526281778/1411d7345a9eb7ab1f93711885cee22a5000d352/1782350124/hls_264_master.m3u8?t=1782350903",
-    "indexed_at": "2026-07-18T16:44:51Z"
   }
 ]
