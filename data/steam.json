@@ -1,5 +1,35 @@
 [
   {
+    "id": "5009450",
+    "source": "steam",
+    "title": "Chess of the Hidden Gates Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/5009450/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5009450/3cd57a303a8a7fd409b1e9b8703ee688fbf2f391/header.jpg?t=1785673707",
+    "tags": [
+      "Strategy",
+      "Roguelike Deckbuilder",
+      "Casual",
+      "Card Game",
+      "Turn-Based Tactics",
+      "Roguelike",
+      "Turn-Based Strategy",
+      "Board Game",
+      "Card Battler",
+      "Deckbuilding",
+      "3D",
+      "Indie",
+      "Xianxia",
+      "Wuxia",
+      "Singleplayer",
+      "Mythology"
+    ],
+    "developer": "AgentGameLab",
+    "release_date": "Aug 2, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4981020/648695705/9cf468bcf898af38f54b9009ae7cb8ebdbf60bff/1785613087/hls_264_master.m3u8?t=1785613938",
+    "indexed_at": "2026-08-02T12:33:09Z"
+  },
+  {
     "id": "4886730",
     "source": "steam",
     "title": "Dead fighting card Demo",
@@ -18082,37 +18112,5 @@
     "release_date": "Jul 18, 2026",
     "trailer": "",
     "indexed_at": "2026-07-18T14:44:00Z"
-  },
-  {
-    "id": "4554230",
-    "source": "steam",
-    "title": "Mind Mirror Demo",
-    "description": "A puzzle game set in a millennial-era household. Featuring immersive, retro-styled puzzles full of nostalgic vibes, alongside abundant dreamlike elements.",
-    "url": "https://store.steampowered.com/app/4554230/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4554230/dfcf0686eb416e500be41f4b19cb4dc5e196cd61/header.jpg?t=1784375305",
-    "tags": [
-      "Puzzle",
-      "Adventure",
-      "Point & Click",
-      "Story Rich",
-      "Psychological Horror",
-      "Hand-drawn",
-      "Surreal",
-      "Casual",
-      "Text-Based",
-      "Singleplayer",
-      "Stylized",
-      "Atmospheric",
-      "Incremental",
-      "Retro",
-      "Modern",
-      "Psychological",
-      "Indie",
-      "Exploration"
-    ],
-    "developer": "早睡橘猫",
-    "release_date": "Jul 18, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4554230/513560901/50df7f9f50d11c57fb26237680b6eca62704d408/1784373853/hls_264_master.m3u8?t=1784375170",
-    "indexed_at": "2026-07-18T12:11:35Z"
   }
 ]
