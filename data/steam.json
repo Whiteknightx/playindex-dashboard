@@ -1,5 +1,40 @@
 [
   {
+    "id": "4945710",
+    "source": "steam",
+    "title": "Cow Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4945710/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4945710/f3baa075e99ca3c025062f8087c6f02e45a1a12b/header.jpg?t=1785696235",
+    "tags": [
+      "Arcade",
+      "Time Management",
+      "Skateboarding",
+      "3D",
+      "Casual",
+      "Animals",
+      "Comedy",
+      "Driving",
+      "Score Attack",
+      "Retro",
+      "Third Person",
+      "Racing",
+      "Relaxing",
+      "Realistic",
+      "Parkour",
+      "Funny",
+      "Memes",
+      "Colorful",
+      "Tactical",
+      "Singleplayer",
+      "Action"
+    ],
+    "developer": "ZDEsy",
+    "release_date": "",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4745980/498541048/7fba8abb36e5e0348912f218fc7b12c795e4c4aa/1785696548/hls_264_master.m3u8?t=1785696940",
+    "indexed_at": "2026-08-02T18:56:32Z"
+  },
+  {
     "id": "4996880",
     "source": "steam",
     "title": "TCG Shop Life Demo",
@@ -18204,35 +18239,5 @@
     "release_date": "Jul 18, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4919990/1092585537/bc2af8f8b9b8e2c6849d4416b22631edb3cbea1c/1783100126/hls_264_master.m3u8?t=1784403633",
     "indexed_at": "2026-07-18T19:59:30Z"
-  },
-  {
-    "id": "4823790",
-    "source": "steam",
-    "title": "Kinbound Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4823790/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823790/51d5ec784ac2bee188ffe6097cff550862a10d95/header.jpg?t=1784398073",
-    "tags": [
-      "Action Roguelike",
-      "PvE",
-      "Roguelike",
-      "2D",
-      "Choices Matter",
-      "Action",
-      "Pixel Graphics",
-      "Fantasy",
-      "Medieval",
-      "Class-Based",
-      "Adventure",
-      "Indie",
-      "Score Attack",
-      "Nature",
-      "Survival",
-      "Singleplayer"
-    ],
-    "developer": "Azurhys",
-    "release_date": "Jul 18, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4759220/975206716/1e0cd042a3a16f7313ee7dbde6a7e1bd4de4fb1c/1784397254/hls_264_master.m3u8?t=1784397985",
-    "indexed_at": "2026-07-18T18:49:08Z"
   }
 ]
