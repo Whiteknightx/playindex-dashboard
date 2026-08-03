@@ -1,5 +1,606 @@
 [
   {
+    "id": "https://dooden.itch.io/world-palette",
+    "source": "itchio",
+    "title": "World Palette [$2.00] [Windows]",
+    "description": "",
+    "url": "https://dooden.itch.io/world-palette",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwNDQzLnBuZw==/315x250%23c/UYS8E7.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:15:27 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-03T14:22:54Z"
+  },
+  {
+    "id": "https://cjvelozp.itch.io/proven",
+    "source": "itchio",
+    "title": "PROVEN [Free] [Puzzle]",
+    "description": "120 box-pushing puzzles. Every one machine-proved solvable, with its optimal push count printed on the level.",
+    "url": "https://cjvelozp.itch.io/proven",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwNDc3LnBuZw==/315x250%23c/YBmOoG.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:09:01 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-03T14:22:43Z"
+  },
+  {
+    "id": "https://blowsta.itch.io/smash-gal",
+    "source": "itchio",
+    "title": "Smash Gal! [Free] [Fighting]",
+    "description": "",
+    "url": "https://blowsta.itch.io/smash-gal",
+    "image": "https://img.itch.zone/aW1nLzI5MDIyNzA5LnBuZw==/315x250%23c/TBBwgb.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 27 Jul 2026 16:47:26 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-03T14:22:33Z"
+  },
+  {
+    "id": "https://de-xlib.itch.io/chorni2024-platformerrrr",
+    "source": "itchio",
+    "title": "Chorni2024 Platformer (RU) (ВЕБ) [Free] [Platformer]",
+    "description": "Так",
+    "url": "https://de-xlib.itch.io/chorni2024-platformerrrr",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwNzM4LnBuZw==/315x250%23c/76d0Wm.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:36:15 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-03T14:22:22Z"
+  },
+  {
+    "id": "https://pinkpizzaa1.itch.io/projecthl",
+    "source": "itchio",
+    "title": "Project HL [Free] [Adventure] [Android]",
+    "description": "",
+    "url": "https://pinkpizzaa1.itch.io/projecthl",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwNzc2LnBuZw==/315x250%23c/meMiQN.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:38:00 GMT",
+    "trailer": "",
+    "platforms": [
+      "android"
+    ],
+    "indexed_at": "2026-08-03T14:22:11Z"
+  },
+  {
+    "id": "https://claudiadonnarumma.itch.io/memory-lab",
+    "source": "itchio",
+    "title": "Memory Lab [Free] [macOS]",
+    "description": "",
+    "url": "https://claudiadonnarumma.itch.io/memory-lab",
+    "image": "https://img.itch.zone/aW1nLzI5MDE4Mzc1LnBuZw==/315x250%23c/jTMlTh.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sun, 02 Aug 2026 22:32:46 GMT",
+    "trailer": "",
+    "platforms": [
+      "osx"
+    ],
+    "indexed_at": "2026-08-03T14:21:58Z"
+  },
+  {
+    "id": "https://lmc206.itch.io/zombie-survival",
+    "source": "itchio",
+    "title": "Zombie Survival [Free] [Action] [Windows]",
+    "description": "Fast-paced 2D top-down zombie survival shooter built on the custom GPU-accelerated Reunder Engine.",
+    "url": "https://lmc206.itch.io/zombie-survival",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwODQyLnBuZw==/315x250%23c/LH36l4.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:38:18 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-03T14:21:47Z"
+  },
+  {
+    "id": "https://stellar-abyss-collective.itch.io/kamitoryu",
+    "source": "itchio",
+    "title": "龍と神様 [Free] [Role Playing] [Windows]",
+    "description": "あなたは神様となって龍を追いかけます。人間になって。",
+    "url": "https://stellar-abyss-collective.itch.io/kamitoryu",
+    "image": "https://img.itch.zone/aW1nLzI4OTg2MDI4LnBuZw==/315x250%23c/iRIOuK.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 01 Aug 2026 13:09:01 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-03T14:21:40Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/12m-x-245m-dutch-barn-shed-pack",
+    "source": "itchio",
+    "title": "FS25 12m X 24.5m Dutch Barn Shed Pack [Free]",
+    "description": "Placeable Dutch Barn Shed Pack",
+    "url": "https://4dmodding.itch.io/12m-x-245m-dutch-barn-shed-pack",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwMjEwLmpwZw==/315x250%23c/Sb5wV2.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:11:12 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:21:33Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/18m-x-18m-dutch-barn-shed-pack",
+    "source": "itchio",
+    "title": "FS25 18m X 18m Dutch Barn Shed Pack [Free] [Simulation]",
+    "description": "Placeable 18m X 18m Dutch Barn Shed Pack",
+    "url": "https://4dmodding.itch.io/18m-x-18m-dutch-barn-shed-pack",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwMjczLmpwZw==/315x250%23c/zQdHLi.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:13:37 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:21:25Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/20m-x-75m-angled-shed-pack",
+    "source": "itchio",
+    "title": "FS25 20m x 7.5m Angled Shed Pack [Free] [Simulation]",
+    "description": "Pack of Placeable Angled Sheds for BallySpring",
+    "url": "https://4dmodding.itch.io/20m-x-75m-angled-shed-pack",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwMTYxLmpwZw==/315x250%23c/%2FM697S.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:09:00 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:21:17Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/fs25-a-frame-shed-pack",
+    "source": "itchio",
+    "title": "FS25 A Frame Shed Pack [Free]",
+    "description": "Pack of Placeable A Frame Sheds",
+    "url": "https://4dmodding.itch.io/fs25-a-frame-shed-pack",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwNDQ4LmpwZw==/315x250%23c/MNtIAJ.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:21:35 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:21:08Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/fs25-ballyspring-placeables",
+    "source": "itchio",
+    "title": "FS25 BallySpring Placeables [Free]",
+    "description": "BallySpring Placeables Pack (Map Dependency)",
+    "url": "https://4dmodding.itch.io/fs25-ballyspring-placeables",
+    "image": "https://img.itch.zone/aW1nLzI5MDI5NjAxLmpwZw==/315x250%23c/XYfVFR.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 12:34:27 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:20:58Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/irish-farm-decoration-pack",
+    "source": "itchio",
+    "title": "FS25 Irish Farm Decoration Pack [Free] [Simulation]",
+    "description": "Irish Farm Placeable Decoration Pack",
+    "url": "https://4dmodding.itch.io/irish-farm-decoration-pack",
+    "image": "https://img.itch.zone/aW1nLzI5MDI5NzQ0LmpwZw==/315x250%23c/6u%2FKwb.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 12:41:56 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:20:50Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/fs25-placeable-farm-gate-pack",
+    "source": "itchio",
+    "title": "FS25 Irish Farm Gate Pack [Free]",
+    "description": "FS25 Placeable Farm Gate Pack for the BallySpring Map",
+    "url": "https://4dmodding.itch.io/fs25-placeable-farm-gate-pack",
+    "image": "https://img.itch.zone/aW1nLzI5MDI5ODIzLmpwZw==/315x250%23c/dm9w6Y.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 12:50:34 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:20:44Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/irish-silo-pits-pack",
+    "source": "itchio",
+    "title": "FS25 Irish Silo Pits Pack [Free] [Simulation]",
+    "description": "Pack of placeable Irish Silo Pits Pack",
+    "url": "https://4dmodding.itch.io/irish-silo-pits-pack",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwMDQ5LmpwZw==/315x250%23c/CMFb2a.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:03:20 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:20:37Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/pack-of-large-cattle-sheds",
+    "source": "itchio",
+    "title": "FS25 Pack Of Large Cattle Sheds [Free]",
+    "description": "Pack Of Placeable Large Cattle Sheds",
+    "url": "https://4dmodding.itch.io/pack-of-large-cattle-sheds",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwMTI5LmpwZw==/315x250%23c/IDSVP8.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:06:12 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:20:29Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/irish-style-farm-house-pack",
+    "source": "itchio",
+    "title": "FS25 Irish Style Farm House Pack [Free] [Simulation]",
+    "description": "Pack of placeable Irish Style Farm House Pack",
+    "url": "https://4dmodding.itch.io/irish-style-farm-house-pack",
+    "image": "https://img.itch.zone/aW1nLzI5MDI5OTY2LnBuZw==/315x250%23c/7%2BgRfy.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 12:57:57 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:20:19Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/placeable-fences-and-hedgerow-pack",
+    "source": "itchio",
+    "title": "FS25 Placeable Fences And Hedgerow Pack [Free] [Simulation]",
+    "description": "Placeable Fences And Hedgerow Pack",
+    "url": "https://4dmodding.itch.io/placeable-fences-and-hedgerow-pack",
+    "image": "https://img.itch.zone/aW1nLzI5MDI5OTExLmpwZw==/315x250%23c/h9z4Fi.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 12:54:37 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:20:07Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/fs25-placeable-town-buildings-pack",
+    "source": "itchio",
+    "title": "FS25 Placeable Town Buildings Pack [Free]",
+    "description": "Pack of Placeable Town Buildings",
+    "url": "https://4dmodding.itch.io/fs25-placeable-town-buildings-pack",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwNTQ2LmpwZw==/315x250%23c/8J%2Fy9c.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:26:24 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:19:58Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/small-dutch-barn-shed-pack",
+    "source": "itchio",
+    "title": "FS25 Small Dutch Barn Shed Pack [Free]",
+    "description": "Pack of Small Dutch Barn Sheds",
+    "url": "https://4dmodding.itch.io/small-dutch-barn-shed-pack",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwMzU2LmpwZw==/315x250%23c/ZhuOTG.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:16:50 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:19:49Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/fs25-stone-shed-pack",
+    "source": "itchio",
+    "title": "FS25 Stone Shed Pack [Free]",
+    "description": "Pack of Placeable Stone Sheds",
+    "url": "https://4dmodding.itch.io/fs25-stone-shed-pack",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwNTIzLmpwZw==/315x250%23c/AJzQWk.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:24:45 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:19:43Z"
+  },
+  {
+    "id": "https://4dmodding.itch.io/ukirish-concrete-stone-walls-pack",
+    "source": "itchio",
+    "title": "FS25 UK/Irish Concrete / Stone Walls Pack [Free]",
+    "description": "Pack of Irish/UK Style Concrete and Stone Walls",
+    "url": "https://4dmodding.itch.io/ukirish-concrete-stone-walls-pack",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwNjEzLmpwZw==/315x250%23c/ftRqau.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:29:04 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:19:36Z"
+  },
+  {
+    "id": "https://threealdi.itch.io/buckminsterfullerene",
+    "source": "itchio",
+    "title": "BUCKMINSTERFULLERENE [Free] [Other] [Windows]",
+    "description": "hes fast like the flash",
+    "url": "https://threealdi.itch.io/buckminsterfullerene",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwODM2LnBuZw==/315x250%23c/fErrhO.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:41:33 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-03T14:19:27Z"
+  },
+  {
+    "id": "https://araffy.itch.io/the-rusty-flagon",
+    "source": "itchio",
+    "title": "The Rusty Flagon [Free] [Role Playing]",
+    "description": "Serve the right drink to the right patron, manage your gold and reputation, and listen closely.",
+    "url": "https://araffy.itch.io/the-rusty-flagon",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwMDk5LnBuZw==/315x250%23c/W95cnl.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:14:37 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-03T14:19:21Z"
+  },
+  {
+    "id": "https://domwune.itch.io/cornhole-universe",
+    "source": "itchio",
+    "title": "Cornhole Universe [Free] [Simulation] [Windows] [macOS] [Android]",
+    "description": "#simulator #idle #grindy",
+    "url": "https://domwune.itch.io/cornhole-universe",
+    "image": "https://img.itch.zone/aW1nLzI5MDEyNTA4LnBuZw==/315x250%23c/Ftk8vR.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sun, 02 Aug 2026 17:05:43 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows",
+      "osx",
+      "android"
+    ],
+    "indexed_at": "2026-08-03T14:19:13Z"
+  },
+  {
+    "id": "https://solodevel.itch.io/reliquias-do-abismo",
+    "source": "itchio",
+    "title": "Relíquias do Abismo [Free] [Action] [Windows]",
+    "description": "Enfrente hordas, derrote chefes e crie combinações poderosas neste roguelite shooter medieval.",
+    "url": "https://solodevel.itch.io/reliquias-do-abismo",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwODEzLnBuZw==/315x250%23c/HM6FJC.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:28:10 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-03T14:19:04Z"
+  },
+  {
+    "id": "https://kasuncreations.itch.io/pipe-connect-plumbing-puzzle",
+    "source": "itchio",
+    "title": "Pipe Connect Plumbing Puzzle [Free] [Puzzle]",
+    "description": "Route the water to the drain by connecting pipes in puzzle and racing modes.",
+    "url": "https://kasuncreations.itch.io/pipe-connect-plumbing-puzzle",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwOTUyLnBuZw==/315x250%23c/GQpTAR.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:47:53 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-03T14:18:54Z"
+  },
+  {
+    "id": "https://guidohoogland.itch.io/united-theft-auto",
+    "source": "itchio",
+    "title": "united theft auto [Free] [Windows]",
+    "description": "",
+    "url": "https://guidohoogland.itch.io/united-theft-auto",
+    "image": "https://img.itch.zone/aW1nLzI5MDMxMDg4LnBuZw==/315x250%23c/0wPq0Y.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:56:47 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-03T14:18:46Z"
+  },
+  {
+    "id": "https://siropsito.itch.io/hospital-patitas-beta-con-errores",
+    "source": "itchio",
+    "title": "Hospital Patitas (Beta con errores) [Free]",
+    "description": "",
+    "url": "https://siropsito.itch.io/hospital-patitas-beta-con-errores",
+    "image": "https://img.itch.zone/aW1nLzI4OTM0MjgxLnBuZw==/315x250%23c/CvvCoe.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Thu, 30 Jul 2026 11:45:17 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-03T14:18:39Z"
+  },
+  {
+    "id": "https://in2itiv-gaming.itch.io/barnburners",
+    "source": "itchio",
+    "title": "Barnburners [Free] [Sports] [Windows] [Linux]",
+    "description": "Arcade hockey like the &#039;90s and &#039;00s used to make. Huge hits, dirty dangles, top shelf goals, and brutal fights",
+    "url": "https://in2itiv-gaming.itch.io/barnburners",
+    "image": "https://img.itch.zone/aW1nLzI5MDMxMTYzLnBuZw==/315x250%23c/CClP9K.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 27 Jul 2026 14:28:59 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "indexed_at": "2026-08-03T14:18:31Z"
+  },
+  {
+    "id": "https://miteshterjov.itch.io/deck-of-runes",
+    "source": "itchio",
+    "title": "Deck of Runes [Free] [Card Game]",
+    "description": "Master magical rune cards and battle through a dark fantasy world in this pixel-art deck-building roguelike.",
+    "url": "https://miteshterjov.itch.io/deck-of-runes",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwODI5LmpwZw==/315x250%23c/V5nL%2Bn.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:51:56 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-03T14:18:24Z"
+  },
+  {
+    "id": "https://olive81866.itch.io/epq-final-game-ilma",
+    "source": "itchio",
+    "title": "EPQ Final Game - Ilma [Free] [Role Playing]",
+    "description": "",
+    "url": "https://olive81866.itch.io/epq-final-game-ilma",
+    "image": "https://img.itch.zone/aW1nLzI5MDMwODg1LnBuZw==/315x250%23c/MqBfJy.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:09:02 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-03T14:18:18Z"
+  },
+  {
+    "id": "https://gszlu.itch.io/gszlu001",
+    "source": "itchio",
+    "title": "骰子 [Free] [Windows]",
+    "description": "骰子遊戲",
+    "url": "https://gszlu.itch.io/gszlu001",
+    "image": "https://img.itch.zone/aW1nLzI5MDMxMDU2LnBuZw==/315x250%23c/ieUR%2F2.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 13:53:19 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-03T14:18:11Z"
+  },
+  {
+    "id": "https://phvortt.itch.io/conatus",
+    "source": "itchio",
+    "title": "CONATUS [Free] [Role Playing] [Windows]",
+    "description": "Um RPG narrativo onde uma criança luta para salvar sua família da criatura que possui seu pai.",
+    "url": "https://phvortt.itch.io/conatus",
+    "image": "https://img.itch.zone/aW1nLzI4OTE5NTEzLnBuZw==/315x250%23c/OkBQeQ.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Wed, 29 Jul 2026 21:56:23 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-03T14:18:04Z"
+  },
+  {
     "id": "https://sayancrafter.itch.io/baldi-basics-the-old-laboratory-of-failure-exp-v12-ultra-fast-edition",
     "source": "itchio",
     "title": "Baldi Basics The Old Laboratory Of Failure Exp V1.2 Ultra Fast Edition [Free] [Android]",
@@ -48292,278 +48893,5 @@
       "html"
     ],
     "indexed_at": "2026-07-27T15:21:09Z"
-  },
-  {
-    "id": "https://heisenbergofficial.itch.io/unread-demo",
-    "source": "itchio",
-    "title": "Unread Demo [Free] [Interactive Fiction]",
-    "description": "A mystery-puzzle demo about a grandfather&#039;s hidden secret.",
-    "url": "https://heisenbergofficial.itch.io/unread-demo",
-    "image": "https://img.itch.zone/aW1nLzI4ODUzODUzLmpwZWc=/315x250%23c/pjYDbR.jpeg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Mon, 27 Jul 2026 11:04:17 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-07-27T12:13:07Z"
-  },
-  {
-    "id": "https://titanskywars.itch.io/bolts-grand-adventure",
-    "source": "itchio",
-    "title": "Bolts Grand Adventure [$4.99] [Platformer] [Windows] [macOS]",
-    "description": "Bolt has to save the realm!",
-    "url": "https://titanskywars.itch.io/bolts-grand-adventure",
-    "image": "https://img.itch.zone/aW1nLzI4ODU0Mjg1LnBuZw==/315x250%23c/mp3kJN.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Mon, 27 Jul 2026 10:19:39 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows",
-      "osx"
-    ],
-    "indexed_at": "2026-07-27T12:13:03Z"
-  },
-  {
-    "id": "https://sirmilkman.itch.io/rpg-brokendepths",
-    "source": "itchio",
-    "title": "Broken Depths RPG [Free] [Windows]",
-    "description": "A turn based roguelike where you only have a few moves to get to the exit. Can you reach floor 30?",
-    "url": "https://sirmilkman.itch.io/rpg-brokendepths",
-    "image": "https://img.itch.zone/aW1nLzI4Nzc0NTIyLmdpZg==/original/YNx2qM.gif",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sun, 26 Jul 2026 10:33:57 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-07-27T12:12:59Z"
-  },
-  {
-    "id": "https://transmutrix.itch.io/ducky-sokoban-dx",
-    "source": "itchio",
-    "title": "Ducky Sokoban DX [Free] [Puzzle] [Windows] [macOS] [Linux]",
-    "description": "a cozy, cute take on a classic puzzle game",
-    "url": "https://transmutrix.itch.io/ducky-sokoban-dx",
-    "image": "https://img.itch.zone/aW1nLzI4NjU2MTYxLnBuZw==/315x250%23c/VzqnF0.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Tue, 21 Jul 2026 23:21:02 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-07-27T12:12:56Z"
-  },
-  {
-    "id": "https://titanskywars.itch.io/super-snake-quest",
-    "source": "itchio",
-    "title": "Super Snake Quest [$1.99] [Action] [Windows] [macOS]",
-    "description": "",
-    "url": "https://titanskywars.itch.io/super-snake-quest",
-    "image": "https://img.itch.zone/aW1nLzI4ODU0MzgxLnBuZw==/315x250%23c/c2Sh5c.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Mon, 27 Jul 2026 11:24:45 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows",
-      "osx"
-    ],
-    "indexed_at": "2026-07-27T12:12:52Z"
-  },
-  {
-    "id": "https://ingiorn.itch.io/the-last-straw",
-    "source": "itchio",
-    "title": "The Last Straw [Free] [Shooter]",
-    "description": "Fixed shooter about scarecrow",
-    "url": "https://ingiorn.itch.io/the-last-straw",
-    "image": "https://img.itch.zone/aW1nLzI4ODUyNzAwLnBuZw==/315x250%23c/VNCQ7x.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Mon, 27 Jul 2026 09:41:17 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-07-27T12:12:48Z"
-  },
-  {
-    "id": "https://zeemohamed.itch.io/level-4",
-    "source": "itchio",
-    "title": "Level 4 [Free]",
-    "description": "",
-    "url": "https://zeemohamed.itch.io/level-4",
-    "image": "https://img.itch.zone/aW1nLzI4ODUzOTM2LnBuZw==/315x250%23c/uRzuUP.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Mon, 27 Jul 2026 10:57:16 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-07-27T12:12:45Z"
-  },
-  {
-    "id": "https://hell-abyss.itch.io/bossdemo",
-    "source": "itchio",
-    "title": "貓咪偵探喬治  逮捕隱形人  BOSS戰  DEMO [Free] [Adventure]",
-    "description": "",
-    "url": "https://hell-abyss.itch.io/bossdemo",
-    "image": "https://img.itch.zone/aW1nLzI4Njk3MzUyLnBuZw==/315x250%23c/Ky5upP.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Fri, 24 Jul 2026 00:11:57 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-07-27T12:12:41Z"
-  },
-  {
-    "id": "https://wedgin.itch.io/shapiosfinalnight",
-    "source": "itchio",
-    "title": "FINAL NIGHTS WITH SHAPIOS [Free] [Survival] [Windows]",
-    "description": "",
-    "url": "https://wedgin.itch.io/shapiosfinalnight",
-    "image": "https://img.itch.zone/aW1nLzI4ODU0ODE3LnBuZw==/315x250%23c/hrhuox.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Mon, 27 Jul 2026 11:40:26 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows"
-    ],
-    "indexed_at": "2026-07-27T12:12:37Z"
-  },
-  {
-    "id": "https://aquaerwin.itch.io/pathogen-rush",
-    "source": "itchio",
-    "title": "Pathogen Rush [Free] [Strategy] [Windows] [Android]",
-    "description": "Pathogen Rush : Imunology System",
-    "url": "https://aquaerwin.itch.io/pathogen-rush",
-    "image": "https://img.itch.zone/aW1nLzI4ODU0MTUzLnBuZw==/315x250%23c/3k4BkD.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Mon, 27 Jul 2026 11:07:48 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows",
-      "android"
-    ],
-    "indexed_at": "2026-07-27T12:12:34Z"
-  },
-  {
-    "id": "https://mohking511.itch.io/physics-puzzler",
-    "source": "itchio",
-    "title": "Physics Puzzler [Free]",
-    "description": "Puzzle Game",
-    "url": "https://mohking511.itch.io/physics-puzzler",
-    "image": "https://img.itch.zone/aW1nLzI4ODU0NjY0LnBuZw==/315x250%23c/C3E%2BeJ.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Fri, 24 Jul 2026 20:43:09 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-07-27T12:12:30Z"
-  },
-  {
-    "id": "https://davidygng2.itch.io/ghostsn-goblins-2-the-fangame",
-    "source": "itchio",
-    "title": "Ghosts'N Goblins 2 : the Fangame [Free] [Action] [Windows]",
-    "description": "",
-    "url": "https://davidygng2.itch.io/ghostsn-goblins-2-the-fangame",
-    "image": "https://img.itch.zone/aW1nLzI4ODU0OTE0LmpwZw==/315x250%23c/HtOnal.jpg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Mon, 27 Jul 2026 11:25:26 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows"
-    ],
-    "indexed_at": "2026-07-27T12:12:27Z"
-  },
-  {
-    "id": "https://juliarscat.itch.io/nivell-security-operations-terminal",
-    "source": "itchio",
-    "title": "NIVELL Security Operations Terminal [Free] [Windows] [macOS] [Linux]",
-    "description": "Simulador narratiu de ciberseguretat en una terminal retro on cada decisió tècnica deixa rastre.",
-    "url": "https://juliarscat.itch.io/nivell-security-operations-terminal",
-    "image": "https://img.itch.zone/aW1nLzI4ODU1MDE5LnBuZw==/315x250%23c/pqjwFi.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Mon, 27 Jul 2026 11:56:12 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-07-27T12:12:23Z"
-  },
-  {
-    "id": "https://redf0x90.itch.io/splashy-arrows",
-    "source": "itchio",
-    "title": "Splashy Arrows [Free]",
-    "description": "",
-    "url": "https://redf0x90.itch.io/splashy-arrows",
-    "image": "https://img.itch.zone/aW1nLzI4ODU1MTIyLnBuZw==/315x250%23c/nZADzo.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Mon, 27 Jul 2026 12:01:57 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-07-27T12:12:19Z"
-  },
-  {
-    "id": "https://borick.itch.io/voxelstar",
-    "source": "itchio",
-    "title": "VOXELSTAR [Free] [Action]",
-    "description": "Ashes of the Kepler Belt — six waves, one hull.",
-    "url": "https://borick.itch.io/voxelstar",
-    "image": "https://img.itch.zone/aW1nLzI4ODU1MDE1LnBuZw==/315x250%23c/JEUmoV.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Mon, 27 Jul 2026 02:13:07 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-07-27T12:12:16Z"
   }
 ]
