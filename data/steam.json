@@ -1,5 +1,35 @@
 [
   {
+    "id": "5017450",
+    "source": "steam",
+    "title": "Midnight Manhunt Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/5017450/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5017450/76d86c1d4738d3a8e1e3f6004da5c09ea9cf4a3d/header.jpg?t=1786141591",
+    "tags": [
+      "Strategy",
+      "Turn-Based Strategy",
+      "Turn-Based Tactics",
+      "Cyberpunk",
+      "Tactical",
+      "Atmospheric",
+      "Sci-fi",
+      "Futuristic",
+      "Detective",
+      "Stealth",
+      "3D",
+      "Stylized",
+      "Sandbox",
+      "Indie",
+      "Dialogue Heavy",
+      "Singleplayer"
+    ],
+    "developer": "Lorix Games",
+    "release_date": "Aug 7, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4175680/297969752/f0ef447b1aaa777767d6a85ab612b1db51c0de5c/1784729056/hls_264_master.m3u8?t=1784729817",
+    "indexed_at": "2026-08-07T23:02:24Z"
+  },
+  {
     "id": "5022770",
     "source": "steam",
     "title": "Tatomic Demo",
@@ -20436,28 +20466,5 @@
     "release_date": "Jul 23, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4944280/73856682/94308a1a53b60cb0e0aa67b108a7fc3dd4ab9fd3/1783522864/hls_264_master.m3u8?t=1784727840",
     "indexed_at": "2026-07-23T23:53:13Z"
-  },
-  {
-    "id": "4979260",
-    "source": "steam",
-    "title": "Beat Slicer Demo",
-    "description": "Slice through the rhythm in Beat//Slicer, a hyper-reactive synthwave rhythm game where your music controls the action. Load any track, customize your grid, and choose from three distinct game modes. Slice with precision, build your multiplier, and master the neon horizon.",
-    "url": "https://store.steampowered.com/app/4979260/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979260/3c5316e554db26e9021e7858484c2a7c1da189c6/header.jpg?t=1784843824",
-    "tags": [
-      "Casual",
-      "2D",
-      "Singleplayer",
-      "Rhythm",
-      "Cyberpunk",
-      "Music-Based Procedural Generation",
-      "Music",
-      "Indie",
-      "Retro"
-    ],
-    "developer": "XtremeZero",
-    "release_date": "Jul 23, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/3659910/1685630533/6ec9615e0a77978365c1106383bbd9177280a2fd/1783178560/hls_264_master.m3u8?t=1783704486",
-    "indexed_at": "2026-07-23T22:48:02Z"
   }
 ]
