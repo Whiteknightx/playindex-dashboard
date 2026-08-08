@@ -1,5 +1,344 @@
 [
   {
+    "id": "https://sigamaest.itch.io/caveman-lab",
+    "source": "itchio",
+    "title": "Caveman Lab [Free] [Action]",
+    "description": "This is hosted on a site not a app, open the zip to see a html leading to a site.",
+    "url": "https://sigamaest.itch.io/caveman-lab",
+    "image": "https://img.itch.zone/aW1nLzI5MTI4NjMxLnBuZw==/315x250%23c/yvdAU8.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 03:23:17 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-08T05:15:20Z"
+  },
+  {
+    "id": "https://handersongodias.itch.io/western-duel",
+    "source": "itchio",
+    "title": "WESTERN DUEL [Free] [Action]",
+    "description": "Seja o gatilho mais rápido, ou seja esquecido.",
+    "url": "https://handersongodias.itch.io/western-duel",
+    "image": "https://img.itch.zone/aW1nLzI5MTIzODk1LnBuZw==/315x250%23c/avb%2BCx.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 07 Aug 2026 22:10:15 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-08T05:15:16Z"
+  },
+  {
+    "id": "https://h20-drunc.itch.io/plinko",
+    "source": "itchio",
+    "title": "PLINKO [Free] [Simulation]",
+    "description": "Plinko recreation built with original physics‑based collision and custom bias.",
+    "url": "https://h20-drunc.itch.io/plinko",
+    "image": "https://img.itch.zone/aW1nLzI5MTI4NjI3LnBuZw==/315x250%23c/kXIuhR.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 03:56:24 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-08T05:15:11Z"
+  },
+  {
+    "id": "https://orihakatiromo.itch.io/blitz-mahjong",
+    "source": "itchio",
+    "title": "BLITZ Mahjong　神速麻雀 [Free] [Strategy]",
+    "description": "A fast-paced two-player Mahjong.",
+    "url": "https://orihakatiromo.itch.io/blitz-mahjong",
+    "image": "https://img.itch.zone/aW1nLzI5MTI4NDM2LnBuZw==/315x250%23c/cVJOn7.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Mon, 03 Aug 2026 07:06:02 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-08T05:15:06Z"
+  },
+  {
+    "id": "https://gray-and-mr-tree.itch.io/sprunkimse-phase-27-its-too-late",
+    "source": "itchio",
+    "title": "Sprunki.MSE Phase 27: It's Too Late... [$1.00]",
+    "description": "",
+    "url": "https://gray-and-mr-tree.itch.io/sprunkimse-phase-27-its-too-late",
+    "image": "https://img.itch.zone/aW1nLzI5MTI4NzIyLmpwZw==/315x250%23c/TGwsIS.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 04:09:13 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-08T05:15:02Z"
+  },
+  {
+    "id": "https://h20-drunc.itch.io/combat",
+    "source": "itchio",
+    "title": "COMBAT! [Free] [Action]",
+    "description": "A generic topdown 2d hack & slash",
+    "url": "https://h20-drunc.itch.io/combat",
+    "image": "https://img.itch.zone/aW1nLzI5MTI4NzM2LnBuZw==/315x250%23c/actDOl.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 04:13:26 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-08T05:14:54Z"
+  },
+  {
+    "id": "https://danggabe.itch.io/misterio-do-carimbo",
+    "source": "itchio",
+    "title": "Mistério do Carimbo [Free] [Visual Novel] [Windows] [Linux]",
+    "description": "Jogo feito para a FelpoJam 2026",
+    "url": "https://danggabe.itch.io/misterio-do-carimbo",
+    "image": "https://img.itch.zone/aW1nLzI5MTI4NzgxLnBuZw==/315x250%23c/GkOTP%2F.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 03:27:16 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "indexed_at": "2026-08-08T05:14:49Z"
+  },
+  {
+    "id": "https://ardatgames.itch.io/arcadia-nova",
+    "source": "itchio",
+    "title": "Arcadia Nova [Free] [Action] [Android]",
+    "description": "Pilot a starship, dodge cosmic hazards, and survive 10 escalating difficulty levels.",
+    "url": "https://ardatgames.itch.io/arcadia-nova",
+    "image": "https://img.itch.zone/aW1nLzI5MDY4NjU4LnBuZw==/315x250%23c/XBbvoR.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Wed, 05 Aug 2026 06:27:31 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-08T05:14:44Z"
+  },
+  {
+    "id": "https://goldenmaster.itch.io/boxero",
+    "source": "itchio",
+    "title": "Boxero [Free] [Simulation]",
+    "description": "🥊 ¿Podés convertirte en campeón del mundo?",
+    "url": "https://goldenmaster.itch.io/boxero",
+    "image": "https://img.itch.zone/aW1nLzI5MTI4OTY1LnBuZw==/315x250%23c/qlxlEo.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 04:20:29 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-08T05:14:40Z"
+  },
+  {
+    "id": "https://remocraft.itch.io/remonyaago1",
+    "source": "itchio",
+    "title": "対戦レモニャーゴ [Free] [Action] [Windows]",
+    "description": "生意気な「レモニャーゴ」と勝負!",
+    "url": "https://remocraft.itch.io/remonyaago1",
+    "image": "https://img.itch.zone/aW1nLzI5MTI4ODEzLnBuZw==/315x250%23c/uh9hf%2B.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 03:55:38 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-08T05:14:35Z"
+  },
+  {
+    "id": "https://raven-games-studios.itch.io/equals-111205",
+    "source": "itchio",
+    "title": "equals 111205 [$2.00]",
+    "description": "",
+    "url": "https://raven-games-studios.itch.io/equals-111205",
+    "image": "https://img.itch.zone/aW1nLzI5MTI5MTk3LnBuZw==/315x250%23c/MeXYZj.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 04:50:02 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-08T05:14:30Z"
+  },
+  {
+    "id": "https://dee234572012.itch.io/deltarune3d",
+    "source": "itchio",
+    "title": "Deltarune 3D [Free]",
+    "description": "A 3D version of Deltarune, something like 2.5D games.. like duke nukem!",
+    "url": "https://dee234572012.itch.io/deltarune3d",
+    "image": "https://img.itch.zone/aW1nLzI5MTI5MDk0LnBuZw==/315x250%23c/1y0gJC.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 04:45:42 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-08T05:14:26Z"
+  },
+  {
+    "id": "https://pixelemily.itch.io/lazy-river-cleanup",
+    "source": "itchio",
+    "title": "Lazy River Clean Up [Free]",
+    "description": "",
+    "url": "https://pixelemily.itch.io/lazy-river-cleanup",
+    "image": "https://img.itch.zone/aW1nLzI5MTI5MjM1LnBuZw==/315x250%23c/Tv%2BPPq.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 04:53:01 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-08T05:14:18Z"
+  },
+  {
+    "id": "https://smolblockboi.itch.io/organize-your-games",
+    "source": "itchio",
+    "title": "Organize Your Games [Free] [Puzzle]",
+    "description": "Match booklets and hardware to their cases",
+    "url": "https://smolblockboi.itch.io/organize-your-games",
+    "image": "https://img.itch.zone/aW1nLzI5MTI5MjUwLnBuZw==/315x250%23c/FoFHOt.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 04:50:57 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-08T05:14:13Z"
+  },
+  {
+    "id": "https://lilylynx440.itch.io/catching-apples",
+    "source": "itchio",
+    "title": "Catching Apples [Free] [Other]",
+    "description": "",
+    "url": "https://lilylynx440.itch.io/catching-apples",
+    "image": "https://img.itch.zone/aW1nLzI5MTI5MjczLnBuZw==/315x250%23c/RDIUQg.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 04:52:02 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-08T05:14:08Z"
+  },
+  {
+    "id": "https://agst777.itch.io/light-the-fire",
+    "source": "itchio",
+    "title": "Light the fire [Free] [Survival]",
+    "description": "",
+    "url": "https://agst777.itch.io/light-the-fire",
+    "image": "https://img.itch.zone/aW1nLzI5MTI3OTY0LnBuZw==/315x250%23c/4ovsgh.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 02:32:24 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-08T05:14:04Z"
+  },
+  {
+    "id": "https://ssd0815.itch.io/mz-revenge",
+    "source": "itchio",
+    "title": "MZの逆襲!!(Linux版) [Free] [Shooter] [Linux]",
+    "description": "",
+    "url": "https://ssd0815.itch.io/mz-revenge",
+    "image": "https://img.itch.zone/aW1nLzI5MTI5MzA5LnBuZw==/315x250%23c/3Fsa7y.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 05:00:12 GMT",
+    "trailer": "",
+    "platforms": [
+      "linux"
+    ],
+    "indexed_at": "2026-08-08T05:13:59Z"
+  },
+  {
+    "id": "https://ssainnt.itch.io/chum",
+    "source": "itchio",
+    "title": "chum [Free] [Other] [Windows]",
+    "description": "a retro underwater horror game where a blind predator hunts your every move.",
+    "url": "https://ssainnt.itch.io/chum",
+    "image": "https://img.itch.zone/aW1nLzI5MTI5MzEyLmpwZw==/315x250%23c/aUQzPF.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 04:55:18 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-08T05:13:53Z"
+  },
+  {
+    "id": "https://gather-studio.itch.io/traps",
+    "source": "itchio",
+    "title": "Traps [Free] [Card Game] [Windows] [macOS] [Android]",
+    "description": "Traps — Outsmart your friends, play your cards, and never know what’s coming next.",
+    "url": "https://gather-studio.itch.io/traps",
+    "image": "https://img.itch.zone/aW1nLzI5MTI5MzAzLmpwZw==/315x250%23c/upVFZl.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 08 Aug 2026 05:00:12 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-08T05:13:44Z"
+  },
+  {
     "id": "https://takuman5524.itch.io/monster-slaying-game-quest-edition",
     "source": "itchio",
     "title": "モンスター撃退ゲーム<クエスト版>　（Monster-Slaying Game: Quest Edition） [Free] [Action] [Windows] [macOS] [Linux] [Android]",
