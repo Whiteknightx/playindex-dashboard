@@ -1,5 +1,39 @@
 [
   {
+    "id": "5039060",
+    "source": "steam",
+    "title": "Paperlings Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/5039060/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5039060/26aef9beb90629866f26a430d09a3de59017f5dc/header.jpg?t=1786297013",
+    "tags": [
+      "Desktop Companion",
+      "Creature Collector",
+      "Cozy",
+      "Life Sim",
+      "Idler",
+      "Cute",
+      "Relaxing",
+      "Wholesome",
+      "Emotional",
+      "Family Friendly",
+      "Casual",
+      "Turn-Based Combat",
+      "Perma Death",
+      "Simulation",
+      "Indie",
+      "Pixel Graphics",
+      "Collectathon",
+      "Colorful",
+      "Auto Battler",
+      "Singleplayer"
+    ],
+    "developer": "Santiago Calvo",
+    "release_date": "Aug 9, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4950360/50439885/94d6509eae74dfd1c1a4dd910376666050701976/1785373708/hls_264_master.m3u8?t=1785452584",
+    "indexed_at": "2026-08-09T17:55:28Z"
+  },
+  {
     "id": "4921860",
     "source": "steam",
     "title": "KEYKRUNCHER™ Demo",
@@ -19562,54 +19596,5 @@
     "release_date": "Jul 25, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4646830/1362985836/29eec1c1789c0fc8f03d469f4ca428e03ccda8b1/1783094276/hls_264_master.m3u8?t=1784225317",
     "indexed_at": "2026-07-25T20:06:30Z"
-  },
-  {
-    "id": "4989350",
-    "source": "steam",
-    "title": "Mana & Merlin: A Wanderful Adventure Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4989350/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989350/0b5998f8cf61007c6219899377288ec79a66eaae/header.jpg?t=1785000659",
-    "tags": [
-      "Adventure",
-      "3D Platformer",
-      "Action",
-      "Singleplayer",
-      "Exploration",
-      "Magic",
-      "Platformer",
-      "3D",
-      "Stylized",
-      "Relaxing",
-      "Indie",
-      "Comedy"
-    ],
-    "developer": "ATouchOfMagic",
-    "release_date": "Coming soon",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4618730/457444100/2114e771fdddbe5669ea97325a6624a98f03e409/1779537182/hls_264_master.m3u8?t=1779999006",
-    "indexed_at": "2026-07-25T17:51:51Z"
-  },
-  {
-    "id": "4882860",
-    "source": "steam",
-    "title": "Roam Demo",
-    "description": "Roam is a fantasy turn based tableau building strategy game designed by Red Raven Games. The demo is a truncated version of the basic game (no artifacts, stacking variant, or outpost). Once 3 additional characters are found for a team, whomever has the most victory points will be the winner.",
-    "url": "https://store.steampowered.com/app/4882860/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882860/cff5d8115ae0a15c0d08ee935f70664a79c65d64/header.jpg?t=1785001042",
-    "tags": [
-      "Strategy",
-      "Board Game",
-      "Casual",
-      "Singleplayer",
-      "Multiplayer",
-      "Fantasy",
-      "2D",
-      "Indie",
-      "PvP"
-    ],
-    "developer": "The Hungry Samurai LLC",
-    "release_date": "Jul 25, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4882860/72075387/aa9333ac7a1e5d2a083817874bdaa863489d1a3c/1782241925/hls_264_master.m3u8?t=1783450409",
-    "indexed_at": "2026-07-25T17:51:44Z"
   }
 ]
