@@ -1,5 +1,34 @@
 [
   {
+    "id": "4665360",
+    "source": "steam",
+    "title": "IIIIIIlI Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/4665360/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4665360/d1a8ce9c6f7cd80e622240ece2e6c145170cc683/header.jpg?t=1786320517",
+    "tags": [
+      "Design & Illustration",
+      "Casual",
+      "PvP",
+      "Stealth",
+      "Party Game",
+      "2D",
+      "Arcade",
+      "Action",
+      "Hand-drawn",
+      "Survival",
+      "Online Co-Op",
+      "Singleplayer",
+      "Multiplayer",
+      "Co-op",
+      "Indie"
+    ],
+    "developer": "Salted Hoya",
+    "release_date": "Aug 9, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4134620/599070587/379ea850733348ea8294418a70798e932f8cce70/1786322300/hls_264_master.m3u8?t=1786322692",
+    "indexed_at": "2026-08-10T01:23:29Z"
+  },
+  {
     "id": "4983910",
     "source": "steam",
     "title": "Ouro Demo",
@@ -19623,33 +19652,5 @@
     "release_date": "Jul 25, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4952010/1526213052/9c8150e81326eef0b42dcca722630fea4a1d8896/1784521456/hls_264_master.m3u8?t=1784589263",
     "indexed_at": "2026-07-26T04:52:22Z"
-  },
-  {
-    "id": "4979290",
-    "source": "steam",
-    "title": "100 Hidden Relics Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/4979290/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979290/32320a544d2e8e7ded136d38545462864d9b1349/header.jpg?t=1785024296",
-    "tags": [
-      "Casual",
-      "Hidden Object",
-      "Dark Fantasy",
-      "Point & Click",
-      "Medieval",
-      "Atmospheric",
-      "Collectathon",
-      "Dark",
-      "Singleplayer",
-      "2D",
-      "Horror",
-      "Puzzle",
-      "Stylized",
-      "Short"
-    ],
-    "developer": "Crow Girl Games",
-    "release_date": "Jul 25, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4962590/675221374/bfe5c95739e1ef80f24c48dbaae733339707ff51/1784197217/hls_264_master.m3u8?t=1784670654",
-    "indexed_at": "2026-07-26T01:05:50Z"
   }
 ]
