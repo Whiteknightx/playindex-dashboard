@@ -1,5 +1,53 @@
 [
   {
+    "id": "5049340",
+    "source": "steam",
+    "title": "PlayVoice Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/5049340/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5049340/50d3933c4e3c695a1a6a7b189e49bee7dd674f97/header.jpg?t=1786383189",
+    "tags": [
+      "Utilities",
+      "Early Access",
+      "Audio Production",
+      "Music",
+      "Psychological",
+      "Software"
+    ],
+    "developer": "心绪source",
+    "release_date": "Aug 10, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4907460/505585136/bf75ff0c76fd4dfa9c9d17e2e06dca91e868768c/1784215457/hls_264_master.m3u8?t=1785376651",
+    "indexed_at": "2026-08-10T18:11:08Z"
+  },
+  {
+    "id": "4775740",
+    "source": "steam",
+    "title": "Submersa Demo",
+    "description": "Submersa is an underwater exploration game where you operate a functional submarine and manage its systems while exploring dangerous ocean depths. Control ballast, power, oxygen, fuel, and pressure as you descend into hostile environments.",
+    "url": "https://store.steampowered.com/app/4775740/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775740/a9573d8ed16a0b6386657d9bf14b0bbe30cd4834/header.jpg?t=1786385130",
+    "tags": [
+      "Adventure",
+      "Simulation",
+      "Choose Your Own Adventure",
+      "Exploration",
+      "Hidden Object",
+      "3D",
+      "First-Person",
+      "Atmospheric",
+      "Relaxing",
+      "Survival",
+      "Indie",
+      "Choices Matter",
+      "Open World",
+      "Singleplayer"
+    ],
+    "developer": "3TK Games",
+    "release_date": "Aug 10, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4775740/179011848/cdb01e3974dca3387fd87c13224f2bd6885fcb74/1782924713/hls_264_master.m3u8?t=1785274470",
+    "indexed_at": "2026-08-10T18:11:04Z"
+  },
+  {
     "id": "5008280",
     "source": "steam",
     "title": "Stellar Hustler Demo",
@@ -20236,39 +20284,5 @@
     "release_date": "Jul 26, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4990700/1355948489/0617358265b2b5e306e224410137329837cf69bf/1784668669/hls_264_master.m3u8?t=1784897988",
     "indexed_at": "2026-07-26T18:58:06Z"
-  },
-  {
-    "id": "4903390",
-    "source": "steam",
-    "title": "Battle Birds: Cybernetic Avian Combat Demo",
-    "description": "Take Flight as the Battle Birds!Flap, dash, and blast your way to victory against up to 4 friends in a hilariously intense local party game focused on skilled movement through hazardous arenas and explosive power-ups. Simple controls make it easy to jump in, but only the fiercest birds will rule the skies.",
-    "url": "https://store.steampowered.com/app/4903390/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903390/dfeb8655099f0dea3e96171b76e189e0fcd1ec06/header.jpg?t=1785086987",
-    "tags": [
-      "Action",
-      "2D Fighter",
-      "Local Multiplayer",
-      "PvP",
-      "Party Game",
-      "2D Platformer",
-      "Arcade",
-      "Indie",
-      "Fast-Paced",
-      "Shoot 'Em Up",
-      "Funny",
-      "Comedy",
-      "Shooter",
-      "Casual",
-      "Colorful",
-      "Pixel Graphics",
-      "Family Friendly",
-      "Futuristic",
-      "Sci-fi",
-      "Old School"
-    ],
-    "developer": "Cowmaster Studios",
-    "release_date": "Jul 26, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/3654490/2108790215/3729e09d2fb419fdb2d0755fa7d9b4a8ba50efe4/1778980460/hls_264_master.m3u8?t=1778981534",
-    "indexed_at": "2026-07-26T17:55:25Z"
   }
 ]
