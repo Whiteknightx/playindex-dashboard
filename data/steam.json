@@ -1,5 +1,58 @@
 [
   {
+    "id": "4778260",
+    "source": "steam",
+    "title": "Road2Conquest demo",
+    "description": "Road2Conquest is a two-player multiplayer game where you build roads to capture your opponent's castle. Use various strategy cards and game pieces to overwhelm your opponent with superior tactics!",
+    "url": "https://store.steampowered.com/app/4778260/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778260/b0b7356486b4904305def84010c3874b22d3f5db/header.jpg?t=1786488731",
+    "tags": [
+      "Strategy",
+      "Board Game",
+      "Turn-Based Tactics",
+      "3D",
+      "Medieval",
+      "Multiplayer",
+      "Indie"
+    ],
+    "developer": "J2H2",
+    "release_date": "Aug 11, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4317470/1289054202/1e43af48ab0b2ed0dba7e4466f47533fc3a47f57/1783155627/hls_264_master.m3u8?t=1784346065",
+    "indexed_at": "2026-08-11T23:30:35Z"
+  },
+  {
+    "id": "5054830",
+    "source": "steam",
+    "title": "Toast & Toaster Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/5054830/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054830/ef04f33c679acc0092639ee2895e7fbe3393e4ed/header.jpg?t=1786489142",
+    "tags": [
+      "Casual",
+      "Indie",
+      "Roguelite",
+      "Action Roguelike",
+      "Bullet Hell",
+      "Action",
+      "Arcade",
+      "Action-Adventure",
+      "Adventure",
+      "2D",
+      "Hand-drawn",
+      "Cozy",
+      "Colorful",
+      "Cartoon",
+      "Combat",
+      "Singleplayer",
+      "Roguelike Deckbuilder",
+      "Traditional Roguelike"
+    ],
+    "developer": "Victor Aragao",
+    "release_date": "Aug 11, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4939640/797202559/b371d1d52dacfc067ba8296c1f646cf7adaee41b/1783529374/hls_264_master.m3u8?t=1784915023",
+    "indexed_at": "2026-08-11T23:30:25Z"
+  },
+  {
     "id": "4450360",
     "source": "steam",
     "title": "Mecha Tower Defense Demo",
@@ -21624,39 +21677,5 @@
     "release_date": "Jul 27, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4947560/596146814/f927a5be25d54dc7acc69836eeeb0f91b7ef9be1/1784778017/hls_264_master.m3u8?t=1784778664",
     "indexed_at": "2026-07-28T01:56:19Z"
-  },
-  {
-    "id": "4961910",
-    "source": "steam",
-    "title": "Tuoni Demo",
-    "description": "A turn-based Roguelike RPG set in a mythic northern wilderness. Explore procedurally generated lands, battle eerie folkloric creatures, and craft powerful builds on your journey to the land of the dead. Experiment with diverse playstyles in a richly tactical, old-school inspired adventure.",
-    "url": "https://store.steampowered.com/app/4961910/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961910/6a1599483dd01ee90829f8c6342414cbbdc0a1bc/header.jpg?t=1785189935",
-    "tags": [
-      "Roguelike",
-      "RPG",
-      "Singleplayer",
-      "Tactical RPG",
-      "Traditional Roguelike",
-      "Procedural Generation",
-      "Adventure",
-      "2D",
-      "Character Customization",
-      "Turn-Based Combat",
-      "Grid-Based Movement",
-      "Open World",
-      "Top-Down",
-      "Combat",
-      "Exploration",
-      "Fantasy",
-      "Old School",
-      "Pixel Graphics",
-      "Atmospheric",
-      "Magic"
-    ],
-    "developer": "Old Dog",
-    "release_date": "Jul 27, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4961910/1366058840/5bec576d6c70ed623603297016e5738baa2f6be1/1783940022/hls_264_master.m3u8?t=1785189778",
-    "indexed_at": "2026-07-27T22:53:18Z"
   }
 ]
