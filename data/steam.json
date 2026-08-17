@@ -1,5 +1,39 @@
 [
   {
+    "id": "4831440",
+    "source": "steam",
+    "title": "I Want to Play the Villain! Demo",
+    "description": "I Want to Play the Villain! is a theatre-themed logic puzzle game. To create the perfect show, you must match actors to their roles. But every actor has their own ambitions, fears, and wishes. Rearrange the cast, change the story, and use your logic to make everyone happy!",
+    "url": "https://store.steampowered.com/app/4831440/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831440/c444de2d69ebf6cf28bae7dd253387072c50d6dd/header.jpg?t=1786971625",
+    "tags": [
+      "Adventure",
+      "Casual",
+      "Point & Click",
+      "Puzzle",
+      "Indie",
+      "Sandbox",
+      "Exploration",
+      "2D",
+      "Cartoony",
+      "Colorful",
+      "Cute",
+      "Hand-drawn",
+      "Atmospheric",
+      "Singleplayer",
+      "Comedy",
+      "Story Rich",
+      "Nonlinear",
+      "Dragons",
+      "Fantasy",
+      "Funny"
+    ],
+    "developer": "Triomatica Games",
+    "release_date": "Aug 17, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4831440/1559415949/c77b0a7308c8c8c1e5b8c60f1685bfa078f5b028/1786965152/hls_264_master.m3u8?t=1786965416",
+    "indexed_at": "2026-08-17T13:13:47Z"
+  },
+  {
     "id": "5084750",
     "source": "steam",
     "title": "Still With Me Demo",
@@ -21581,35 +21615,5 @@
     "release_date": "Aug 2, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/5001290/1971754142/4b8225a31359bffdcf55f167940b1ccec64d3588/1784828658/hls_264_master.m3u8?t=1785415486",
     "indexed_at": "2026-08-02T14:23:53Z"
-  },
-  {
-    "id": "5009450",
-    "source": "steam",
-    "title": "Chess of the Hidden Gates Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/5009450/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5009450/3cd57a303a8a7fd409b1e9b8703ee688fbf2f391/header.jpg?t=1785673707",
-    "tags": [
-      "Strategy",
-      "Roguelike Deckbuilder",
-      "Casual",
-      "Card Game",
-      "Turn-Based Tactics",
-      "Roguelike",
-      "Turn-Based Strategy",
-      "Board Game",
-      "Card Battler",
-      "Deckbuilding",
-      "3D",
-      "Indie",
-      "Xianxia",
-      "Wuxia",
-      "Singleplayer",
-      "Mythology"
-    ],
-    "developer": "AgentGameLab",
-    "release_date": "Aug 2, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4981020/648695705/9cf468bcf898af38f54b9009ae7cb8ebdbf60bff/1785613087/hls_264_master.m3u8?t=1785613938",
-    "indexed_at": "2026-08-02T12:33:09Z"
   }
 ]
