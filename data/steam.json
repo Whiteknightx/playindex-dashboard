@@ -1,5 +1,28 @@
 [
   {
+    "id": "4904230",
+    "source": "steam",
+    "title": "Pop Star Life Demo",
+    "description": "Experience the first 100 days of Pop Star Life. Write songs, release music, perform live shows, grow your fanbase, and manage money, fame, stress, health, and relationships as you build your music career from nothing.",
+    "url": "https://store.steampowered.com/app/4904230/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4904230/ee55e25c1c776cd73585a9127dc63791a92f2433/header.jpg?t=1787176542",
+    "tags": [
+      "Simulation",
+      "Casual",
+      "Life Sim",
+      "Sandbox",
+      "Text-Based",
+      "Management",
+      "Singleplayer",
+      "Indie",
+      "Music"
+    ],
+    "developer": "Rakun Interactive",
+    "release_date": "Aug 19, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4904230/44276771/0703acf47d02b848b7907c7b9525077699b3224b/1782660618/hls_264_master.m3u8?t=1782896804",
+    "indexed_at": "2026-08-19T22:14:57Z"
+  },
+  {
     "id": "5034520",
     "source": "steam",
     "title": "Captive 3000 Demo",
@@ -24588,36 +24611,5 @@
     "release_date": "Aug 4, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/5001870/447123454/4ecbe096ce0b4458170c9c62e76e48e91df18870/1784803848/hls_264_master.m3u8?t=1785884679",
     "indexed_at": "2026-08-04T23:30:57Z"
-  },
-  {
-    "id": "4998580",
-    "source": "steam",
-    "title": "Hollow Demo",
-    "description": "Descend into a procedurally generated dungeon beneath the cursed town of Gravesend Hollow. Battle undead and demons, collect powerful randomized loot, and experience the opening chapter of this dark fantasy action RPG inspired by classic dungeon crawlers.",
-    "url": "https://store.steampowered.com/app/4998580/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4998580/90e0d02d46f6f52d1e344c8a0a161f74fa566a2f/header.jpg?t=1785876605",
-    "tags": [
-      "Action RPG",
-      "Dungeon Crawler",
-      "Action",
-      "Dark Fantasy",
-      "Character Customization",
-      "Old School",
-      "Exploration",
-      "Hack and Slash",
-      "3D",
-      "RPG",
-      "Indie",
-      "Isometric",
-      "Violent",
-      "Gore",
-      "Magic",
-      "Procedural Generation",
-      "Singleplayer"
-    ],
-    "developer": "Ded Hed Studios",
-    "release_date": "Aug 4, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/4901160/1066871772/3eea06889079a1d1081a5ebf0177f0cb3064cbf5/1782524836/hls_264_master.m3u8?t=1782835750",
-    "indexed_at": "2026-08-04T22:04:44Z"
   }
 ]
