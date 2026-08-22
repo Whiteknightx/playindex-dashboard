@@ -1,5 +1,34 @@
 [
   {
+    "id": "5064780",
+    "source": "steam",
+    "title": "Nostra Culpa Demo",
+    "description": "A first-person philosophical horror exploration game where you journey through Hell and uncover the stories of those who dwell within.",
+    "url": "https://store.steampowered.com/app/5064780/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064780/80736eebf565a9f964cb0d8c1fddbd3c43ac5433/header.jpg?t=1787430226",
+    "tags": [
+      "Atmospheric",
+      "Philosophical",
+      "Psychological Horror",
+      "Walking Simulator",
+      "Adventure",
+      "Exploration",
+      "Dark Fantasy",
+      "First-Person",
+      "Mythology",
+      "Supernatural",
+      "Dialogue Heavy",
+      "Indie",
+      "Linear",
+      "Stylized",
+      "Singleplayer"
+    ],
+    "developer": "DIY Games",
+    "release_date": "Aug 22, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/5064200/2075088922/bc489294379688f0175788cfc36c585ea6a12a82/1787050834/hls_264_master.m3u8?t=1787428925",
+    "indexed_at": "2026-08-22T20:45:44Z"
+  },
+  {
     "id": "5015160",
     "source": "steam",
     "title": "マジカルラプチャー Demo",
@@ -25100,62 +25129,5 @@
     "release_date": "Aug 7, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4103960/1981408753/e1ff965ef5165b02146edbac25ac7cca64015790/1780321997/hls_264_master.m3u8?t=1780322611",
     "indexed_at": "2026-08-07T22:06:29Z"
-  },
-  {
-    "id": "4991440",
-    "source": "steam",
-    "title": "BE QUICK! The Rise of Fraya Demo",
-    "description": "BE QUICK! The Rise of Fraya Demo is a cinematic boss rush driven by reflexes and QTE combat. Master enemy patterns, hit targets in real time, build combos, upgrade Fraya’s stats and survive the first three increasingly brutal boss battles.",
-    "url": "https://store.steampowered.com/app/4991440/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991440/fad5333c9193ee3960026e1b7b5e4f60dc35914a/header.jpg?t=1786132883",
-    "tags": [
-      "Quick-Time Events",
-      "FMV",
-      "Arcade",
-      "Dark Fantasy",
-      "Score Attack",
-      "Action",
-      "Cinematic",
-      "Singleplayer",
-      "Female Protagonist",
-      "Linear",
-      "Indie",
-      "Fantasy",
-      "Controller",
-      "Adventure"
-    ],
-    "developer": "Septium Media",
-    "release_date": "Aug 7, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/3189970/986634330/6740ce0f8fb4dbb8aec13ebfdc9e5c482e1625bd/1784470755/hls_264_master.m3u8?t=1784853894",
-    "indexed_at": "2026-08-07T20:30:44Z"
-  },
-  {
-    "id": "5005710",
-    "source": "steam",
-    "title": "Kingdom of Hope - Demo",
-    "description": "Rise from nine years of tyranny to rebuild a scarred medieval land. As a celebrated hero, you’re granted a farmstead by the new King. Forge a fresh life of growth, craft, and community.",
-    "url": "https://store.steampowered.com/app/5005710/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005710/020cd803cb43cb3afe6c2cab6c930e3bd26d00c1/header.jpg?t=1786133188",
-    "tags": [
-      "RPG",
-      "Simulation",
-      "Farming Sim",
-      "2D Platformer",
-      "Pixel Graphics",
-      "Building",
-      "Cooking",
-      "Crafting",
-      "Relaxing",
-      "Base Building",
-      "Combat",
-      "Resource Management",
-      "Singleplayer",
-      "2D",
-      "Farming"
-    ],
-    "developer": "Ben Olney",
-    "release_date": "Aug 7, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/5005710/113159569/669993d22b5f9b5bdc87659b81d062db53a4b8b5/1785352528/hls_264_master.m3u8?t=1785560634",
-    "indexed_at": "2026-08-07T20:30:35Z"
   }
 ]
