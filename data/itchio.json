@@ -1,5 +1,633 @@
 [
   {
+    "id": "https://laserstudios.itch.io/abyssballthe-ascent-to-666",
+    "source": "itchio",
+    "title": "ABYSSBALL:the ascent to 666 [Free] [Survival] [Windows]",
+    "description": "It&#039;s pong in a circle of hell where you will survive until the 666 level(if you can :) )",
+    "url": "https://laserstudios.itch.io/abyssballthe-ascent-to-666",
+    "image": "https://img.itch.zone/aW1nLzI5NDI4OTk1LnBuZw==/315x250%23c/4H%2BBs7.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 01:53:44 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-22T03:14:59Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/chain-pull",
+    "source": "itchio",
+    "title": "Chain Pull: Arcade Challenge [Free]",
+    "description": "Link the elements and trigger satisfying chain reactions across the board.",
+    "url": "https://hedrosgames.itch.io/chain-pull",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5MDM3LnBuZw==/315x250%23c/t%2BDCBy.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:13:17 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:14:55Z"
+  },
+  {
+    "id": "https://sunspear-software-llc.itch.io/underground-bunker-survival",
+    "source": "itchio",
+    "title": "Underground: Bunker Survival [Free] [Simulation]",
+    "description": "",
+    "url": "https://sunspear-software-llc.itch.io/underground-bunker-survival",
+    "image": "https://img.itch.zone/aW1nLzI5NDI4OTYxLnBuZw==/315x250%23c/fKKL9Y.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:21:40 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T03:14:49Z"
+  },
+  {
+    "id": "https://mixonat.itch.io/the-unfamiliars",
+    "source": "itchio",
+    "title": "The Unfamiliars [$4.99] [Other] [Windows]",
+    "description": "A rainy night, unfamiliar figures outside your mobile home and the growing feeling that something is terribly wrong.",
+    "url": "https://mixonat.itch.io/the-unfamiliars",
+    "image": "https://img.itch.zone/aW1nLzI5NDI4NTMwLnBuZw==/315x250%23c/BQeX5m.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 01:48:39 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-22T03:14:46Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/charge-burst",
+    "source": "itchio",
+    "title": "Charge Burst: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/charge-burst",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5MDY1LnBuZw==/315x250%23c/ryAMI3.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:13:20 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:14:42Z"
+  },
+  {
+    "id": "https://kaleidox.itch.io/cake-or-dead",
+    "source": "itchio",
+    "title": "Cake Or Dead [Prototype] [Free] [Visual Novel] [Windows] [Linux]",
+    "description": "A psychological horror game jame VN",
+    "url": "https://kaleidox.itch.io/cake-or-dead",
+    "image": "https://img.itch.zone/aW1nLzI5NDI4OTAzLnBuZw==/315x250%23c/k9V%2F%2Fn.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 01:54:02 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "indexed_at": "2026-08-22T03:14:39Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/chimney-sweep",
+    "source": "itchio",
+    "title": "Chimney Sweep: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/chimney-sweep",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5MDg3LnBuZw==/315x250%23c/iGC8b8.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:13:23 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:14:33Z"
+  },
+  {
+    "id": "https://mysticatmewo.itch.io/gnome-fishin",
+    "source": "itchio",
+    "title": "Gnome Fishin' [Free] [Strategy]",
+    "description": "Our First GameJam Game Ever!",
+    "url": "https://mysticatmewo.itch.io/gnome-fishin",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5MTMxLnBuZw==/315x250%23c/7MCmP3.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:01:24 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:14:29Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/chisel-mortise",
+    "source": "itchio",
+    "title": "Chisel Mortise: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/chisel-mortise",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5MTIyLnBuZw==/315x250%23c/0eCx%2FU.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:13:27 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:14:25Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/clay-wheel",
+    "source": "itchio",
+    "title": "Clay Wheel: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/clay-wheel",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5MTQ4LnBuZw==/315x250%23c/9IzvQy.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:13:31 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:14:22Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/clock-shift",
+    "source": "itchio",
+    "title": "Clock Shift: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/clock-shift",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5MTY5LnBuZw==/315x250%23c/n1BgIi.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:13:35 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:14:16Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/clock-spring",
+    "source": "itchio",
+    "title": "Clock Spring: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/clock-spring",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5MTk1LnBuZw==/315x250%23c/7voB73.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:13:38 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:14:12Z"
+  },
+  {
+    "id": "https://snowyfoxphantom.itch.io/farbetin-coloring-book-full-version",
+    "source": "itchio",
+    "title": "Farbetin - Coloring Book App (full version) [$5.00] [Other] [Windows] [Linux]",
+    "description": "Coloring Book App",
+    "url": "https://snowyfoxphantom.itch.io/farbetin-coloring-book-full-version",
+    "image": "https://img.itch.zone/aW1nLzI5NDI4NDY2LnBuZw==/315x250%23c/HB7xOF.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:10:40 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "indexed_at": "2026-08-22T03:14:09Z"
+  },
+  {
+    "id": "https://lochi-makes-games.itch.io/jammed",
+    "source": "itchio",
+    "title": "Jammed [Free] [Adventure]",
+    "description": "A short drone escape room.",
+    "url": "https://lochi-makes-games.itch.io/jammed",
+    "image": "https://img.itch.zone/aW1nLzI5NDE3MjQ3LnBuZw==/315x250%23c/Ofpn5V.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 21 Aug 2026 13:49:16 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:14:03Z"
+  },
+  {
+    "id": "https://ockills.itch.io/geometry-arena",
+    "source": "itchio",
+    "title": "Geometry Arena [Free] [Action]",
+    "description": "Twin Stick Shooter",
+    "url": "https://ockills.itch.io/geometry-arena",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5MjAyLnBuZw==/315x250%23c/qAZrqi.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:14:40 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:13:59Z"
+  },
+  {
+    "id": "https://solosource.itch.io/whispering-dark-demo",
+    "source": "itchio",
+    "title": "Whispering Dark (Demo) [Free] [Simulation]",
+    "description": "Horror game",
+    "url": "https://solosource.itch.io/whispering-dark-demo",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5MzI5LnBuZw==/315x250%23c/O479i0.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:33:36 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:13:55Z"
+  },
+  {
+    "id": "https://cardboardtagreal.itch.io/what-how-was-your-day",
+    "source": "itchio",
+    "title": "What how was your day [Free] [Windows]",
+    "description": "joke game",
+    "url": "https://cardboardtagreal.itch.io/what-how-was-your-day",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5MjYzLnBuZw==/315x250%23c/fD%2FRbL.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:36:14 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-22T03:13:51Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/clockwork-key",
+    "source": "itchio",
+    "title": "Clockwork Key: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/clockwork-key",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5Mzg4LnBuZw==/315x250%23c/d8PxGJ.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:37:42 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:13:46Z"
+  },
+  {
+    "id": "https://celsowm.itch.io/megaldoom",
+    "source": "itchio",
+    "title": "MegaLDOOM [Free] [Shooter]",
+    "description": "a (low definition) port of DOOM to Mega Drive/Sega Genesis",
+    "url": "https://celsowm.itch.io/megaldoom",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5MzkwLnBuZw==/315x250%23c/6g9fEs.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:27:46 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T03:13:42Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/cloud-sweeper",
+    "source": "itchio",
+    "title": "Cloud Sweeper: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/cloud-sweeper",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5NDIwLnBuZw==/315x250%23c/8NtjHk.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:38:08 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:13:38Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/cobble-lay",
+    "source": "itchio",
+    "title": "Cobble Lay: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/cobble-lay",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5NDUwLnBuZw==/315x250%23c/6pkilV.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:38:26 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:13:34Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/coin-pusher",
+    "source": "itchio",
+    "title": "Coin Pusher: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/coin-pusher",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5NDc0LnBuZw==/315x250%23c/Tr2LCr.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:38:47 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:13:30Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/coin-stack",
+    "source": "itchio",
+    "title": "Coin Stack: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/coin-stack",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5NTIwLnBuZw==/315x250%23c/klFkNx.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:41:03 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:13:26Z"
+  },
+  {
+    "id": "https://engi-ee.itch.io/the-ichor",
+    "source": "itchio",
+    "title": "The Ichor [Free] [Visual Novel] [Windows]",
+    "description": "See the other side of humanity, infected but still human.",
+    "url": "https://engi-ee.itch.io/the-ichor",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5NTk3LnBuZw==/315x250%23c/QXX7Q%2F.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:49:09 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-22T03:13:22Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/color-fuse",
+    "source": "itchio",
+    "title": "Color Fuse: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/color-fuse",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5NTQ4LnBuZw==/315x250%23c/BA2Yz1.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:41:38 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:13:18Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/color-leak",
+    "source": "itchio",
+    "title": "Color Leak: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/color-leak",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5NTc0LnBuZw==/315x250%23c/9MihD1.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:42:07 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:13:14Z"
+  },
+  {
+    "id": "https://crawpy-creely.itch.io/broke-ass-wizard",
+    "source": "itchio",
+    "title": "Broke A$$ Wizard [Free]",
+    "description": "Solo Rules for your Favourite Game about Spelling and Spending",
+    "url": "https://crawpy-creely.itch.io/broke-ass-wizard",
+    "image": "https://img.itch.zone/aW1nLzI5NDExODYzLmpwZw==/315x250%23c/QpJfk1.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 21 Aug 2026 07:46:52 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T03:13:10Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/cork-pop",
+    "source": "itchio",
+    "title": "Cork Pop: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/cork-pop",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5NjA4LnBuZw==/315x250%23c/MRPNUG.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:42:37 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:13:07Z"
+  },
+  {
+    "id": "https://bambiraptor9.itch.io/sonic-world-dating-adventure",
+    "source": "itchio",
+    "title": "Sonic World Dating Adventure [Free] [Visual Novel] [Windows] [macOS] [Linux]",
+    "description": "",
+    "url": "https://bambiraptor9.itch.io/sonic-world-dating-adventure",
+    "image": "https://img.itch.zone/aW1nLzI5NDEwNzQ3LnBuZw==/315x250%23c/fP0g23.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 21 Aug 2026 06:04:51 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows",
+      "osx",
+      "linux"
+    ],
+    "indexed_at": "2026-08-22T03:13:03Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/crane-drop",
+    "source": "itchio",
+    "title": "Crane Drop: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/crane-drop",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5NjM0LnBuZw==/315x250%23c/Ju9NLb.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:43:42 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:12:59Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/crowd-filter",
+    "source": "itchio",
+    "title": "Crowd Filter: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/crowd-filter",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5NjYyLnBuZw==/315x250%23c/qwCHTE.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:44:05 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:12:56Z"
+  },
+  {
+    "id": "https://heavenlybeam.itch.io/stickycup",
+    "source": "itchio",
+    "title": "StickyCup [Free] [Sports]",
+    "description": "A fun, casual, and catchy browser Arcade game! Master the stickiness and conquer the challenges.",
+    "url": "https://heavenlybeam.itch.io/stickycup",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5NjgzLmpwZw==/315x250%23c/YS64P5.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:20:54 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T03:12:51Z"
+  },
+  {
+    "id": "https://artelive.itch.io/test-nivel-5-de-umi",
+    "source": "itchio",
+    "title": "test nivel 6 de Umi [Free] [Windows]",
+    "description": "",
+    "url": "https://artelive.itch.io/test-nivel-5-de-umi",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5NDIzLnBuZw==/315x250%23c/nS1jOF.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:49:16 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-22T03:12:47Z"
+  },
+  {
+    "id": "https://innovate-industries.itch.io/nightfall-original",
+    "source": "itchio",
+    "title": "NIGHTFALL ORIGINAL [Free] [Other] [Windows]",
+    "description": "",
+    "url": "https://innovate-industries.itch.io/nightfall-original",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5Njc0LnBuZw==/315x250%23c/%2BAsc9j.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:45:50 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-22T03:12:43Z"
+  },
+  {
+    "id": "https://timeline-games.itch.io/the-crooked-crossbow-inn",
+    "source": "itchio",
+    "title": "The Crooked Crossbow Inn [Free] [Simulation] [Windows]",
+    "description": "Demo for a larger project and testing out",
+    "url": "https://timeline-games.itch.io/the-crooked-crossbow-inn",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5NjEwLnBuZw==/315x250%23c/fPPlAy.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 02:57:12 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-22T03:12:40Z"
+  },
+  {
     "id": "https://hedrosgames.itch.io/bouncy-post",
     "source": "itchio",
     "title": "Bouncy Post: Arcade Challenge [Free]",
@@ -56181,289 +56809,5 @@
       "html"
     ],
     "indexed_at": "2026-08-15T04:01:16Z"
-  },
-  {
-    "id": "https://odd-moose.itch.io/dnf-did-not-find",
-    "source": "itchio",
-    "title": "DNF (DID NOT FIND) [Free] [Other]",
-    "description": "",
-    "url": "https://odd-moose.itch.io/dnf-did-not-find",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyMjgxLnBuZw==/315x250%23c/wLUQjC.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 01:25:59 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T03:10:56Z"
-  },
-  {
-    "id": "https://cold-porch-games.itch.io/misbuilt",
-    "source": "itchio",
-    "title": "MISBUILT [Free] [Action]",
-    "description": "",
-    "url": "https://cold-porch-games.itch.io/misbuilt",
-    "image": "https://img.itch.zone/aW1nLzI5MjgxNjM0LnBuZw==/315x250%23c/nW84xh.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 01:12:31 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-08-15T03:10:52Z"
-  },
-  {
-    "id": "https://grey-sky-interactive.itch.io/psx-texture-library-sand-and-water",
-    "source": "itchio",
-    "title": "PSX Texture Library - Sand and Water [Free]",
-    "description": "",
-    "url": "https://grey-sky-interactive.itch.io/psx-texture-library-sand-and-water",
-    "image": "https://img.itch.zone/aW1nLzI5MjgxNzUzLnBuZw==/315x250%23c/0eO%2FV2.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:12:17 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T03:10:48Z"
-  },
-  {
-    "id": "https://kimera-alter.itch.io/dominongo",
-    "source": "itchio",
-    "title": "Dominongo [Free] [Card Game]",
-    "description": "",
-    "url": "https://kimera-alter.itch.io/dominongo",
-    "image": "https://img.itch.zone/aW1nLzI5Mjc3NzIzLnBuZw==/315x250%23c/e9uyRR.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Mon, 10 Aug 2026 22:17:07 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T03:10:44Z"
-  },
-  {
-    "id": "https://mat3ogames.itch.io/necros-diner",
-    "source": "itchio",
-    "title": "𝕹𝖊𝖈𝖗𝖔'𝖘 𝕯𝖎𝖓𝖊𝖗 (Early Access) [Free] [Survival] [Windows] [macOS] [Linux] [Android]",
-    "description": "Work At The Fun Family Diner! Until You Find Out That 𝕹𝖊𝖈𝖗𝖔 𝕴𝖘 𝕳𝖚𝖓𝖌𝖗𝖞...",
-    "url": "https://mat3ogames.itch.io/necros-diner",
-    "image": "https://img.itch.zone/aW1nLzI5MjgxNzgwLnBuZw==/315x250%23c/lPV8BG.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:09:12 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows",
-      "osx",
-      "linux",
-      "android"
-    ],
-    "indexed_at": "2026-08-15T03:10:40Z"
-  },
-  {
-    "id": "https://aaronchamp121107.itch.io/sprunki-phase-3-the-truth",
-    "source": "itchio",
-    "title": "Sprunki - Phase 3 the truth. [Free] [Simulation]",
-    "description": "",
-    "url": "https://aaronchamp121107.itch.io/sprunki-phase-3-the-truth",
-    "image": "https://img.itch.zone/aW1nLzI5MjgxODk1LnBuZw==/315x250%23c/hb4OkV.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:24:05 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-08-15T03:10:37Z"
-  },
-  {
-    "id": "https://zapidgames.itch.io/loaf-clicker-warning-addicitive",
-    "source": "itchio",
-    "title": "LOAF CLICKER (Warning: Addicitive) [Free] [Puzzle]",
-    "description": "",
-    "url": "https://zapidgames.itch.io/loaf-clicker-warning-addicitive",
-    "image": "https://img.itch.zone/aW1nLzI5MjgxOTMwLnBuZw==/315x250%23c/5%2FqIjs.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:28:56 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T03:10:33Z"
-  },
-  {
-    "id": "https://blaize1919.itch.io/test",
-    "source": "itchio",
-    "title": "test [Free]",
-    "description": "",
-    "url": "https://blaize1919.itch.io/test",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyMDMyLnBuZw==/315x250%23c/2uafKl.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:38:57 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T03:10:29Z"
-  },
-  {
-    "id": "https://exiorilis.itch.io/rolling-ball",
-    "source": "itchio",
-    "title": "Rolling Ball [Free] [Adventure]",
-    "description": "My First Ever Game. P.S. it sucks so bad",
-    "url": "https://exiorilis.itch.io/rolling-ball",
-    "image": "https://img.itch.zone/aW1nLzI5MjgxODcxLnBuZw==/315x250%23c/hHJPmR.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:39:06 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T03:10:25Z"
-  },
-  {
-    "id": "https://piranhacodes.itch.io/terror-of-the-discovery",
-    "source": "itchio",
-    "title": "Terror of The Discovery! [Free] [Interactive Fiction]",
-    "description": "What if we found something we shouldn&#039;t?",
-    "url": "https://piranhacodes.itch.io/terror-of-the-discovery",
-    "image": "https://img.itch.zone/aW1nLzI5MjgxOTAxLnBuZw==/315x250%23c/GX4TbX.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:30:01 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T03:10:22Z"
-  },
-  {
-    "id": "https://34as.itch.io/minitale",
-    "source": "itchio",
-    "title": "Minitale(based on Minicraft) [Free] [Survival]",
-    "description": "",
-    "url": "https://34as.itch.io/minitale",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyMTU5LnBuZw==/315x250%23c/XQ7TgC.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:51:00 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-08-15T03:10:18Z"
-  },
-  {
-    "id": "https://bouncervr.itch.io/apple-pursuitv1",
-    "source": "itchio",
-    "title": "Apple Pursuit V1 [Free]",
-    "description": "",
-    "url": "https://bouncervr.itch.io/apple-pursuitv1",
-    "image": "https://img.itch.zone/aW1nLzI5MjgwMDI4LmpwZw==/315x250%23c/0KuSPU.jpg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Fri, 14 Aug 2026 23:58:30 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-08-15T03:10:13Z"
-  },
-  {
-    "id": "https://temepst-666.itch.io/merge-to-jetragon",
-    "source": "itchio",
-    "title": "Merge to Jetragon [Free] [Puzzle]",
-    "description": "Launch, collide, and merge Pals across ten vibrant island biomes.",
-    "url": "https://temepst-666.itch.io/merge-to-jetragon",
-    "image": "https://img.itch.zone/aW1nLzI5MjgxOTcwLnBuZw==/315x250%23c/GKnuv%2B.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:26:02 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T03:10:10Z"
-  },
-  {
-    "id": "https://sousagab.itch.io/cas-117-project-2",
-    "source": "itchio",
-    "title": "CAS 117 Project 2 [Free] [Windows] [macOS]",
-    "description": "",
-    "url": "https://sousagab.itch.io/cas-117-project-2",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyMTgxLnBuZw==/315x250%23c/eX4MWL.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:52:32 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows",
-      "osx"
-    ],
-    "indexed_at": "2026-08-15T03:10:06Z"
-  },
-  {
-    "id": "https://darknessdev.itch.io/la-gallina-feliz-peppa",
-    "source": "itchio",
-    "title": "La Gallina Feliz Peppa [Free] [Windows]",
-    "description": "",
-    "url": "https://darknessdev.itch.io/la-gallina-feliz-peppa",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyMDcyLnBuZw==/315x250%23c/0aXfhF.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:44:04 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows"
-    ],
-    "indexed_at": "2026-08-15T03:10:02Z"
-  },
-  {
-    "id": "https://xavipit.itch.io/oomph",
-    "source": "itchio",
-    "title": "OOMPH! [Free] [Platformer]",
-    "description": "\"A visceral jump into the caves\" simulator",
-    "url": "https://xavipit.itch.io/oomph",
-    "image": "https://img.itch.zone/aW1nLzI5Mjc5ODY0LnBuZw==/315x250%23c/XvIVUG.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 01:56:22 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T03:09:58Z"
   }
 ]
