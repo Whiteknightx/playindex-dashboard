@@ -1,5 +1,614 @@
 [
   {
+    "id": "https://hedrosgames.itch.io/gild-leaf",
+    "source": "itchio",
+    "title": "Gild Leaf: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/gild-leaf",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNjgxLnBuZw==/315x250%23c/avTXn0.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:16:58 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:59:14Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/glass-blown",
+    "source": "itchio",
+    "title": "Glass Blown: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/glass-blown",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNjk3LnBuZw==/315x250%23c/e4Gfvk.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:17:02 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:59:10Z"
+  },
+  {
+    "id": "https://mixonat.itch.io/mitnal",
+    "source": "itchio",
+    "title": "MITNAL [$3.99] [Other] [Windows]",
+    "description": "Mayan Ruin Horror",
+    "url": "https://mixonat.itch.io/mitnal",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5ODEzLnBuZw==/315x250%23c/Dsz4yd.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 03:26:21 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-22T04:59:06Z"
+  },
+  {
+    "id": "https://lanmans.itch.io/fainting-goat-of-destiny",
+    "source": "itchio",
+    "title": "Fainting Goat of Destiny [Free] [Action]",
+    "description": "A really fun chase game where a fainting goat is trying to run away from a farm dog.",
+    "url": "https://lanmans.itch.io/fainting-goat-of-destiny",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNjk5LmpwZw==/315x250%23c/0ibUHI.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:09:28 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:59:03Z"
+  },
+  {
+    "id": "https://szlaboptatacticpes.itch.io/tattica-opta-spagna-luis-enrique",
+    "source": "itchio",
+    "title": "TATTICA OPTA SPAGNA LUIS ENRIQUE [$23.74] [Sports]",
+    "description": "Creatore di tattiche realistiche per PES 2020/21 tramite lo studio dei dati opta.",
+    "url": "https://szlaboptatacticpes.itch.io/tattica-opta-spagna-luis-enrique",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNzA2LmpwZw==/315x250%23c/nBigX%2F.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:25:50 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T04:58:59Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/gold-pan",
+    "source": "itchio",
+    "title": "Gold Pan: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/gold-pan",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNzE4LnBuZw==/315x250%23c/WdAbtg.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:17:06 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:58:55Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/grain-sieve",
+    "source": "itchio",
+    "title": "Grain Sieve: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/grain-sieve",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNzMxLnBuZw==/315x250%23c/Uocogy.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:17:10 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:58:51Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/gravity-dodge",
+    "source": "itchio",
+    "title": "Gravity Dodge: Arcade Challenge [Free]",
+    "description": "Dodge, weave and survive against relentless hazards in this fast arcade test of reflexes.",
+    "url": "https://hedrosgames.itch.io/gravity-dodge",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNzQ3LnBuZw==/315x250%23c/QMvIt6.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:17:14 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:58:46Z"
+  },
+  {
+    "id": "https://szlaboptatacticpes.itch.io/tattica-opta-leicester-ranieri",
+    "source": "itchio",
+    "title": "TATTICA OPTA LEICESTER RANIERI [$23.74] [Sports]",
+    "description": "Creatore di tattiche realistiche per PES 2020/21 tramite lo studio dei dati opta.",
+    "url": "https://szlaboptatacticpes.itch.io/tattica-opta-leicester-ranieri",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNzQyLmpwZw==/315x250%23c/r4Tjxp.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:29:02 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T04:58:43Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/gravity-flip",
+    "source": "itchio",
+    "title": "Gravity Flip: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/gravity-flip",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNzY1LnBuZw==/315x250%23c/vAom5D.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:17:18 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:58:39Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/gravity-well-pull",
+    "source": "itchio",
+    "title": "Gravity Well Pull: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/gravity-well-pull",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNzkxLnBuZw==/315x250%23c/qeMp1l.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:17:22 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:58:36Z"
+  },
+  {
+    "id": "https://szlaboptatacticpes.itch.io/tattica-opta-chelsea-mourinho",
+    "source": "itchio",
+    "title": "TATTICA OPTA CHELSEA MOURINHO [$23.74] [Sports]",
+    "description": "Creatore di tattiche realistiche per PES 2020/21 tramite lo studio dei dati opta.",
+    "url": "https://szlaboptatacticpes.itch.io/tattica-opta-chelsea-mourinho",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNzkzLmpwZw==/315x250%23c/GbZty%2B.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:32:25 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T04:58:32Z"
+  },
+  {
+    "id": "https://threealdi.itch.io/divided-by-times-three",
+    "source": "itchio",
+    "title": "DIVIDED BY TIMES THREE [Free] [Other] [Windows]",
+    "description": "times threes brother",
+    "url": "https://threealdi.itch.io/divided-by-times-three",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNzY3LnBuZw==/315x250%23c/7Y2k0N.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:31:46 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-22T04:58:29Z"
+  },
+  {
+    "id": "https://monseorbu.itch.io/solo-otro-juego-ms-de-plataformas",
+    "source": "itchio",
+    "title": "Solo otro juego más de plataformas [Free] [Adventure]",
+    "description": "Plataformas",
+    "url": "https://monseorbu.itch.io/solo-otro-juego-ms-de-plataformas",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNzgwLmpwZw==/315x250%23c/WB06Rk.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:31:48 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:58:25Z"
+  },
+  {
+    "id": "https://szlaboptatacticpes.itch.io/tattica-opta-bayern-monaco-heynckess",
+    "source": "itchio",
+    "title": "TATTICA OPTA BAYERN MONACO HEYNCKESS [$23.74] [Sports]",
+    "description": "Creatore di tattiche realistiche per PES 2020/21 tramite lo studio dei dati opta.",
+    "url": "https://szlaboptatacticpes.itch.io/tattica-opta-bayern-monaco-heynckess",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwODMzLmpwZw==/315x250%23c/8bUtFu.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:35:26 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T04:58:21Z"
+  },
+  {
+    "id": "https://pixvinz.itch.io/pixvinz",
+    "source": "itchio",
+    "title": "PixVinz [Free] [Puzzle]",
+    "description": "",
+    "url": "https://pixvinz.itch.io/pixvinz",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNTg3LnBuZw==/315x250%23c/FoxyQM.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:09:50 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:58:18Z"
+  },
+  {
+    "id": "https://majicraft.itch.io/iron-crown-a-dungeon-crawler-tale",
+    "source": "itchio",
+    "title": "Iron Crown - A dungeon crawler tale. [Free] [Role Playing] [Windows]",
+    "description": "Forge a band of heroes, brave deadly dungeons, and reclaim the realm through turn-based tactical combat and exploration.",
+    "url": "https://majicraft.itch.io/iron-crown-a-dungeon-crawler-tale",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwMzQ1LnBuZw==/315x250%23c/8obfSs.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 03:57:52 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-22T04:58:14Z"
+  },
+  {
+    "id": "https://szlaboptatacticpes.itch.io/tattica-opta-arsenal-wenger",
+    "source": "itchio",
+    "title": "TATTICA OPTA ARSENAL WENGER [$23.74] [Sports]",
+    "description": "Creatore di tattiche realistiche per PES 2020/21 tramite lo studio dei dati opta.",
+    "url": "https://szlaboptatacticpes.itch.io/tattica-opta-arsenal-wenger",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwODg5LmpwZw==/315x250%23c/4%2FMNQ0.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:38:55 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T04:58:11Z"
+  },
+  {
+    "id": "https://jojogamer509.itch.io/corridor-of-dread",
+    "source": "itchio",
+    "title": "Corridor of Dread [Free] [Windows] [macOS] [Linux] [Android]",
+    "description": "",
+    "url": "https://jojogamer509.itch.io/corridor-of-dread",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNjg5LnBuZw==/315x250%23c/TXWUV7.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:25:40 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows",
+      "osx",
+      "linux",
+      "android"
+    ],
+    "indexed_at": "2026-08-22T04:58:07Z"
+  },
+  {
+    "id": "https://idkwhatgdevis44.itch.io/plainrock124-world",
+    "source": "itchio",
+    "title": "Plainrock124 world [Free]",
+    "description": "",
+    "url": "https://idkwhatgdevis44.itch.io/plainrock124-world",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNTA5LnBuZw==/315x250%23c/eH5a2W.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:17:41 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T04:58:03Z"
+  },
+  {
+    "id": "https://szlaboptatacticpes.itch.io/tattica-opta-atletico-madrid-simeone",
+    "source": "itchio",
+    "title": "TATTICA OPTA ATLETICO MADRID SIMEONE [$23.74] [Sports]",
+    "description": "Creatore di tattiche realistiche per PES 2020/21 tramite lo studio dei dati opta.",
+    "url": "https://szlaboptatacticpes.itch.io/tattica-opta-atletico-madrid-simeone",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwOTEzLmpwZw==/315x250%23c/Wg2RmV.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:42:05 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T04:57:59Z"
+  },
+  {
+    "id": "https://szlaboptatacticpes.itch.io/tattica-opta-barcelona-cruyff",
+    "source": "itchio",
+    "title": "TATTICA OPTA BARCELONA CRUYFF [$23.74] [Sports]",
+    "description": "Creatore di tattiche realistiche per PES 2020/21 tramite lo studio dei dati opta.",
+    "url": "https://szlaboptatacticpes.itch.io/tattica-opta-barcelona-cruyff",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwOTI3LmpwZw==/315x250%23c/EXBfBy.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:44:52 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T04:57:56Z"
+  },
+  {
+    "id": "https://savioaraujo.itch.io/farmador-de-aura",
+    "source": "itchio",
+    "title": "Farmador de Aura [Free] [Rhythm] [Windows]",
+    "description": "Jogo de farmar aura",
+    "url": "https://savioaraujo.itch.io/farmador-de-aura",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNjQ1LnBuZw==/315x250%23c/ma6wTA.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:13:48 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-22T04:57:51Z"
+  },
+  {
+    "id": "https://threealdi.itch.io/dih",
+    "source": "itchio",
+    "title": "DIH [Free] [Other] [Windows]",
+    "description": "i dont know what to put here",
+    "url": "https://threealdi.itch.io/dih",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwOTE4LnBuZw==/315x250%23c/xVPSPi.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:43:37 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-22T04:57:47Z"
+  },
+  {
+    "id": "https://szlaboptatacticpes.itch.io/tattica-opta-barcelona-xavi",
+    "source": "itchio",
+    "title": "TATTICA OPTA BARCELONA XAVI [$23.74] [Sports]",
+    "description": "Creatore di tattiche realistiche per PES 2020/21 tramite lo studio dei dati opta.",
+    "url": "https://szlaboptatacticpes.itch.io/tattica-opta-barcelona-xavi",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwOTcxLmpwZw==/315x250%23c/xBQWyf.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:47:45 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T04:57:41Z"
+  },
+  {
+    "id": "https://hamishhillyer.itch.io/industriumx-open-development-builds",
+    "source": "itchio",
+    "title": "Industrium X — Open Development Builds [Free] [Strategy]",
+    "description": "Build machines, automate ores, and grow a pixel-sized factory empire.",
+    "url": "https://hamishhillyer.itch.io/industriumx-open-development-builds",
+    "image": "https://img.itch.zone/aW1nLzI5NDI5ODgxLnBuZw==/315x250%23c/bejFzA.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 03:24:26 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:57:38Z"
+  },
+  {
+    "id": "https://szlaboptatacticpes.itch.io/tattica-opta-brasil-1970-zagallo",
+    "source": "itchio",
+    "title": "TATTICA OPTA BRASIL 1970 ZAGALLO [$23.74] [Sports]",
+    "description": "Creatore di tattiche realistiche per PES 2020/21 tramite lo studio dei dati opta.",
+    "url": "https://szlaboptatacticpes.itch.io/tattica-opta-brasil-1970-zagallo",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwOTk3LmpwZw==/315x250%23c/A2jUZp.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:50:32 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T04:57:34Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/greedy-multiplier",
+    "source": "itchio",
+    "title": "Greedy Multiplier: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/greedy-multiplier",
+    "image": "https://img.itch.zone/aW1nLzI5NDMxMDEyLnBuZw==/315x250%23c/mRnrOk.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:42:22 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:57:31Z"
+  },
+  {
+    "id": "https://gabo311.itch.io/novatale-demo",
+    "source": "itchio",
+    "title": "NOVATALE DEMO [Free] [Fighting]",
+    "description": "Novalight Undertale Fangame",
+    "url": "https://gabo311.itch.io/novatale-demo",
+    "image": "https://img.itch.zone/aW1nLzI5NDMwNzQzLnBuZw==/315x250%23c/PPr5E3.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:29:32 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:57:27Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/harness-buckle",
+    "source": "itchio",
+    "title": "Harness Buckle: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/harness-buckle",
+    "image": "https://img.itch.zone/aW1nLzI5NDMxMDMyLnBuZw==/315x250%23c/Jex4kj.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:42:55 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:57:23Z"
+  },
+  {
+    "id": "https://szlaboptatacticpes.itch.io/tattica-opta-bvb-klopp",
+    "source": "itchio",
+    "title": "TATTICA OPTA BVB KLOPP [$23.74] [Sports]",
+    "description": "Creatore di tattiche realistiche per PES 2020/21 tramite lo studio dei dati opta.",
+    "url": "https://szlaboptatacticpes.itch.io/tattica-opta-bvb-klopp",
+    "image": "https://img.itch.zone/aW1nLzI5NDMxMDQ5LmpwZw==/315x250%23c/469IhQ.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:53:59 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T04:57:20Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/hedge-clip",
+    "source": "itchio",
+    "title": "Hedge Clip: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/hedge-clip",
+    "image": "https://img.itch.zone/aW1nLzI5NDMxMDU4LnBuZw==/315x250%23c/NHJ%2B%2B1.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:43:24 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:57:16Z"
+  },
+  {
+    "id": "https://gabz-6666.itch.io/enigma-das-eras",
+    "source": "itchio",
+    "title": "Enigma das Eras [Free] [Educational]",
+    "description": "Um jogo para auxiliar no ensino de historia",
+    "url": "https://gabz-6666.itch.io/enigma-das-eras",
+    "image": "https://img.itch.zone/aW1nLzI5NDMxMDE3LnBuZw==/315x250%23c/G1XKfV.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:41:22 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:57:13Z"
+  },
+  {
+    "id": "https://idkwhatgdevis44.itch.io/plainrock124-world-pro-edition",
+    "source": "itchio",
+    "title": "Plainrock124 World Pro Edition [Free]",
+    "description": "",
+    "url": "https://idkwhatgdevis44.itch.io/plainrock124-world-pro-edition",
+    "image": "https://img.itch.zone/aW1nLzI5NDMxMDEwLnBuZw==/315x250%23c/3FGEoQ.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:54:00 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-08-22T04:57:09Z"
+  },
+  {
+    "id": "https://hedrosgames.itch.io/hexa-slide",
+    "source": "itchio",
+    "title": "Hexa Slide: Arcade Challenge [Free]",
+    "description": "A bite-sized arcade challenge with instant play, tight controls and pure score-chasing flow.",
+    "url": "https://hedrosgames.itch.io/hexa-slide",
+    "image": "https://img.itch.zone/aW1nLzI5NDMxMDcyLnBuZw==/315x250%23c/sEaM06.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Sat, 22 Aug 2026 04:44:25 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-22T04:57:06Z"
+  },
+  {
     "id": "https://teamboitar.itch.io/bucket-head",
     "source": "itchio",
     "title": "Bucket Head [Free] [Puzzle] [Windows] [Linux]",
@@ -56770,437 +57379,5 @@
       "android"
     ],
     "indexed_at": "2026-08-15T05:17:24Z"
-  },
-  {
-    "id": "https://slkwgames.itch.io/simply-sandbox",
-    "source": "itchio",
-    "title": "Simply Sandbox [PRE-ALPHA] [Free] [Simulation]",
-    "description": "",
-    "url": "https://slkwgames.itch.io/simply-sandbox",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyOTQ2LnBuZw==/315x250%23c/uACjOm.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:52:24 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-08-15T04:56:08Z"
-  },
-  {
-    "id": "https://master-linkuei.itch.io/tetris-system-e",
-    "source": "itchio",
-    "title": "Tetris (System E) For the SEGA Master System [Free] [Puzzle] [Windows] [macOS] [Linux] [Android]",
-    "description": "For the SEGA Master System & SEGA Mark III",
-    "url": "https://master-linkuei.itch.io/tetris-system-e",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyODIwLnBuZw==/315x250%23c/oo16E%2F.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 03:42:23 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows",
-      "osx",
-      "linux",
-      "android"
-    ],
-    "indexed_at": "2026-08-15T04:56:04Z"
-  },
-  {
-    "id": "https://noor12321.itch.io/farfromhome",
-    "source": "itchio",
-    "title": "Far From Home [Free] [Shooter]",
-    "description": "A desperate airship journey through a war-torn sky. Keep five wounded soldiers alive and fly as far as you can.",
-    "url": "https://noor12321.itch.io/farfromhome",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyNDEwLmpwZw==/315x250%23c/K%2BGXho.jpg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 03:16:52 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-08-15T04:55:59Z"
-  },
-  {
-    "id": "https://navjeet-29.itch.io/ball-shot",
-    "source": "itchio",
-    "title": "Ball Shot [Free] [Sports] [Windows] [macOS]",
-    "description": "#BallShot #Ball #Shot #BasketBall #Sport #Scratch #2D #Indie #PixelArt #SinglePlayer",
-    "url": "https://navjeet-29.itch.io/ball-shot",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyNzgzLnBuZw==/315x250%23c/ZC7w4T.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 03:52:04 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows",
-      "osx"
-    ],
-    "indexed_at": "2026-08-15T04:55:55Z"
-  },
-  {
-    "id": "https://tabletop-substrate.itch.io/shithammer-41000",
-    "source": "itchio",
-    "title": "SLOPGRID 40,000 [Free]",
-    "description": "",
-    "url": "https://tabletop-substrate.itch.io/shithammer-41000",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyODEwLmpwZw==/315x250%23c/9SuDRK.jpg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 03:54:08 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-08-15T04:55:51Z"
-  },
-  {
-    "id": "https://raven-games-studios.itch.io/save-your-friend",
-    "source": "itchio",
-    "title": "save your friend [Free] [Windows] [Linux]",
-    "description": "",
-    "url": "https://raven-games-studios.itch.io/save-your-friend",
-    "image": "https://img.itch.zone/aW1nLzI5MjgzMDE1LnBuZw==/315x250%23c/GM8HMR.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 04:09:49 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows",
-      "linux"
-    ],
-    "indexed_at": "2026-08-15T04:55:44Z"
-  },
-  {
-    "id": "https://zinja12.itch.io/kumo",
-    "source": "itchio",
-    "title": "kumo [Free] [Platformer] [Windows] [macOS] [Linux]",
-    "description": "A penguin learns to fly",
-    "url": "https://zinja12.itch.io/kumo",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyODMzLmdpZg==/original/NSR8d%2F.gif",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 03:54:18 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T04:55:40Z"
-  },
-  {
-    "id": "https://jirohcl.itch.io/weirdshooter",
-    "source": "itchio",
-    "title": "weirdshooter [Free] [Shooter]",
-    "description": "",
-    "url": "https://jirohcl.itch.io/weirdshooter",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyNDkyLnBuZw==/315x250%23c/XlK2ul.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 03:15:44 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T04:55:35Z"
-  },
-  {
-    "id": "https://turg1985.itch.io/deltarune",
-    "source": "itchio",
-    "title": "Deltarune Chapters 1-5 Web Port [Free] [Adventure]",
-    "description": "",
-    "url": "https://turg1985.itch.io/deltarune",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyODc2LnBuZw==/315x250%23c/3qD%2Bu1.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 03:56:41 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T04:55:31Z"
-  },
-  {
-    "id": "https://frogman1312.itch.io/shrinebound",
-    "source": "itchio",
-    "title": "ShrineBound [Free] [Adventure]",
-    "description": "The lanterns went out. Walk the vale anyway. A ten-minute top-down action RPG.",
-    "url": "https://frogman1312.itch.io/shrinebound",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyNTc1LnBuZw==/315x250%23c/VkluL3.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 03:26:39 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T04:55:25Z"
-  },
-  {
-    "id": "https://sprunki-the-creator.itch.io/sprunki-chaosblitz-phase-2",
-    "source": "itchio",
-    "title": "Sprunki chaosblitz phase 2 [Free]",
-    "description": "",
-    "url": "https://sprunki-the-creator.itch.io/sprunki-chaosblitz-phase-2",
-    "image": "https://img.itch.zone/aW1nLzI5MjgzMDI2LnBuZw==/315x250%23c/K31KBu.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 04:07:03 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T04:55:21Z"
-  },
-  {
-    "id": "https://kweepa.itch.io/wolf64",
-    "source": "itchio",
-    "title": "Wolf64 [Free] [Action]",
-    "description": "A port of the classic FPS to the C64",
-    "url": "https://kweepa.itch.io/wolf64",
-    "image": "https://img.itch.zone/aW1nLzI5MjgzMTQxLnBuZw==/315x250%23c/wkIeaR.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 04:07:44 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-08-15T04:55:17Z"
-  },
-  {
-    "id": "https://bagusindrayana.itch.io/random-desil",
-    "source": "itchio",
-    "title": "Random Desil - Slot Simulator [Free] [Simulation]",
-    "description": "slot simulator untuk menentukan desil",
-    "url": "https://bagusindrayana.itch.io/random-desil",
-    "image": "https://img.itch.zone/aW1nLzI5MjgzMTQ1LnBuZw==/315x250%23c/NRUjBQ.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 04:22:37 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T04:55:12Z"
-  },
-  {
-    "id": "https://daivergame.itch.io/race-to-form-squares",
-    "source": "itchio",
-    "title": "race to form squares [Free] [Racing]",
-    "description": "Choose a square and watch it. If you win, a funny emoji will appear",
-    "url": "https://daivergame.itch.io/race-to-form-squares",
-    "image": "https://img.itch.zone/aW1nLzI5MjgzMTI0LmpwZw==/315x250%23c/WaV0HO.jpg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 04:08:38 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T04:55:08Z"
-  },
-  {
-    "id": "https://stephen31.itch.io/catcher-ultimate",
-    "source": "itchio",
-    "title": "Catcher Ultimate [Free] [Action]",
-    "description": "Catch treasures, master powerful equipment, and battle bosses through history in this colourful arcade-action game.",
-    "url": "https://stephen31.itch.io/catcher-ultimate",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyODE1LmpwZw==/315x250%23c/nXBHSm.jpg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:27:00 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T04:55:03Z"
-  },
-  {
-    "id": "https://noskin556.itch.io/susuros-del-pasado",
-    "source": "itchio",
-    "title": "Susuros del pasado [Free] [Interactive Fiction] [Windows]",
-    "description": "Alfa game",
-    "url": "https://noskin556.itch.io/susuros-del-pasado",
-    "image": "https://img.itch.zone/aW1nLzI5MjgzMDkwLnBuZw==/315x250%23c/FX19CR.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 04:21:01 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows"
-    ],
-    "indexed_at": "2026-08-15T04:54:59Z"
-  },
-  {
-    "id": "https://christmaskev.itch.io/catww",
-    "source": "itchio",
-    "title": "catww [Free] [Windows]",
-    "description": "A one-key cooking game. Chop, stir, fry and serve, and keep the generator alive.",
-    "url": "https://christmaskev.itch.io/catww",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyNzkyLnBuZw==/315x250%23c/Q67COu.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 03:42:17 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T04:54:55Z"
-  },
-  {
-    "id": "https://kevthedinosaurman.itch.io/shoot-gam-z",
-    "source": "itchio",
-    "title": "Shoot Gam Z [Free] [Windows] [macOS] [Linux] [Android]",
-    "description": "This is the Beauty Of Annihilation",
-    "url": "https://kevthedinosaurman.itch.io/shoot-gam-z",
-    "image": "https://img.itch.zone/aW1nLzI5MjgzMTE4LnBuZw==/315x250%23c/SfnlW6.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 04:23:03 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows",
-      "osx",
-      "linux",
-      "android"
-    ],
-    "indexed_at": "2026-08-15T04:54:51Z"
-  },
-  {
-    "id": "https://alphahades69.itch.io/deeplight",
-    "source": "itchio",
-    "title": "DeepLight [Free] [Platformer]",
-    "description": "Dive into a flooded ruin, chain the lumens, and carry the light back out. A short precision platformer about movement.",
-    "url": "https://alphahades69.itch.io/deeplight",
-    "image": "https://img.itch.zone/aW1nLzI5MjgxNzU3LnBuZw==/315x250%23c/yfWNRA.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 02:16:26 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T04:54:47Z"
-  },
-  {
-    "id": "https://cerberoscurogames.itch.io/operation-basic-inferno",
-    "source": "itchio",
-    "title": "Operation Basic Inferno [Free] [Shooter]",
-    "description": "It&#039;s 2056 and the machines ruined your life. Time to unplug them, floor by floor.",
-    "url": "https://cerberoscurogames.itch.io/operation-basic-inferno",
-    "image": "https://img.itch.zone/aW1nLzI5MjgyNDk0LnBuZw==/315x250%23c/N2%2Fzea.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 03:12:06 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T04:54:43Z"
-  },
-  {
-    "id": "https://jayblankenship.itch.io/oceanonline",
-    "source": "itchio",
-    "title": "oceanonline [Free]",
-    "description": "onlineocean",
-    "url": "https://jayblankenship.itch.io/oceanonline",
-    "image": "https://img.itch.zone/aW1nLzI5MjgzMjA5LmpwZw==/315x250%23c/LiP1a9.jpg",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 04:27:27 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T04:54:38Z"
-  },
-  {
-    "id": "https://threealdi.itch.io/one-1-uno",
-    "source": "itchio",
-    "title": "ONE 1 UNO [Free] [Other] [Windows]",
-    "description": "lets play uno (the card game)",
-    "url": "https://threealdi.itch.io/one-1-uno",
-    "image": "https://img.itch.zone/aW1nLzI5MjgzMjcwLnBuZw==/315x250%23c/rGNfcg.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 04:36:58 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows"
-    ],
-    "indexed_at": "2026-08-15T04:54:33Z"
-  },
-  {
-    "id": "https://loludeguy.itch.io/cookie-filter-baldi-mod",
-    "source": "itchio",
-    "title": "Cookie Filter Baldi Numberslop Mod [Free] [Other]",
-    "description": "",
-    "url": "https://loludeguy.itch.io/cookie-filter-baldi-mod",
-    "image": "https://img.itch.zone/aW1nLzI5MjgzMzAwLnBuZw==/315x250%23c/a7UFjJ.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 04:40:02 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-15T04:54:29Z"
-  },
-  {
-    "id": "https://meijimilk.itch.io/clashstep",
-    "source": "itchio",
-    "title": "CLASHSTEP [Free] [Strategy] [Windows]",
-    "description": "移動した距離が、そのまま攻撃力。同時選択の1対1デュエル。(日本語/English)",
-    "url": "https://meijimilk.itch.io/clashstep",
-    "image": "https://img.itch.zone/aW1nLzI5MjgzMjkxLnBuZw==/315x250%23c/Bfqn%2Fn.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Sat, 15 Aug 2026 04:19:06 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows"
-    ],
-    "indexed_at": "2026-08-15T04:54:23Z"
   }
 ]
