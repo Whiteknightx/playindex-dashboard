@@ -1,5 +1,36 @@
 [
   {
+    "id": "5102080",
+    "source": "steam",
+    "title": "Space Carrier Zero Demo",
+    "description": "",
+    "url": "https://store.steampowered.com/app/5102080/",
+    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5102080/3b7d66a1b053144efebd350d507aea1a65fc7d01/header.jpg?t=1787422404",
+    "tags": [
+      "Top-Down Shooter",
+      "Action",
+      "Incremental",
+      "Roguelite",
+      "Shooter",
+      "Arcade",
+      "2D",
+      "Top-Down",
+      "Minimalist",
+      "Sci-fi",
+      "Score Attack",
+      "Space",
+      "1980s",
+      "Futuristic",
+      "Combat",
+      "Singleplayer",
+      "Retro"
+    ],
+    "developer": "These Are Serious Games",
+    "release_date": "Aug 22, 2026",
+    "trailer": "https://video.akamai.steamstatic.com/store_trailers/5042310/442355324/d93cac1c2736cfa42fa0ed9abfdbc5c311caab7c/1786313750/hls_264_master.m3u8?t=1787091960",
+    "indexed_at": "2026-08-22T18:15:49Z"
+  },
+  {
     "id": "5030300",
     "source": "steam",
     "title": "Galaxy Adventures 3D Demo",
@@ -25286,33 +25317,5 @@
     "release_date": "Aug 7, 2026",
     "trailer": "https://video.akamai.steamstatic.com/store_trailers/4350340/897630333/bf645e2cfb3653341a83cd3b3090de9d9b7b5023/1779410850/hls_264_master.m3u8?t=1779411666",
     "indexed_at": "2026-08-07T18:40:45Z"
-  },
-  {
-    "id": "5036040",
-    "source": "steam",
-    "title": "Dreadful Defenders Demo",
-    "description": "",
-    "url": "https://store.steampowered.com/app/5036040/",
-    "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036040/28609467d3a4983cc2c765a73034089d329fd7c7/header.jpg?t=1786121625",
-    "tags": [
-      "Tower Defense",
-      "Roguelite",
-      "Strategy",
-      "Procedural Generation",
-      "Singleplayer",
-      "Roguelike",
-      "Top-Down",
-      "Pixel Graphics",
-      "2D",
-      "Building",
-      "Fantasy",
-      "Tactical",
-      "Lovecraftian",
-      "Villain Protagonist"
-    ],
-    "developer": "Erelag Studio",
-    "release_date": "Aug 7, 2026",
-    "trailer": "https://video.akamai.steamstatic.com/store_trailers/3363550/255089238/0848d1c4cd4e97afa067503fd902c92f4459ee93/1779803107/hls_264_master.m3u8?t=1779820391",
-    "indexed_at": "2026-08-07T17:40:53Z"
   }
 ]
