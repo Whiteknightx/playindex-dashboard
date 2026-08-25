@@ -1,5 +1,132 @@
 [
   {
+    "id": "https://taelantbackup.itch.io/a-night-at-dawnstar",
+    "source": "itchio",
+    "title": "A Night at Dawnstar Camp [Free] [Other] [Windows]",
+    "description": "What happens at night stays at night",
+    "url": "https://taelantbackup.itch.io/a-night-at-dawnstar",
+    "image": "https://img.itch.zone/aW1nLzI5NTMxMTYwLnBuZw==/315x250%23c/FwR82f.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 25 Aug 2026 19:29:53 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-08-25T20:18:51Z"
+  },
+  {
+    "id": "https://avoguga.itch.io/woodland-chess",
+    "source": "itchio",
+    "title": "Woodland Chess - Championship Edition [Free] [Simulation]",
+    "description": "​Woodland Chess is a single-player 2D pixel art chess game where you play against a cast of cute animals.",
+    "url": "https://avoguga.itch.io/woodland-chess",
+    "image": "https://img.itch.zone/aW1nLzI5NTI5NDAwLnBuZw==/315x250%23c/u9Vx30.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 21 Aug 2026 21:23:57 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-25T20:18:48Z"
+  },
+  {
+    "id": "https://st-georges.itch.io/gravifyshiftapp",
+    "source": "itchio",
+    "title": "Gravity Shift [Free] [Strategy]",
+    "description": "Neon Coin Game",
+    "url": "https://st-georges.itch.io/gravifyshiftapp",
+    "image": "https://img.itch.zone/aW1nLzI5NTI3MjY2LnBuZw==/315x250%23c/lKNkD9.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 25 Aug 2026 16:07:45 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-25T20:18:44Z"
+  },
+  {
+    "id": "https://squale.itch.io/pouic-and-watch",
+    "source": "itchio",
+    "title": "Pouic and Watch [Free] [Platformer]",
+    "description": "Demake de Pouic en version Game and Watch",
+    "url": "https://squale.itch.io/pouic-and-watch",
+    "image": "https://img.itch.zone/aW1nLzI5NTMxMjY5LnBuZw==/315x250%23c/6RJfXs.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 25 Aug 2026 19:40:24 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-25T20:18:39Z"
+  },
+  {
+    "id": "https://alex-2-1.itch.io/the-bad-duck",
+    "source": "itchio",
+    "title": "The Bad Duck [Free] [Strategy] [Windows] [Linux]",
+    "description": "Find the murderer.",
+    "url": "https://alex-2-1.itch.io/the-bad-duck",
+    "image": "https://img.itch.zone/aW1nLzI5NTMxMzU3LnBuZw==/315x250%23c/yfPXdl.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 25 Aug 2026 19:58:00 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "indexed_at": "2026-08-25T20:18:33Z"
+  },
+  {
+    "id": "https://mooring.itch.io/windpost",
+    "source": "itchio",
+    "title": "WINDPOST [Free] [Racing]",
+    "description": "Read the wind, link ten posts, and shorten your route across fifty storm-driven stages.",
+    "url": "https://mooring.itch.io/windpost",
+    "image": "https://img.itch.zone/aW1nLzI5NTI1MDA3LnBuZw==/315x250%23c/fQqHsb.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 25 Aug 2026 14:04:09 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-25T20:18:30Z"
+  },
+  {
+    "id": "https://chalerik.itch.io/minas-bday",
+    "source": "itchio",
+    "title": "Sister Bday [Free] [Visual Novel]",
+    "description": "This is a short visual novel created by Tuesday JS for my sister.",
+    "url": "https://chalerik.itch.io/minas-bday",
+    "image": "https://img.itch.zone/aW1nLzI5NTMxMDg1LnBuZw==/315x250%23c/4e%2F109.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Tue, 25 Aug 2026 19:42:41 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-08-25T20:18:26Z"
+  },
+  {
     "id": "https://onschedule.itch.io/lost-fragments",
     "source": "itchio",
     "title": "Lost Fragments [Free] [Action] [Windows]",
@@ -79285,183 +79412,5 @@
       "android"
     ],
     "indexed_at": "2026-08-18T20:46:09Z"
-  },
-  {
-    "id": "https://pedzy.itch.io/the-cursed-mask",
-    "source": "itchio",
-    "title": "The Cursed Mask [Free] [Survival] [Windows] [Linux]",
-    "description": "There appears to be a stowaway on the boat...",
-    "url": "https://pedzy.itch.io/the-cursed-mask",
-    "image": "https://img.itch.zone/aW1nLzI5MzYyMjczLnBuZw==/315x250%23c/3I48ib.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Tue, 18 Aug 2026 19:18:19 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-18T20:13:46Z"
-  },
-  {
-    "id": "https://youtube-clxud210.itch.io/big-happy",
-    "source": "itchio",
-    "title": "Big Happy [Free]",
-    "description": "",
-    "url": "https://youtube-clxud210.itch.io/big-happy",
-    "image": "https://img.itch.zone/aW1nLzI5MzYyNzQ3LnBuZw==/315x250%23c/KIMPhh.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Tue, 18 Aug 2026 19:47:07 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-08-18T20:13:43Z"
-  },
-  {
-    "id": "https://kurofox02.itch.io/exam-escapist",
-    "source": "itchio",
-    "title": "Exam Escapist [Free] [Puzzle] [Windows]",
-    "description": "Escape from the Professor.",
-    "url": "https://kurofox02.itch.io/exam-escapist",
-    "image": "https://img.itch.zone/aW1nLzI5MzYyNzc2LnBuZw==/315x250%23c/YecDyp.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Tue, 18 Aug 2026 19:49:13 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows"
-    ],
-    "indexed_at": "2026-08-18T20:13:38Z"
-  },
-  {
-    "id": "https://cheesykirah.itch.io/suvalf",
-    "source": "itchio",
-    "title": "Suvalf [Free] [Windows] [Linux]",
-    "description": "Explore the remnants of a lost civilization in a pitch black cave.",
-    "url": "https://cheesykirah.itch.io/suvalf",
-    "image": "https://img.itch.zone/aW1nLzI5MzYyNTIyLnBuZw==/315x250%23c/80ov%2Ba.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Tue, 18 Aug 2026 01:15:58 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows",
-      "linux"
-    ],
-    "indexed_at": "2026-08-18T20:13:32Z"
-  },
-  {
-    "id": "https://uchtoshi.itch.io/shinobi-jutsu-training",
-    "source": "itchio",
-    "title": "Shinobi jutsu training [Free] [Adventure] [Windows]",
-    "description": "A small playable prototype focused on ninja combat and jutsu systems.",
-    "url": "https://uchtoshi.itch.io/shinobi-jutsu-training",
-    "image": "https://img.itch.zone/aW1nLzI5MzYyNzc1LnBuZw==/315x250%23c/c%2B1Jbq.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Tue, 18 Aug 2026 19:40:12 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows"
-    ],
-    "indexed_at": "2026-08-18T20:13:28Z"
-  },
-  {
-    "id": "https://gjeodev.itch.io/waste-no-time",
-    "source": "itchio",
-    "title": "Waste No Time [Free] [Survival] [Windows]",
-    "description": "",
-    "url": "https://gjeodev.itch.io/waste-no-time",
-    "image": "https://img.itch.zone/aW1nLzI5MzYyNTg1LmdpZg==/original/3Kuv6N.gif",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Tue, 18 Aug 2026 16:35:57 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-18T20:13:22Z"
-  },
-  {
-    "id": "https://duggansc.itch.io/unofficial-fantacode-demo",
-    "source": "itchio",
-    "title": "Unofficial Fantacode Demo [Free] [Action]",
-    "description": "An unofficial demonstration of currently released Fantacode systems",
-    "url": "https://duggansc.itch.io/unofficial-fantacode-demo",
-    "image": "https://img.itch.zone/aW1nLzI5MzYyOTEzLnBuZw==/315x250%23c/li40bj.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Tue, 18 Aug 2026 19:54:55 GMT",
-    "trailer": "",
-    "platforms": [],
-    "indexed_at": "2026-08-18T20:13:18Z"
-  },
-  {
-    "id": "https://utopia-rc.itch.io/play-and-learn-english",
-    "source": "itchio",
-    "title": "Play and Learn: English! [$4.99] [Educational] [Windows] [macOS]",
-    "description": "Speak English to play — a language-learning RPG with real voice recognition.",
-    "url": "https://utopia-rc.itch.io/play-and-learn-english",
-    "image": "https://img.itch.zone/aW1nLzI5MzU3OTA5LnBuZw==/315x250%23c/9KfMxq.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Tue, 18 Aug 2026 13:54:09 GMT",
-    "trailer": "",
-    "platforms": [
-      "windows",
-      "osx"
-    ],
-    "indexed_at": "2026-08-18T20:13:14Z"
-  },
-  {
-    "id": "https://tajik-games.itch.io/green-farm-5",
-    "source": "itchio",
-    "title": "Green Farm 5 [$1.50] [Android]",
-    "description": "Green Farm 5 【V0.0.0.27 - bahodur】 обновление 19.08.2026",
-    "url": "https://tajik-games.itch.io/green-farm-5",
-    "image": "https://img.itch.zone/aW1nLzI5MzYzMDk1LnBuZw==/315x250%23c/3rh9XL.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Tue, 18 Aug 2026 20:01:42 GMT",
-    "trailer": "",
-    "platforms": [
-      "android"
-    ],
-    "indexed_at": "2026-08-18T20:13:11Z"
-  },
-  {
-    "id": "https://novagames-official.itch.io/ashfall-city",
-    "source": "itchio",
-    "title": "Ashfall City [Free] [Action] [Windows] [macOS] [Linux] [Android]",
-    "description": "A first-person zombie survival shooter, built entirely in the browser.",
-    "url": "https://novagames-official.itch.io/ashfall-city",
-    "image": "https://img.itch.zone/aW1nLzI5MzU2ODA0LnBuZw==/315x250%23c/ZMGoPg.png",
-    "tags": [
-      "indie"
-    ],
-    "developer": "",
-    "release_date": "Tue, 18 Aug 2026 19:54:03 GMT",
-    "trailer": "",
-    "platforms": [
-      "html"
-    ],
-    "indexed_at": "2026-08-18T20:13:07Z"
   }
 ]
