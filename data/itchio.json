@@ -1,5 +1,537 @@
 [
   {
+    "id": "https://thisisoaklee.itch.io/the-kat-nine-game-demo",
+    "source": "itchio",
+    "title": "the kat nine game | demo [Free] [Action] [Windows]",
+    "description": "kat nine has entered the oaklee universe!",
+    "url": "https://thisisoaklee.itch.io/the-kat-nine-game-demo",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0NzI2LnBuZw==/315x250%23c/BCj4lM.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Thu, 03 Sep 2026 16:25:05 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-09-04T09:14:34Z"
+  },
+  {
+    "id": "https://baldinumbermodman.itch.io/o-baldi-mod-project",
+    "source": "itchio",
+    "title": "O [Free] [Action]",
+    "description": "O!!!!",
+    "url": "https://baldinumbermodman.itch.io/o-baldi-mod-project",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0NjkxLnBuZw==/315x250%23c/DxEx8R.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 06:26:26 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-09-04T09:14:30Z"
+  },
+  {
+    "id": "https://hazzy4.itch.io/earth-mission",
+    "source": "itchio",
+    "title": "Earth Mission [Free] [Educational] [Windows]",
+    "description": "",
+    "url": "https://hazzy4.itch.io/earth-mission",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0Njk0LnBuZw==/315x250%23c/ef%2FJ4m.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 06:26:39 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-09-04T09:14:26Z"
+  },
+  {
+    "id": "https://sad-sapphic-games.itch.io/the-year-i-wrote-you",
+    "source": "itchio",
+    "title": "The Year I Wrote You [Free] [Platformer]",
+    "description": "A sapphic breakup story told through dreams, memories, and a year of love letters.",
+    "url": "https://sad-sapphic-games.itch.io/the-year-i-wrote-you",
+    "image": "https://img.itch.zone/aW1nLzI5NzUwNTk0LnBuZw==/315x250%23c/dSDDk%2B.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Thu, 03 Sep 2026 23:55:07 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-09-04T09:14:23Z"
+  },
+  {
+    "id": "https://ready64.itch.io/cavern-stalker-commodore-64",
+    "source": "itchio",
+    "title": "CAVERN STALKER commodore 64 [Free] [Adventure]",
+    "description": "Escape the caves before the Cavern Stalker finds you.",
+    "url": "https://ready64.itch.io/cavern-stalker-commodore-64",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0NzUwLnBuZw==/315x250%23c/MOzuWO.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 06:21:08 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-09-04T09:14:17Z"
+  },
+  {
+    "id": "https://ready64.itch.io/cavern-stalker-commodore-128",
+    "source": "itchio",
+    "title": "CAVERN STALKER commodore 128 [Free] [Adventure]",
+    "description": "Escape the caves before the Cavern Stalker finds you.",
+    "url": "https://ready64.itch.io/cavern-stalker-commodore-128",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0NzQ0LnBuZw==/315x250%23c/P1p8J4.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 06:21:18 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-09-04T09:14:13Z"
+  },
+  {
+    "id": "https://ready64.itch.io/cavern-stalker-commodore-vic-20",
+    "source": "itchio",
+    "title": "CAVERN STALKER commodore vic 20 [Free] [Adventure]",
+    "description": "Escape the caves before the Cavern Stalker finds you.",
+    "url": "https://ready64.itch.io/cavern-stalker-commodore-vic-20",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0NzU4LnBuZw==/315x250%23c/zsM7CY.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 06:21:24 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-09-04T09:14:09Z"
+  },
+  {
+    "id": "https://ready64.itch.io/cavern-stalker-amiga-500",
+    "source": "itchio",
+    "title": "CAVERN STALKER amiga 500 [Free] [Adventure]",
+    "description": "Escape the caves before the Cavern Stalker finds you.",
+    "url": "https://ready64.itch.io/cavern-stalker-amiga-500",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0NzYwLnBuZw==/315x250%23c/8UYZ6Z.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 06:21:31 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-09-04T09:14:05Z"
+  },
+  {
+    "id": "https://ready64.itch.io/cavern-stalker-atari-400",
+    "source": "itchio",
+    "title": "CAVERN STALKER atari 400 [Free] [Adventure]",
+    "description": "Escape the caves before the Cavern Stalker finds you.",
+    "url": "https://ready64.itch.io/cavern-stalker-atari-400",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0NzY3LnBuZw==/315x250%23c/X6h4Md.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 06:21:43 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-09-04T09:14:01Z"
+  },
+  {
+    "id": "https://ready64.itch.io/cavern-stalker-atari-800",
+    "source": "itchio",
+    "title": "CAVERN STALKER atari 800 [Free] [Adventure]",
+    "description": "Escape the caves before the Cavern Stalker finds you.",
+    "url": "https://ready64.itch.io/cavern-stalker-atari-800",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0NzcxLnBuZw==/315x250%23c/D7R07k.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 06:21:49 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-09-04T09:13:56Z"
+  },
+  {
+    "id": "https://ready64.itch.io/cavern-stalker-amstrad-464",
+    "source": "itchio",
+    "title": "CAVERN STALKER amstrad 464 [Free] [Adventure]",
+    "description": "Escape the caves before the Cavern Stalker finds you.",
+    "url": "https://ready64.itch.io/cavern-stalker-amstrad-464",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0Nzc1LnBuZw==/315x250%23c/Xd1iPX.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 06:21:55 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-09-04T09:13:52Z"
+  },
+  {
+    "id": "https://ready64.itch.io/cavern-stalker-amstrad-128",
+    "source": "itchio",
+    "title": "CAVERN STALKER amstrad 128 [Free] [Adventure]",
+    "description": "Escape the caves before the Cavern Stalker finds you.",
+    "url": "https://ready64.itch.io/cavern-stalker-amstrad-128",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0Nzc3LnBuZw==/315x250%23c/7O54JM.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 06:22:00 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-09-04T09:13:49Z"
+  },
+  {
+    "id": "https://ready64.itch.io/cavern-stalker-msx-computers",
+    "source": "itchio",
+    "title": "CAVERN STALKER msx computers [Free] [Adventure]",
+    "description": "Escape the caves before the Cavern Stalker finds you.",
+    "url": "https://ready64.itch.io/cavern-stalker-msx-computers",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0Nzc5LnBuZw==/315x250%23c/pXdxbN.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 06:22:06 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-09-04T09:13:45Z"
+  },
+  {
+    "id": "https://ready64.itch.io/cavern-stalker-spectrum-zx",
+    "source": "itchio",
+    "title": "CAVERN STALKER spectrum zx [Free] [Adventure]",
+    "description": "Escape the caves before the Cavern Stalker finds you.",
+    "url": "https://ready64.itch.io/cavern-stalker-spectrum-zx",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0NzYzLnBuZw==/315x250%23c/HPAkD5.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 06:21:37 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-09-04T09:13:40Z"
+  },
+  {
+    "id": "https://poroka.itch.io/the-fish-who-wanted-to-be-food",
+    "source": "itchio",
+    "title": "The Fish Who Wanted To Be Food [Free] [Platformer] [Windows]",
+    "description": "Go the restaurant and become Sushi is this short 2D Platformer!",
+    "url": "https://poroka.itch.io/the-fish-who-wanted-to-be-food",
+    "image": "https://img.itch.zone/aW1nLzI5NzUzNTc3LnBuZw==/315x250%23c/Kmt6rW.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 04:25:41 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-09-04T09:13:35Z"
+  },
+  {
+    "id": "https://fishlex.itch.io/frog-clone-and-the-troubling-door",
+    "source": "itchio",
+    "title": "Frog clone and the troubling door [Free] [Puzzle]",
+    "description": "A puzzle game where the goal is to guide the frog to the ending lily pad.",
+    "url": "https://fishlex.itch.io/frog-clone-and-the-troubling-door",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0NTk3LnBuZw==/315x250%23c/E61opq.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Thu, 03 Sep 2026 19:17:42 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-09-04T09:13:31Z"
+  },
+  {
+    "id": "https://serencel.itch.io/subzero-burrow",
+    "source": "itchio",
+    "title": "Subzero Burrow [Free] [Platformer] [Windows]",
+    "description": "Return to the surface, but beware! There are many dangerous creatures along the way",
+    "url": "https://serencel.itch.io/subzero-burrow",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0OTQ5LnBuZw==/315x250%23c/Izp5LA.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 08:01:49 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-09-04T09:13:27Z"
+  },
+  {
+    "id": "https://softdevelop-ua.itch.io/go-golang-interview-trainer",
+    "source": "itchio",
+    "title": "Go (Golang) Interview Trainer - 512 Junior & Middle Q&A [Free] [Android]",
+    "description": "Pass Go (Golang) & Backend technical interviews with interactive quizzes, concurrency challenges & exams.",
+    "url": "https://softdevelop-ua.itch.io/go-golang-interview-trainer",
+    "image": "https://img.itch.zone/aW1nLzI5NzU1Mjc5LnBuZw==/315x250%23c/3%2BDuN3.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 08:12:14 GMT",
+    "trailer": "",
+    "platforms": [
+      "android"
+    ],
+    "indexed_at": "2026-09-04T09:13:23Z"
+  },
+  {
+    "id": "https://taishol.itch.io/crouchinggikaidassyutu",
+    "source": "itchio",
+    "title": "クラウチング議会脱出 [Free] [Racing]",
+    "description": "税金は俺のもの！議会から脱出して汗をかけ！",
+    "url": "https://taishol.itch.io/crouchinggikaidassyutu",
+    "image": "https://img.itch.zone/aW1nLzI5NzU1MzU5LmdpZg==/original/x2PaDR.gif",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 07:58:44 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-09-04T09:13:18Z"
+  },
+  {
+    "id": "https://sillygames55.itch.io/marshmallows-house-silly-game",
+    "source": "itchio",
+    "title": "Marshmallows house SILLY GAME [Free] [Simulation]",
+    "description": "silly game about taking care of this silly guy",
+    "url": "https://sillygames55.itch.io/marshmallows-house-silly-game",
+    "image": "https://img.itch.zone/aW1nLzI5NzUyNjY4LnBuZw==/315x250%23c/u%2BK4o8.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 02:56:27 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-09-04T09:13:15Z"
+  },
+  {
+    "id": "https://usagi16888.itch.io/king-of-pinball",
+    "source": "itchio",
+    "title": "King Of PinBall [Free] [Action]",
+    "description": "",
+    "url": "https://usagi16888.itch.io/king-of-pinball",
+    "image": "https://img.itch.zone/aW1nLzI5NzU1NDg1LnBuZw==/315x250%23c/UEFNVb.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 08:10:13 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-09-04T09:13:10Z"
+  },
+  {
+    "id": "https://ikinggamedev.itch.io/dr-muntjac",
+    "source": "itchio",
+    "title": "Dr. Muntjac Demo [Free] [Adventure] [Windows]",
+    "description": "Cleanse a corrupted forest",
+    "url": "https://ikinggamedev.itch.io/dr-muntjac",
+    "image": "https://img.itch.zone/aW1nLzI5NzU1NDUyLnBuZw==/315x250%23c/lgGOPF.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 08:33:53 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-09-04T09:13:06Z"
+  },
+  {
+    "id": "https://the-alien01.itch.io/parasite",
+    "source": "itchio",
+    "title": "The Alien Parasite [Free] [Simulation]",
+    "description": "parasite",
+    "url": "https://the-alien01.itch.io/parasite",
+    "image": "https://img.itch.zone/aW1nLzI5NzU1Njc4LmpwZw==/315x250%23c/6Wf3Pi.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 08:21:46 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-09-04T09:13:02Z"
+  },
+  {
+    "id": "https://callbreeze.itch.io/balance-drop",
+    "source": "itchio",
+    "title": "Balance Drop [Free] [Puzzle]",
+    "description": "A simple retro arcade game where you control falling balls to balance them equally between two sides",
+    "url": "https://callbreeze.itch.io/balance-drop",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0NjgwLnBuZw==/315x250%23c/Eevo7R.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 06:24:32 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-09-04T09:12:58Z"
+  },
+  {
+    "id": "https://fullmetalnugget.itch.io/hells-got-talent",
+    "source": "itchio",
+    "title": "Hell's Got Talent [Free] [Puzzle] [Windows]",
+    "description": "",
+    "url": "https://fullmetalnugget.itch.io/hells-got-talent",
+    "image": "https://img.itch.zone/aW1nLzI5NzU1Nzg4LnBuZw==/315x250%23c/b4uWtf.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 08:47:09 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-09-04T09:12:54Z"
+  },
+  {
+    "id": "https://redathestar-source.itch.io/escape-from-enemies",
+    "source": "itchio",
+    "title": "Escape from Enemies [Free] [Fighting]",
+    "description": "",
+    "url": "https://redathestar-source.itch.io/escape-from-enemies",
+    "image": "https://img.itch.zone/aW1nLzI5NzQ1NjcyLnBuZw==/315x250%23c/n1q9aZ.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Thu, 03 Sep 2026 18:13:17 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-09-04T09:12:49Z"
+  },
+  {
+    "id": "https://csaf.itch.io/augur",
+    "source": "itchio",
+    "title": "AUGUR [$6.99] [Shooter]",
+    "description": "A cute&#039;em up where every enemy wears its guns on the outside. Read the ship in the half second before it fires.",
+    "url": "https://csaf.itch.io/augur",
+    "image": "https://img.itch.zone/aW1nLzI5NzU1NTAyLnBuZw==/315x250%23c/kZaL7P.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 08:23:17 GMT",
+    "trailer": "",
+    "platforms": [
+      "html"
+    ],
+    "indexed_at": "2026-09-04T09:12:45Z"
+  },
+  {
+    "id": "https://vishwaa.itch.io/synthetic-escape",
+    "source": "itchio",
+    "title": "Synthetic Escape [Free] [Puzzle] [Windows]",
+    "description": "",
+    "url": "https://vishwaa.itch.io/synthetic-escape",
+    "image": "https://img.itch.zone/aW1nLzI5NzU1NzI3LnBuZw==/315x250%23c/kubiIk.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 08:41:16 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-09-04T09:12:40Z"
+  },
+  {
+    "id": "https://eeldeal.itch.io/fishenroding",
+    "source": "itchio",
+    "title": "FISHENRODING [Free] [Simulation] [Windows]",
+    "description": "EARLY BUILD - comfy fishing game",
+    "url": "https://eeldeal.itch.io/fishenroding",
+    "image": "https://img.itch.zone/aW1nLzI5NzU0NzQyLnBuZw==/315x250%23c/BjErqz.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 08:17:36 GMT",
+    "trailer": "",
+    "platforms": [
+      "windows"
+    ],
+    "indexed_at": "2026-09-04T09:12:36Z"
+  },
+  {
+    "id": "https://rubberduckpotato.itch.io/potato-life",
+    "source": "itchio",
+    "title": "Potato Life [Free] [Simulation]",
+    "description": "potato.",
+    "url": "https://rubberduckpotato.itch.io/potato-life",
+    "image": "https://img.itch.zone/aW1nLzI5NzU1ODg1LmpwZw==/315x250%23c/6Wk6Lg.jpg",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 08:58:26 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-09-04T09:12:32Z"
+  },
+  {
+    "id": "https://leo-shawn.itch.io/neon-rift-survivors",
+    "source": "itchio",
+    "title": "Neon Rift Survivors [$2.99] [Action]",
+    "description": "Survive escalating neon arenas, create powerful upgrade combinations, defeat bosses, and push deeper into the Rift.",
+    "url": "https://leo-shawn.itch.io/neon-rift-survivors",
+    "image": "https://img.itch.zone/aW1nLzI5NzU1ODc0LnBuZw==/315x250%23c/%2BYb8pf.png",
+    "tags": [
+      "indie"
+    ],
+    "developer": "",
+    "release_date": "Fri, 04 Sep 2026 09:01:38 GMT",
+    "trailer": "",
+    "platforms": [],
+    "indexed_at": "2026-09-04T09:12:28Z"
+  },
+  {
     "id": "https://jakerdevs.itch.io/fingers-of-fate-2024-re-uploaded",
     "source": "itchio",
     "title": "Fingers of Fate (2024 Re-Uploaded) [Free] [Fighting]",
